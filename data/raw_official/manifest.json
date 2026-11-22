@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-11-22T20:19:05.614234+00:00",
+  "status": "passed",
+  "stats": {
+    "heroes": 130,
+    "items_total": 112,
+    "items_tier3": 53,
+    "arcana_total": 88,
+    "arcana_tier3": 28,
+    "talents": 9,
+    "enchantment_factions": 4,
+    "enchantment_skills": 31,
+    "patches": 10,
+    "latest_patch": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026",
+    "latest_patch_date": "16.11.2026"
+  },
+  "checksums": {
+    "heroes.json": "dbd2f6c5afb1a93aa6c5fbca07a1fec7e1bf605b4b1dad5c5a1ce9e2fc1b1703",
+    "items.json": "f78d6f9f3876175bb961ab33c55ba412d12b0a286704b7d280af831b670a36cc",
+    "arcana.json": "00e26531158672abde4af60fe02a597f57b998f3e2360bcd12ab0afa2649ba8a",
+    "talents.json": "9cc20538b5a67a02c73c28c8d345161aa9fb6cf31978af57fe6c69bed84ffefe",
+    "enchantments.json": "1be27f40b3bcada366c738d792bf641e8487960d47aa67238aea9f6f48a05a1c",
+    "patches.json": "29de93e95a3a620c22bb8b605f290999436f57a7b2bad62372a69c86d5013e91"
+  },
+  "error_count": 0,
+  "warning_count": 3,
+  "errors": [],
+  "warnings": [
+    "Hero richter skill skill_2 missing name on official site (description present).",
+    "Arcana missing stats on official site (Tier 1): Xanh I Giáp phép",
+    "Arcana missing stats on official site (Tier 1): Xanh I Máu/Hồi chiêu"
+  ]
+}
