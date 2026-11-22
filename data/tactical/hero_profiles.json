@@ -1,0 +1,3639 @@
+{
+  "schema_version": 1,
+  "total_heroes": 130,
+  "curated_count": 0,
+  "profiles": {
+    "evita": {
+      "slug": "evita",
+      "display_name": "Evita",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "evita-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "tamyn": {
+      "slug": "tamyn",
+      "display_name": "Tamyn",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "tamyn-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "flowborn-2": {
+      "slug": "flowborn-2",
+      "display_name": "Flowborn (Pháp sư)",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "sustain",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "flowborn-2-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "flowborn": {
+      "slug": "flowborn",
+      "display_name": "Flowborn (Xạ thủ)",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "flowborn-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "dyadia": {
+      "slug": "dyadia",
+      "display_name": "Dyadia",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "sustain",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "dyadia-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "11596": {
+      "slug": "11596",
+      "display_name": "Edras",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "immune-untargetable",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "11596-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "goverra": {
+      "slug": "goverra",
+      "display_name": "Goverra",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "goverra-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "heino": {
+      "slug": "heino",
+      "display_name": "Heino",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "heino-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "billow": {
+      "slug": "billow",
+      "display_name": "Billow",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Chuẩn",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "true-dmg"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "billow-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "bolt-baron": {
+      "slug": "bolt-baron",
+      "display_name": "Bolt Baron",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "shield",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "bolt-baron-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "biron": {
+      "slug": "biron",
+      "display_name": "Biron",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "shield",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "biron-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "dolia": {
+      "slug": "dolia",
+      "display_name": "Dolia",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Hỗn hợp/Chưa rõ",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "sustain",
+        "reset"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "dolia-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "charlotte": {
+      "slug": "charlotte",
+      "display_name": "Charlotte",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "slow",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "charlotte-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "tachi": {
+      "slug": "tachi",
+      "display_name": "Tachi",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "shield",
+        "sustain",
+        "true-dmg",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "tachi-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "dirak": {
+      "slug": "dirak",
+      "display_name": "Dirak",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "dirak-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "qi": {
+      "slug": "qi",
+      "display_name": "Qi",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "sustain",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "qi-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "erin": {
+      "slug": "erin",
+      "display_name": "Erin",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "sustain",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "erin-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "ming": {
+      "slug": "ming",
+      "display_name": "Ming",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Vật lý/Phép/Chuẩn",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "sustain",
+        "true-dmg",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "ming-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "bijan": {
+      "slug": "bijan",
+      "display_name": "Bijan",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "true-dmg",
+        "immune-untargetable",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "bijan-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "bonnie": {
+      "slug": "bonnie",
+      "display_name": "Bonnie",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "bonnie-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "teeri": {
+      "slug": "teeri",
+      "display_name": "Teeri",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "teeri-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "yue": {
+      "slug": "yue",
+      "display_name": "Yue",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "yue-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "yan": {
+      "slug": "yan",
+      "display_name": "Yan",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "yan-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "aya": {
+      "slug": "aya",
+      "display_name": "Aya",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield",
+        "immune-untargetable",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "aya-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "aoi": {
+      "slug": "aoi",
+      "display_name": "Aoi",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "aoi-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "iggy": {
+      "slug": "iggy",
+      "display_name": "Iggy",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "iggy-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "bright": {
+      "slug": "bright",
+      "display_name": "Bright",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "sustain",
+        "true-dmg",
+        "immune-untargetable",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "bright-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "lorion": {
+      "slug": "lorion",
+      "display_name": "Lorion",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "lorion-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "dextra": {
+      "slug": "dextra",
+      "display_name": "Dextra",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "sustain",
+        "true-dmg",
+        "percent-hp",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "dextra-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "sinestrea": {
+      "slug": "sinestrea",
+      "display_name": "Sinestrea",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "percent-hp",
+        "immune-untargetable",
+        "reset"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "sinestrea-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "thorne": {
+      "slug": "thorne",
+      "display_name": "Thorne",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý/Phép/Chuẩn",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "true-dmg"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "thorne-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "allain": {
+      "slug": "allain",
+      "display_name": "Allain",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "true-dmg",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "allain-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "zata": {
+      "slug": "zata",
+      "display_name": "Zata",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "zata-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "rouie": {
+      "slug": "rouie",
+      "display_name": "Rouie",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "rouie-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "laville": {
+      "slug": "laville",
+      "display_name": "Laville",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "laville-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "paine": {
+      "slug": "paine",
+      "display_name": "Paine",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "paine-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "ata": {
+      "slug": "ata",
+      "display_name": "Ata",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "ata-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "keera": {
+      "slug": "keera",
+      "display_name": "Keera",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "sustain",
+        "immune-untargetable",
+        "stealth"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "keera-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "ishar": {
+      "slug": "ishar",
+      "display_name": "Ishar",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "ishar-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "elandorr": {
+      "slug": "elandorr",
+      "display_name": "Eland’orr",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "elandorr-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "krizzix": {
+      "slug": "krizzix",
+      "display_name": "Krizzix",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield",
+        "shred",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "krizzix-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "volkath": {
+      "slug": "volkath",
+      "display_name": "Volkath",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "shield",
+        "sustain",
+        "immune-untargetable",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "volkath-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "celica": {
+      "slug": "celica",
+      "display_name": "Celica",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "shield",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "celica-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "zip": {
+      "slug": "zip",
+      "display_name": "Zip",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "shield",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "zip-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "enzo": {
+      "slug": "enzo",
+      "display_name": "Enzo",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "enzo-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "yena": {
+      "slug": "yena",
+      "display_name": "Yena",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "yena-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "errol": {
+      "slug": "errol",
+      "display_name": "Errol",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "errol-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "capheny": {
+      "slug": "capheny",
+      "display_name": "Capheny",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "capheny-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "hayate": {
+      "slug": "hayate",
+      "display_name": "Hayate",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "mobility",
+        "true-dmg"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "hayate-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "darcy": {
+      "slug": "darcy",
+      "display_name": "D’Arcy",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "darcy-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "veres": {
+      "slug": "veres",
+      "display_name": "Veres",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "true-dmg",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "veres-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "florentino": {
+      "slug": "florentino",
+      "display_name": "Florentino",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "true-dmg",
+        "immune-untargetable",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "florentino-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "sephera": {
+      "slug": "sephera",
+      "display_name": "Sephera",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "sephera-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "quillen": {
+      "slug": "quillen",
+      "display_name": "Quillen",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "sustain",
+        "stealth",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "quillen-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "wiro": {
+      "slug": "wiro",
+      "display_name": "Wiro",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "wiro-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "richter": {
+      "slug": "richter",
+      "display_name": "Richter",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Phép/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "true-dmg",
+        "percent-hp",
+        "immune-untargetable",
+        "reset"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "richter-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "elsu": {
+      "slug": "elsu",
+      "display_name": "Elsu",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "shred",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "elsu-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "ybneth": {
+      "slug": "ybneth",
+      "display_name": "Y’bneth",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "shield",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "ybneth-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "amily": {
+      "slug": "amily",
+      "display_name": "Amily",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "amily-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "annette": {
+      "slug": "annette",
+      "display_name": "Annette",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield",
+        "sustain",
+        "percent-hp"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "annette-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "baldum": {
+      "slug": "baldum",
+      "display_name": "Baldum",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "percent-hp",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "baldum-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "roxie": {
+      "slug": "roxie",
+      "display_name": "Roxie",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "roxie-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "marja": {
+      "slug": "marja",
+      "display_name": "Marja",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "marja-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "rourke": {
+      "slug": "rourke",
+      "display_name": "Rourke",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "shield",
+        "immune-untargetable",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "rourke-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "arum": {
+      "slug": "arum",
+      "display_name": "Arum",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Phép",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "arum-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "wisp": {
+      "slug": "wisp",
+      "display_name": "Wisp",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "wisp-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "the-flash": {
+      "slug": "the-flash",
+      "display_name": "The Flash",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "shield",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "the-flash-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "max": {
+      "slug": "max",
+      "display_name": "Max",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "shield",
+        "sustain",
+        "true-dmg",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "max-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "liliana": {
+      "slug": "liliana",
+      "display_name": "Liliana",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "liliana-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "tulen": {
+      "slug": "tulen",
+      "display_name": "Tulen",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "tulen-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "omen": {
+      "slug": "omen",
+      "display_name": "Omen",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "true-dmg",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "omen-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "lindis": {
+      "slug": "lindis",
+      "display_name": "Lindis",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "stealth",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "lindis-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "teemee": {
+      "slug": "teemee",
+      "display_name": "TeeMee",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "teemee-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "moren": {
+      "slug": "moren",
+      "display_name": "Moren",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "percent-hp",
+        "immune-untargetable",
+        "stealth"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "moren-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "kilgroth": {
+      "slug": "kilgroth",
+      "display_name": "Kil’Groth",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "sustain",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "kilgroth-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "xeniel": {
+      "slug": "xeniel",
+      "display_name": "Xeniel",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "xeniel-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "wonder-woman": {
+      "slug": "wonder-woman",
+      "display_name": "Wonder Woman",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield",
+        "sustain",
+        "true-dmg",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "wonder-woman-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "superman": {
+      "slug": "superman",
+      "display_name": "Superman",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "superman-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "telannas": {
+      "slug": "telannas",
+      "display_name": "Tel’Annas",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "telannas-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "astrid": {
+      "slug": "astrid",
+      "display_name": "Astrid",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield",
+        "sustain",
+        "true-dmg",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "astrid-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "ryoma": {
+      "slug": "ryoma",
+      "display_name": "Ryoma",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "ryoma-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "stuart": {
+      "slug": "stuart",
+      "display_name": "Stuart",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "stuart-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "arduin": {
+      "slug": "arduin",
+      "display_name": "Arduin",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Phép/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "shield",
+        "sustain",
+        "true-dmg"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "arduin-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "zill": {
+      "slug": "zill",
+      "display_name": "Zill",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "zill-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "murad": {
+      "slug": "murad",
+      "display_name": "Murad",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "murad-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "ignis": {
+      "slug": "ignis",
+      "display_name": "Ignis",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép/Chuẩn",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield",
+        "sustain",
+        "true-dmg"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "ignis-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "zuka": {
+      "slug": "zuka",
+      "display_name": "Zuka",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "shield",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "zuka-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "airi": {
+      "slug": "airi",
+      "display_name": "Airi",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "airi-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "kaine": {
+      "slug": "kaine",
+      "display_name": "Kaine",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "immune-untargetable",
+        "stealth"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "kaine-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "lauriel": {
+      "slug": "lauriel",
+      "display_name": "Lauriel",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép/Chuẩn",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "sustain",
+        "true-dmg"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "lauriel-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "raz": {
+      "slug": "raz",
+      "display_name": "Raz",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "raz-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "skud": {
+      "slug": "skud",
+      "display_name": "Skud",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "skud-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "preyta": {
+      "slug": "preyta",
+      "display_name": "Preyta",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "preyta-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "ilumia": {
+      "slug": "ilumia",
+      "display_name": "Ilumia",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "reset",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "ilumia-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "slimz": {
+      "slug": "slimz",
+      "display_name": "Slimz",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "true-dmg"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "slimz-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "arthur": {
+      "slug": "arthur",
+      "display_name": "Arthur",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "shield",
+        "sustain",
+        "percent-hp"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "arthur-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "kriknak": {
+      "slug": "kriknak",
+      "display_name": "Kriknak",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "mobility",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "kriknak-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "ngo-khong": {
+      "slug": "ngo-khong",
+      "display_name": "Ngộ Không",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "stealth"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "ngo-khong-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "maloch": {
+      "slug": "maloch",
+      "display_name": "Maloch",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "shield",
+        "sustain",
+        "true-dmg"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "maloch-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "helen": {
+      "slug": "helen",
+      "display_name": "Helen",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "helen-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "jinna": {
+      "slug": "jinna",
+      "display_name": "Jinna",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "jinna-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "cresht": {
+      "slug": "cresht",
+      "display_name": "Cresht",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "cresht-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "natalya": {
+      "slug": "natalya",
+      "display_name": "Natalya",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "shield",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "natalya-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "lumburr": {
+      "slug": "lumburr",
+      "display_name": "Lumburr",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "slow",
+        "shield"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "lumburr-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "fennik": {
+      "slug": "fennik",
+      "display_name": "Fennik",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "immune-untargetable",
+        "vision"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "fennik-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "aleister": {
+      "slug": "aleister",
+      "display_name": "Aleister",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép/Chuẩn",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "true-dmg"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "aleister-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "grakk": {
+      "slug": "grakk",
+      "display_name": "Grakk",
+      "roles": [
+        "Đỡ đòn",
+        "Trợ thủ"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Phép",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "shield"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "grakk-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "nakroth": {
+      "slug": "nakroth",
+      "display_name": "Nakroth",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "nakroth-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "taara": {
+      "slug": "taara",
+      "display_name": "Taara",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "percent-hp"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "taara-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "toro": {
+      "slug": "toro",
+      "display_name": "Toro",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "shield",
+        "sustain",
+        "percent-hp",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "toro-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "yorn": {
+      "slug": "yorn",
+      "display_name": "Yorn",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý/Phép/Chuẩn",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "true-dmg",
+        "percent-hp"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "yorn-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "gildur": {
+      "slug": "gildur",
+      "display_name": "Gildur",
+      "roles": [
+        "Pháp sư",
+        "Trợ thủ"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "shield"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "gildur-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "alice": {
+      "slug": "alice",
+      "display_name": "Alice",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "shield",
+        "shred"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "alice-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "azzenka": {
+      "slug": "azzenka",
+      "display_name": "Azzen’Ka",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "azzenka-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "ormarr": {
+      "slug": "ormarr",
+      "display_name": "Ormarr",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "mobility",
+        "percent-hp"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "ormarr-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "butterfly": {
+      "slug": "butterfly",
+      "display_name": "Butterfly",
+      "roles": [
+        "Sát thủ"
+      ],
+      "primary_role": "Sát thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "slow",
+        "mobility",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "butterfly-default",
+          "name": "Chuẩn (Sát thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "violet": {
+      "slug": "violet",
+      "display_name": "Violet",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Vật lý",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "percent-hp"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "violet-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "chaugnar": {
+      "slug": "chaugnar",
+      "display_name": "Chaugnar",
+      "roles": [
+        "Trợ thủ"
+      ],
+      "primary_role": "Trợ thủ",
+      "damage_type": "Phép",
+      "durability_class": "bruiser-or-squishy",
+      "range_class": "mixed",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "chaugnar-default",
+          "name": "Chuẩn (Trợ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "dieu-thuyen": {
+      "slug": "dieu-thuyen",
+      "display_name": "Điêu Thuyền",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "shield"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "dieu-thuyen-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "zephys": {
+      "slug": "zephys",
+      "display_name": "Zephys",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Phép",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "slow",
+        "sustain",
+        "percent-hp",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "zephys-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "kahlii": {
+      "slug": "kahlii",
+      "display_name": "Kahlii",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "kahlii-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "omega": {
+      "slug": "omega",
+      "display_name": "Omega",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility",
+        "true-dmg"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "omega-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "trieu-van": {
+      "slug": "trieu-van",
+      "display_name": "Triệu Vân",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "sustain",
+        "true-dmg",
+        "percent-hp",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "trieu-van-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "mganga": {
+      "slug": "mganga",
+      "display_name": "Mganga",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "slow",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "mganga-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "krixi": {
+      "slug": "krixi",
+      "display_name": "Krixi",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "krixi-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "mina": {
+      "slug": "mina",
+      "display_name": "Mina",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "mina-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "lu-bo": {
+      "slug": "lu-bo",
+      "display_name": "Lữ Bố",
+      "roles": [
+        "Đấu sĩ"
+      ],
+      "primary_role": "Đấu sĩ",
+      "damage_type": "Vật lý",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "sustain"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "lu-bo-default",
+          "name": "Chuẩn (Đấu sĩ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "veera": {
+      "slug": "veera",
+      "display_name": "Veera",
+      "roles": [
+        "Pháp sư"
+      ],
+      "primary_role": "Pháp sư",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "veera-default",
+          "name": "Chuẩn (Pháp sư)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "thane": {
+      "slug": "thane",
+      "display_name": "Thane",
+      "roles": [
+        "Đỡ đòn"
+      ],
+      "primary_role": "Đỡ đòn",
+      "damage_type": "Vật lý/Chuẩn",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "auto_mechanics": [
+        "hard-cc",
+        "slow",
+        "true-dmg",
+        "percent-hp",
+        "immune-untargetable"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "thane-default",
+          "name": "Chuẩn (Đỡ đòn)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    },
+    "valhein": {
+      "slug": "valhein",
+      "display_name": "Valhein",
+      "roles": [
+        "Xạ thủ"
+      ],
+      "primary_role": "Xạ thủ",
+      "damage_type": "Phép",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "auto_mechanics": [
+        "hard-cc",
+        "mobility"
+      ],
+      "curated": false,
+      "archetypes": [
+        {
+          "id": "valhein-default",
+          "name": "Chuẩn (Xạ thủ)",
+          "power_curve": null,
+          "power_spikes": [],
+          "gameplan_by_phase": {}
+        }
+      ],
+      "coach_notes": ""
+    }
+  }
+}

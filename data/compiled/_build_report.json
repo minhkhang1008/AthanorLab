@@ -1,0 +1,126 @@
+{
+  "compiled_files": [
+    {
+      "file": "arcana_t3.md",
+      "chars": 1875,
+      "approx_tokens": 585
+    },
+    {
+      "file": "battlefield_rules.md",
+      "chars": 1557,
+      "approx_tokens": 486
+    },
+    {
+      "file": "counter_items_matrix.md",
+      "chars": 3687,
+      "approx_tokens": 1152
+    },
+    {
+      "file": "data_manifest.md",
+      "chars": 907,
+      "approx_tokens": 283
+    },
+    {
+      "file": "draft_archetypes.md",
+      "chars": 2181,
+      "approx_tokens": 681
+    },
+    {
+      "file": "enchantments.md",
+      "chars": 4409,
+      "approx_tokens": 1377
+    },
+    {
+      "file": "heroes/dau-si.md",
+      "chars": 51489,
+      "approx_tokens": 16090
+    },
+    {
+      "file": "heroes/do-don.md",
+      "chars": 15815,
+      "approx_tokens": 4942
+    },
+    {
+      "file": "heroes/phap-su.md",
+      "chars": 44840,
+      "approx_tokens": 14012
+    },
+    {
+      "file": "heroes/sat-thu.md",
+      "chars": 18183,
+      "approx_tokens": 5682
+    },
+    {
+      "file": "heroes/tro-thu.md",
+      "chars": 19148,
+      "approx_tokens": 5983
+    },
+    {
+      "file": "heroes/xa-thu.md",
+      "chars": 26779,
+      "approx_tokens": 8368
+    },
+    {
+      "file": "heroes_index.md",
+      "chars": 16741,
+      "approx_tokens": 5231
+    },
+    {
+      "file": "items_components.md",
+      "chars": 14318,
+      "approx_tokens": 4474
+    },
+    {
+      "file": "items_tier3.md",
+      "chars": 22803,
+      "approx_tokens": 7125
+    },
+    {
+      "file": "patch_history_index.md",
+      "chars": 2048,
+      "approx_tokens": 640
+    },
+    {
+      "file": "patches_latest.md",
+      "chars": 43618,
+      "approx_tokens": 13630
+    },
+    {
+      "file": "talents.md",
+      "chars": 1383,
+      "approx_tokens": 432
+    }
+  ],
+  "skill_packages": {
+    "aov-data-lookup": {
+      "files": 14,
+      "chars": 282308,
+      "approx_tokens_if_all_loaded": 88221
+    },
+    "aov-draft-coach": {
+      "files": 4,
+      "chars": 63447,
+      "approx_tokens_if_all_loaded": 19827
+    },
+    "aov-build-coach": {
+      "files": 8,
+      "chars": 93000,
+      "approx_tokens_if_all_loaded": 29062
+    },
+    "aov-gameplay-coach": {
+      "files": 10,
+      "chars": 239077,
+      "approx_tokens_if_all_loaded": 74711
+    },
+    "aov-patch-analyst": {
+      "files": 3,
+      "chars": 46573,
+      "approx_tokens_if_all_loaded": 14554
+    },
+    "aov-sync-maintainer": {
+      "files": 2,
+      "chars": 2955,
+      "approx_tokens_if_all_loaded": 923
+    }
+  }
+}

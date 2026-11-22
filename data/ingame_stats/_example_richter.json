@@ -1,0 +1,21 @@
+{
+  "_comment": "Rename to <slug>.json (e.g. richter.json) to inject verified in-game stats captured from client screenshots. Files starting with '_' are ignored by compiler.",
+  "slug": "richter",
+  "captured_patch": "17.11.2026",
+  "source": "in-game client screenshot",
+  "base_stats": {
+    "hp_lv1": null,
+    "phys_atk_lv1": null,
+    "armor_lv1": null,
+    "magic_def_lv1": null,
+    "move_speed": null,
+    "attack_range": "melee",
+    "resource": "Không tốn năng lượng"
+  },
+  "skill_overrides": {
+    "skill_2": {
+      "name": "Công thủ toàn diện",
+      "notes": "Bổ sung tên chiêu bị bỏ trống trên web chính thức Garena."
+    }
+  }
+}
