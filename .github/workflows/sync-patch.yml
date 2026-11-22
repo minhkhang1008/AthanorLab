@@ -1,0 +1,60 @@
+name: Sync Official AoV Data & Compile Skills
+
+on:
+  schedule:
+    # 03:00 UTC (10:00 AM GMT+7) every Tuesday and Friday
+    - cron: "0 3 * * 2,5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout AthanorLab
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape & Validate Official Garena Data
+        run: python -m scraper.run_all --refresh --delay 0.6
+
+      - name: Compile Skill References
+        run: python -m compiler.build_all
+
+      - name: Check for meaningful data changes
+        id: diff
+        run: |
+          # Ignore timestamp-only changes in manifest/json if checksums did not change
+          if git diff --quiet -- data/compiled/ skills/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create Pull Request on Changes
+        if: steps.diff.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore(data): sync latest lienquan.garena.vn patch & recompile skills"
+          branch: bot/sync-official-aov-data
+          delete-branch: true
+          title: "chore(data): Sync official AoV patch & recompile skills"
+          body: |
+            Automated sync from `https://lienquan.garena.vn/hoc-vien/` and `/cap-nhat/`.
+
+            ### Review Checklist
+            - [ ] Check `data/raw_official/manifest.json` (`status: passed`, `error_count: 0`)
+            - [ ] Review new patch entries in `data/compiled/patches_latest.md`
+            - [ ] Update `data/tactical/hero_profiles.json` if any curated hero was heavily buffed/nerfed/reworked

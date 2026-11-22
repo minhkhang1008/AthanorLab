@@ -59,7 +59,7 @@ SKILL_REFERENCE_MATRIX: dict[str, list[str]] = {
         "data_manifest.md",
         "heroes_index.md",
         "draft_archetypes.md",
-        "patches_latest.md",
+        "patches_coaching.md",
     ],
     "aov-build-coach": [
         "data_manifest.md",
@@ -69,14 +69,14 @@ SKILL_REFERENCE_MATRIX: dict[str, list[str]] = {
         "talents.md",
         "enchantments.md",
         "counter_items_matrix.md",
-        "patches_latest.md",
+        "patches_coaching.md",
     ],
     "aov-gameplay-coach": [
         "data_manifest.md",
         "heroes_index.md",
         "heroes",
         "battlefield_rules.md",
-        "patches_latest.md",
+        "patches_coaching.md",
     ],
     "aov-patch-analyst": [
         "data_manifest.md",
@@ -206,7 +206,13 @@ def build_heroes_docs(
         slug = h["slug"]
         prof = profiles.get(slug, {})
         primary_role = h["primary_role"]
-        shard_file = ROLE_FILE_MAP.get(primary_role, "khac.md")
+        base_shard = ROLE_FILE_MAP.get(primary_role, "khac.md")
+        if base_shard in {"dau-si.md", "phap-su.md"}:
+            first_char = norm_key(h["display_name"])[:1] or "a"
+            stem = base_shard[:-3]
+            shard_file = f"{stem}-a-l.md" if first_char <= "l" else f"{stem}-m-z.md"
+        else:
+            shard_file = base_shard
         roles_str = "/".join(h["roles"])
         dmg_type = prof.get("damage_type", "Chưa rõ")
         mechanics = ", ".join(prof.get("auto_mechanics", [])) or "-"
@@ -400,6 +406,49 @@ def build_patches_docs(patches_data: dict[str, Any], latest_n: int = 4) -> tuple
     return "\n".join(latest_lines) + "\n", "\n".join(hist_lines) + "\n"
 
 
+# Announcement-only subsections that are not balance changes (events, skins, promos).
+EVENT_SUB_MARKERS: tuple[str, ...] = (
+    "sự kiện",
+    "trang phục",
+    "hẹn gặp",
+    "bình chọn",
+    "hợp tác thương hiệu",
+    "nhận thưởng",
+    "mở bán",
+    "ưu đãi",
+)
+
+
+def build_patches_coaching_md(patches_data: dict[str, Any], top_n: int = 2) -> str:
+    """Compact patch digest for coaching skills: newest N patches, balance only."""
+    patches = patches_data["patches"][:top_n]
+    lines = [
+        f"# Tóm tắt {len(patches)} Bản Cập nhật Cân bằng Mới nhất (Cho Coaching Thực chiến)",
+        "",
+        "> Chỉ giữ Cân bằng Tướng / Trang bị / Chiến trường / Phù hiệu / Phụ trợ. Đã lược mục Sửa lỗi & Sự kiện.",
+        "",
+    ]
+    for p in patches:
+        lines.append(f"## {p['title']} (`{p['published_date']}`)")
+        for sec in p.get("sections", []):
+            if not sec.get("is_gameplay_relevant"):
+                continue
+            if any(skip in sec["heading"].lower() for skip in ("sửa lỗi", "tối ưu")):
+                continue
+            lines.append(f"### {sec['heading']}")
+            for line in sec.get("intro_lines", []):
+                lines.append(line)
+            for sub in sec.get("subsections", []):
+                if any(marker in sub["heading"].lower() for marker in EVENT_SUB_MARKERS):
+                    continue
+                lines.append(f"#### {sub['heading']}")
+                for line in sub.get("lines", []):
+                    lines.append(line)
+                lines.append("")
+        lines.append("---\n")
+    return "\n".join(lines) + "\n"
+
+
 def approx_tokens(text: str) -> int:
     # Conservative estimate for Vietnamese Markdown (~3.2 chars/token)
     return max(1, int(len(text) / 3.2))
@@ -479,6 +528,7 @@ def compile_all() -> None:
     patches_latest_md, patch_hist_md = build_patches_docs(patches_data, latest_n=4)
     outputs[COMPILED_DIR / "patches_latest.md"] = patches_latest_md
     outputs[COMPILED_DIR / "patch_history_index.md"] = patch_hist_md
+    outputs[COMPILED_DIR / "patches_coaching.md"] = build_patches_coaching_md(patches_data, top_n=2)
 
     # Copy curated static tactical guides into compiled/
     for static_name in ("counter_items_matrix.md", "draft_archetypes.md", "battlefield_rules.md"):

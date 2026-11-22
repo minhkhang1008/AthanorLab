@@ -31,9 +31,14 @@
       "approx_tokens": 1377
     },
     {
-      "file": "heroes/dau-si.md",
-      "chars": 51489,
-      "approx_tokens": 16090
+      "file": "heroes/dau-si-a-l.md",
+      "chars": 22739,
+      "approx_tokens": 7105
+    },
+    {
+      "file": "heroes/dau-si-m-z.md",
+      "chars": 28783,
+      "approx_tokens": 8994
     },
     {
       "file": "heroes/do-don.md",
@@ -41,9 +46,14 @@
       "approx_tokens": 4942
     },
     {
-      "file": "heroes/phap-su.md",
-      "chars": 44840,
-      "approx_tokens": 14012
+      "file": "heroes/phap-su-a-l.md",
+      "chars": 31591,
+      "approx_tokens": 9872
+    },
+    {
+      "file": "heroes/phap-su-m-z.md",
+      "chars": 13281,
+      "approx_tokens": 4150
     },
     {
       "file": "heroes/sat-thu.md",
@@ -62,8 +72,8 @@
     },
     {
       "file": "heroes_index.md",
-      "chars": 16741,
-      "approx_tokens": 5231
+      "chars": 17013,
+      "approx_tokens": 5316
     },
     {
       "file": "items_components.md",
@@ -81,6 +91,11 @@
       "approx_tokens": 640
     },
     {
+      "file": "patches_coaching.md",
+      "chars": 11129,
+      "approx_tokens": 3477
+    },
+    {
       "file": "patches_latest.md",
       "chars": 43618,
       "approx_tokens": 13630
@@ -93,24 +108,24 @@
   ],
   "skill_packages": {
     "aov-data-lookup": {
-      "files": 14,
-      "chars": 282308,
-      "approx_tokens_if_all_loaded": 88221
+      "files": 16,
+      "chars": 282645,
+      "approx_tokens_if_all_loaded": 88326
     },
     "aov-draft-coach": {
       "files": 4,
-      "chars": 63447,
-      "approx_tokens_if_all_loaded": 19827
+      "chars": 31230,
+      "approx_tokens_if_all_loaded": 9759
     },
     "aov-build-coach": {
       "files": 8,
-      "chars": 93000,
-      "approx_tokens_if_all_loaded": 29062
+      "chars": 60511,
+      "approx_tokens_if_all_loaded": 18909
     },
     "aov-gameplay-coach": {
-      "files": 10,
-      "chars": 239077,
-      "approx_tokens_if_all_loaded": 74711
+      "files": 12,
+      "chars": 206925,
+      "approx_tokens_if_all_loaded": 64664
     },
     "aov-patch-analyst": {
       "files": 3,
