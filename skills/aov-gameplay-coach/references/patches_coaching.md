@@ -3,7 +3,7 @@
 > Chỉ giữ Cân bằng Tướng / Trang bị / Chiến trường / Phù hiệu / Phụ trợ. Đã lược mục Sửa lỗi & Sự kiện.
 
 ## ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026 (`16.11.2026`)
-### TỔNG QUAN
+### CÂN BẰNG TƯỚNG
 #### Butterfly
 Lý do chỉnh sửa:
 “Trong lần điều chỉnh này, chúng tôi đã tối ưu hiệu ứng hình ảnh của Butterfly giúp hiển thị rõ ràng hơn một số cơ chế gây sát thương trước đây còn quá khó nhận biết của cô ấy. Bên cạnh đó, cơ chế hồi máu của chiêu cuối cũng được tối ưu thành hồi máu tức thì nhằm cân bằng trải nghiệm chơi của Butterfly trong các trận đấu dù đang thuận lợi hay bất lợi. “
@@ -52,17 +52,13 @@ Lý do chỉnh sửa:
 Chỉnh cụ thể:
 - Nội tại: ST gốc: 150~300(+1.0 Công vật lý)(+0.3 Công phép) ST Phép → 140~280(+1.0 Công vật lý)(+0.25 Công phép) ST Phép.
 - Chiêu 2: ST kéo dài: 640(+128/cấp chiêu)(+0.95 Công phép) ST Phép → 540(+108/cấp chiêu)(+1.0 Công phép) ST Phép
-| ĐIỀU CHỈNH CHIẾN TRƯỜNG |
-| --- |
-Kỹ năng Triệu hồi King Kong: Chu kỳ kích hoạt Bùa lợi: 9s → 4.5s Triệu hồi King Kong hỗ trợ làm chậm: 15% → 50% Kỹ năng Triệu hồi King Kong hắc ám: Chu kỳ kích hoạt Bùa lợi: 6s → 3s Triệu hồi King Kong hỗ trợ làm chậm: 15% → 50% Caesar tiên phong bạo chúa: Tăng Công vật lý gốc của Caesar tiên phong bạo chúa để tránh tình trạng khi Hạ BOSS cuối, Caesar tiên phong bạo chúa không thể thắng được Lính Thuộc tính lính: Tăng nhẹ Máu và Tốc đánh của Lính sau phút 20 Kỹ năng phụ trợ Ma chủng hắc ám ST gốc: 280(+20/cấp tướng) → 350(+25/cấp tướng) Lá chắn: 280(+20/cấp tướng) → 350(+25/cấp tướng)
-| SỬA LỖI VÀ TỐI ƯU |
-| --- |
-Sửa lỗi khi Lướt ván Slime va vào Quái rừng thỉnh thoảng bị giật khiến game đứng hình vài giây và hồi chiêu lướt ván bị Làm mới bất thường. Sửa lỗi tốc độ Lướt ván Slime bất thường. Sửa lỗi Lướt ván Slime vẫn dùng được ván trượt ở ngoài Tế đàn. Sửa lỗi 3 trang phục Hợp tác thương hiệu Slime không tàng hình bình thường khi được Chiêu cuối của Krizzix bao phủ dẫn đến hiển thị bóng đen bất thường. Sửa lỗi hiệu ứng hoạt ảnh bất thường khi Lướt ván Slime và phát nhầm hoạt ảnh biến về. Sửa lỗi biểu tượng nút Lướt ván Slime bị sai. Sửa lỗi mô hình một số trang phục bị sai khi dùng Lướt ván Slime (gồm toàn bộ trang phục của Preyta, Sephera NoVa Stardust, Bolt Baron Thiên Phủ Tư Mệnh, Bolt Baron Veldora Tempest, Aoi Aoi Mikasa Ackermann, Billow Okarun). Sửa lỗi Lorion dùng lướt ván cơ chế mùa mùa bị kẹt không tung ra được Chiêu 1. Sửa lỗi sau khi Lorion lên ván trượt, dùng Chiêu 1 nối Chiêu 2 hoặc dùng thẳng Chiêu 2 đều không kích hoạt được đòn sét giật tự động mỗi giây khi lôi cầu trong cơ thể dẫn đến không gây được sát thương và không được hồi máu. Sửa lỗi Rouie dùng Chiêu 2/3 trong Cổng dịch chuyển đường trên, dịch chuyển về nhà rồi dùng Chiêu 3 quay lại Cổng dịch chuyển thì có thể dùng lướt ván ngoài tế đàn. Sửa lỗi Murad dùng Chiêu 1 (đợt 1) trong Cổng dịch chuyển Đường trên về nhà bằng Cổng dịch chuyển rồi dùng Chiêu 1 quay lại Cổng dịch chuyển thì có thể dùng lướt ván ngoài Tế đàn. Sửa lỗi khi dùng Erin, tướng đột ngột bị hạ dù máu đầy và chưa nhận sát thương chí tử. Tối ưu hiệu ứng S1 của Evita và hiệu ứng ma vật tấn công khi cô tung S3. Sửa lỗi Murad Biến về khi chưa đầy máu kích hoạt bất thường hành vi chạm vạch đỏ Biến về (bị hệ thống phán định Biến về troll game). Sửa lỗi âm thanh bất thường khi Dyadia và Stuart cùng xuất hiện trong một trận đấu. Sửa lỗi trang phục Hayate Thứ nguyên vệ thần dạng lửa khi tốc đánh quá 75% sẽ dẫn đến tòa nhà đỏ biến mất. Tối ưu vấn đề khi phe địch dùng tính năng chia sẻ trang phục lính, giao diện phe ta bị lỗi vỡ hình (chỉ hiển thị vòng tròn, thiếu biểu tượng)
 
+### ĐIỀU CHỈNH CHIẾN TRƯỜNG
+Kỹ năng Triệu hồi King Kong: Chu kỳ kích hoạt Bùa lợi: 9s → 4.5s Triệu hồi King Kong hỗ trợ làm chậm: 15% → 50% Kỹ năng Triệu hồi King Kong hắc ám: Chu kỳ kích hoạt Bùa lợi: 6s → 3s Triệu hồi King Kong hỗ trợ làm chậm: 15% → 50% Caesar tiên phong bạo chúa: Tăng Công vật lý gốc của Caesar tiên phong bạo chúa để tránh tình trạng khi Hạ BOSS cuối, Caesar tiên phong bạo chúa không thể thắng được Lính Thuộc tính lính: Tăng nhẹ Máu và Tốc đánh của Lính sau phút 20 Kỹ năng phụ trợ Ma chủng hắc ám ST gốc: 280(+20/cấp tướng) → 350(+25/cấp tướng) Lá chắn: 280(+20/cấp tướng) → 350(+25/cấp tướng)
 ---
 
 ## ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 30.10.2026 (`29.10.2026`)
-### TỔNG QUAN
+### CÂN BẰNG TƯỚNG
 #### Keera
 Lý do chỉnh sửa:
 “Giảm hồi chiêu Chiêu 1 của Keera và tăng vừa phải sát thương Chiêu 2. “
@@ -114,9 +110,6 @@ Chỉnh cụ thể:
 - Chiêu 1: ST gốc: 325 (+65/cấp chiêu) (+0.65 Công phép) ST Phép → 300(+60/cấp chiêu)(+0.6 Công phép) ST Phép
 - Chiêu 3: ST gốc: 36(+18/cấp chiêu)(+0.07 Công phép) ST Phép → 30(+15/cấp chiêu)(+0.06 Công phép) ST Phép
 - Hồi chiêu: 50s (-5s/cấp chiêu) → 55s (-5s/cấp chiêu)
-| SỬA LỖI VÀ TỐI ƯU |
-| --- |
-Sửa lỗi bản thân bị lộ diện sớm khi sử dụng Vô Ảnh Tiễn sau khi đánh thường trúng tướng địch trong lúc đang mang Bùa đỏ. Sửa lỗi đôi khi hiệu ứng đánh thường cường hóa của trang phục Billow hiển thị bất thường khi Billow phe địch đánh thường. Tối ưu hiển thị biệt danh tiếng Trung và tiếng Anh trong danh sách bạn bè, khắc phục tình trạng kích thước chữ không đồng đều khi thay đổi cỡ chữ hoặc bật in đậm. Tối ưu hiển thị Banner ở lối vào Trung tâm sự kiện để hình không bị cắt. Tối ưu kích thước biểu tượng tín hiệu ở góc trên bên phải giao diện ghép trận. Sửa lỗi biểu tượng Lực chiến hiển thị bất thường trên BXH Lực chiến. Sửa lỗi văn bản trên Thẻ thử trang phục bị chồng lên nhau khi sử dụng thẻ ở giao diện chọn tướng trong trận. Sửa lỗi hiệu ứng động của trang phục khác xuất hiện khi chỉnh sửa hình ảnh tùy chỉnh của Flowborn. Sửa lỗi đôi khi giao diện phía dưới Sảnh biến mất trong một số tình huống. Sửa lỗi đôi khi Sảnh bị đơ không thể thao tác sau khi người chơi nhấn BXH hoặc danh sách bạn bè ở Sảnh rồi nhanh chóng vào trang Đấu hạng và thoát ra. Sửa lỗi Liliana bị cảnh báo bất thường “lên trang bị troll” (đã sửa lỗi khẩn cấp vào 23/10). Sửa lỗi điểm kết thúc trận Evita bất thường. Sửa lỗi vị trí thực tế của boss xuất hiện lúc phút 20 không khớp với vị trí ảnh đại diện trên bản đồ nhỏ.
 
 ---
 

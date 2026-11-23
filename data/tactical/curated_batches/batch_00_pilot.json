@@ -1,0 +1,109 @@
+{
+  "batch_name": "Pilot Calibration (Official Verified Kits)",
+  "notes": "Drafted from official Garena skill text; review power_curve values against live Vietnam Ranked meta.",
+  "heroes": [
+    {
+      "slug": "evita",
+      "durability_class": "squishy",
+      "range_class": "mid-ranged",
+      "coach_notes": "Pháp sư kiểm soát khu vực và cấu rỉa/giảm giáp phép liên tục bằng Ma vật hỗn mang; có lá chắn từ nội tại và chiêu cuối nhưng vẫn thiếu chiêu lướt thoát thân trực diện.",
+      "archetypes": [
+        {
+          "id": "evita-control-dps",
+          "name": "Evita Pháp sư Kiểm soát & Đốt giao tranh",
+          "power_curve": { "early": 3, "mid": 4.5, "late": 4 },
+          "power_spikes": [
+            "Cấp 4 (có Triệu hồi hắc ám giảm giáp phép + đẩy nhanh tích Ma lực)",
+            "Đủ 2 món phép lõi (giảm hồi chiêu + xuyên giáp/cấu rỉa)"
+          ],
+          "gameplan_by_phase": {
+            "early": "Dọn lính bằng Bộc phá hắc ám, tận dụng Ma lực hắc ám tích đầy để cấu máu có lá chắn; giữ Quyền lực hắc ám chặn góc lao vào vì chiêu có độ trễ.",
+            "mid": "Đi cùng Trợ thủ/Rừng kiểm soát mục tiêu hẹp; thả Triệu hồi hắc ám sớm để giảm giáp phép dàn chắn địch và nhận lá chắn giao tranh kéo dài.",
+            "late": "Đứng tuyến sau khép góc bằng vùng hất tung trung tâm của Quyền lực hắc ám; luôn chừa phương án Cầu băng sương/Tốc biến chống sát thủ."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "flowborn",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "coach_notes": "Biến thể Xạ thủ (slug: flowborn). Điểm độc nhất là có thể đổi 1 trong 4 nhánh cường hóa tại tế đàn (Sinh mệnh / Xuyên phá - Công vật lý / Gia Tốc / Tĩnh tâm) tùy thế trận và chênh lệch vàng.",
+      "archetypes": [
+        {
+          "id": "flowborn-ad-adaptive",
+          "name": "Flowborn Xạ thủ (Đòn đánh xuyên & Thích ứng tế đàn)",
+          "power_curve": { "early": 3, "mid": 4, "late": 4.5 },
+          "power_spikes": [
+            "Món tốc đánh/chí mạng đầu tiên + đòn đánh thường cường hóa xuyên mục tiêu",
+            "Đủ 3 món sát thương + xuyên giáp cuối trận"
+          ],
+          "gameplan_by_phase": {
+            "early": "Chọn nhánh Xuyên phá (Công vật lý) khi kèo đi đường thuận lợi, hoặc Sinh mệnh/Gia Tốc khi bị ép hoặc cần né chiêu định hướng; tận dụng nỏ tiễn xuyên vừa cấu địch vừa dọn lính.",
+            "mid": "Đẩy trụ nhanh và giữ góc bắn xuyên nhiều mục tiêu trong giao tranh hang Rồng/Caesar.",
+            "late": "Giữ vị trí bắn mục tiêu gần nhất để nỏ tiễn xuyên ra tuyến sau; nếu đang thọt hoặc địch có sát thủ sốc sát thương mạnh, ưu tiên đổi cường hóa Sinh mệnh + lên sớm đồ bảo mệnh."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "flowborn-2",
+      "durability_class": "squishy",
+      "range_class": "mid-ranged",
+      "coach_notes": "Biến thể Pháp sư (slug: flowborn-2). Nhận công phép tăng dần theo cấp tướng ngay từ nội tại và chọn 1 trong 4 cường hóa tại tế đàn (Sinh mệnh / Xuyên phá - Xuyên giáp phép / Gia tốc / Tĩnh tâm).",
+      "archetypes": [
+        {
+          "id": "flowborn-ap-scaling",
+          "name": "Flowborn Pháp sư (Tăng tiến theo cấp & Dồn pháp trận)",
+          "power_curve": { "early": 3, "mid": 4, "late": 4.5 },
+          "power_spikes": [
+            "Cấp 4 (đủ bộ Dòng chảy pháp trận + Dòng chảy hủy diệt)",
+            "Cấp 12+ kết hợp 2-3 món công phép (cộng hưởng công phép theo cấp từ nội tại)"
+          ],
+          "gameplan_by_phase": {
+            "early": "Đẩy lính nhanh để lên cấp đều nhằm khai thác nội tại tăng công phép theo cấp; chọn Tĩnh tâm (giảm hồi chiêu) hoặc Gia tốc để đảo đường sớm.",
+            "mid": "Chuyển cường hóa sang Xuyên phá (Xuyên giáp phép) khi địch bắt đầu đóng Giày kiên cường/kháng phép; dồn combo trong giao tranh tổng.",
+            "late": "Tối ưu lượng sát thương diện rộng từ tuyến sau; cân nhắc đổi nhánh Sinh mệnh nếu cần sống sót qua nhịp lao vào đầu tiên."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "richter",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "coach_notes": "Đấu sĩ/Trợ thủ biến ảo theo địa hình (Bụi cỏ: hất tung/tốc đánh; Sông: tăng tầm lướt/tốc chạy; Đường: miễn thương/hất tung + % máu). Lưu ý có chỉnh sửa Chiêu 1 và Chiêu 3 ở bản vá 17.11.2026 - luôn đối chiếu patches_coaching.md.",
+      "archetypes": [
+        {
+          "id": "richter-dsl-assassin-bruiser",
+          "name": "Richter Đường Tà Thần (Áp sát & Bắt chủ lực)",
+          "power_curve": { "early": 4.5, "mid": 4.5, "late": 3 },
+          "power_spikes": [
+            "Cấp 1-2 (lợi thế Gươm bụi cỏ hất tung + hồi ngay Chiêu 1 khi trúng địch)",
+            "Cấp 4 (có Vùng diệt quỷ gây sát thương chuẩn + câm lặng sau 5 nhịp)",
+            "Món xuyên giáp đầu tiên (đủ dồn chết chủ lực máu giấy)"
+          ],
+          "gameplan_by_phase": {
+            "early": "Chiếm bụi cỏ từ giây đầu để giữ Gươm xanh lá hất tung trao đổi chiêu thắng cấp 1-2; đẩy lính nhanh rồi đi sông tận dụng tốc chạy đảo gank Mid.",
+            "mid": "Chủ động phục kích bụi cỏ bắt chủ lực địch di chuyển lẻ; giữ ít nhất 1 cộng dồn Chiêu 2 miễn nhiễm 0.75s để chặn khống chế cứng hoặc thoát ra sau combo.",
+            "late": "Không mở giao tranh chính diện vào dàn chắn nếu thiếu đồ thủ; đánh bọc hậu từ bụi cỏ ép Tốc biến/Cầu băng sương của Xạ thủ và Pháp sư địch."
+          }
+        },
+        {
+          "id": "richter-roam-support",
+          "name": "Richter Trợ thủ Đảo gank & Check bụi",
+          "power_curve": { "early": 4.5, "mid": 4, "late": 2.5 },
+          "power_spikes": [
+            "Cấp 2 (2 cộng dồn Chiêu 2 check bụi an toàn + hất tung bụi cỏ)",
+            "Giày + đồ Trợ thủ đầu tiên (tốc độ di chuyển sông cực nhanh)"
+          ],
+          "gameplan_by_phase": {
+            "early": "Quấy rối rừng địch và kiểm soát tầm nhìn sông liên tục nhờ nội tại tăng tốc chạy; dùng Chiêu 2 câu khống chế của địch.",
+            "mid": "Khởi xướng pha bắt lẻ 2v1 hoặc 3v2 cùng Rừng/Mid, tạo khoảng trống ép trụ ngoài.",
+            "late": "Đóng vai trò phá đội hình/câu chiêu mở góc rồi rút bằng Chiêu 2, nhường vai trò gây sát thương chính cho Xạ thủ và Mid."
+          }
+        }
+      ]
+    }
+  ]
+}

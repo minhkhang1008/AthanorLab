@@ -3,6 +3,7 @@
 ## Allain (`allain`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý/Chuẩn | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, mobility, sustain, true-dmg, shred
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3600 | phys_atk_lv1: 160 | magic_atk_lv1: 0 | armor_lv1: 140 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Nhuệ khí | max_resource: 96 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Kiếm gầm:** Nội tại: Đòn đánh thường của Allain có hiệu ứng đột kích. Tung đón đánh thường và Kiếm lưu n gân trúng tướng đích sẽ giúp tăng Xuyên giáp và Xuyên giáp phép. Đạt đủ số lần đánh trúng địch sẽ giúp bản thân hồi máu.
   - **Chiêu 1 - Kiếm lưu ngân:** Gây nhiều lần sát thương và hất tung địch.
@@ -15,6 +16,7 @@
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý/Phép | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, mobility, sustain, immune-untargetable
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **28.09.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3725 | phys_atk_lv1: 176 | magic_atk_lv1: 0 | armor_lv1: 153 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 440 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Đơn đả độc cước:** Nội tại: Amily sở hữu khả năng chiến đấu điêu luyện đến mức các đòn đánh thường và Liên hoàn cước chỉ trúng một mục tiêu sẽ gây thêm 50% sát thương
   - **Chiêu 1 - Tàng đao kích:** Amily phóng tàng đao công kích mục tiêu, vũ khí này nảy lan tối đa 4 lần gây sát thương vật lý kèm hiệu ứng làm chậm tốc chạy, riêng nạn nhân đầu tiên bị làm chậm mạnh tốc chạy trong 1 giây. Sau khi công kích hết các mục tiêu, lưỡi đao nảy trở về bản thân giúp Amily tăng 20% tốc chạy trong 3 giây, và hồi máu kèm 30% giảm thời gian hồi chiêu này.
@@ -27,6 +29,7 @@
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý/Phép/Chuẩn | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, shield, sustain, true-dmg
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **16.11.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3657 | phys_atk_lv1: 159 | magic_atk_lv1: 0 | armor_lv1: 147 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 430 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Hồn huyết:** Nội tại: Khi máu của Arduin còn xuống thấp và đang trong trạng thái giao tranh, hắn sẽ tiến vào trạng thái Hồn huyết trong 1 thời gian. Suốt thời gian này, Arduin được hồi máu dựa theo máu tối đa mỗi khi đòn đánh thường hoặc chiêu thức của hắn gây sát thương lên kẻ địch.
   - **Chiêu 1 - Hồn trảm:** Arduin vung rìu chém ra một vòng cung năng lượng gây sát thương vật lý và làm chậm tốc chạy của nạn nhân trúng chiêu đi. Nếu có tướng địch trúng chiêu, Arduin có thể tiếp tục nện rìu xuống đất gây sát thương vật lý và hất văng kẻ địch lên không trung.
@@ -38,6 +41,7 @@
 ## Arthur (`arthur`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý/Phép | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, mobility, shield, sustain, percent-hp
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3922 | phys_atk_lv1: 164 | magic_atk_lv1: 0 | armor_lv1: 149 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 0 | move_speed: 390.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Uy dũng:** Nội tại: Arthur được thần thánh hộ mệnh, giúp bản thân sở hữu khả năng tự hồi máu mỗi giây dựa trên máu tối đa.
   - **Chiêu 1 - Gươm chính nghĩa:** "Arthur tăng 30% tốc chạy, khiến đòn đánh kế tiếp áp sát kẻ địch, gây sát thương vật lý và làm câm lặng mục tiêu, đồng thời kết thúc tăng tốc chạy của Arthur. Chưa hết, nạn nhân trúng phải kỹ năng này sẽ bị thần linh trừng phạt, khiến mỗi đòn đánh thường và chiêu thức của Arthur lên hắn gây thêm 1% máu tối đa của nạn nhân thành sát thương phép."
@@ -50,6 +54,7 @@
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý/Chuẩn | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, mobility, shield, sustain, true-dmg, immune-untargetable
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **29.10.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3600 | phys_atk_lv1: 166 | magic_atk_lv1: 0 | armor_lv1: 138 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 450 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Kiếm Tâm:** Nội tại: Mỗi đòn đánh thường trúng tướng địch (trừ Đột kích) sẽ giúp Astrid giảm hồi chiêu cho Chiêu 1 và Chiêu 2 (giảm nửa hiệu quả khi mục tiêu là quái rừng).
   - **Chiêu 1 - Bạt Kiếm:** Astrid vung thanh kiếm cực đại gây sát thương vật lý lên những kẻ địch lân cận. Mỗi kẻ địch trúng chiêu giúp Astrid nhận cộng dồn tốc đánh và tốc chạy, tối đa 3 cộng dồn.
@@ -62,6 +67,7 @@
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, mobility, immune-untargetable
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **28.09.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3720 | phys_atk_lv1: 156 | magic_atk_lv1: 0 | armor_lv1: 145 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 0 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Biển sâu chúc phúc:** Ata khi mất máu sẽ kích hoạt thanh máu ảo. Trong thời gian máu ảo còn tồn tại, hắn sẽ hồi lại phần máu ảo đó dựa trên sát thương gây ra.
   - **Chiêu 1 - Đạp sóng:** Ata tung người lên rồi rơi xuống vị trí chỉ định lần 1 gây sát thương vật lý. Kế đó hắn nhảy thêm một lần nữa gây sát thương tương tự và làm choáng địch. Trong thời gian này Ata sẽ miễn khống chế.
@@ -73,6 +79,7 @@
 ## Bijan (`bijan`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý/Chuẩn | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, mobility, sustain, true-dmg, immune-untargetable, shred
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3570 | phys_atk_lv1: 170 | magic_atk_lv1: 0 | armor_lv1: 141 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 430 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Sa mạc thần lực:** Sau mỗi đoạn thời gian, Bijan cường hóa đòn đánh thường kế gây sát thương vật lý và hồi máu cho bản thân. Khi nhận sát thương vật lý hoặc sát thương chuẩn hoặc tung chiêu trúng mục tiêu, Bijan sẽ được tăng thêm giáp
   - **Chiêu 1 - Sa mạc mãnh kích:** Lướt về phía trước vung chùy bổ xuống mục tiêu, gây sát thương và tạo pháp trận hất tung mục tiêu
@@ -84,6 +91,7 @@
 ## Biron (`biron`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, shield, sustain
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3500 | phys_atk_lv1: 175 | magic_atk_lv1: 0 | armor_lv1: 140 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Nội năng | max_resource: 90 | move_speed: 390.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Quyết chiến không lùi:** Đòn đánh thường và chiêu chưa được cường hóa của Biron trúng địch sẽ nạp nội năng cho vũ khí của mình. Khi tích lũy >= 30 điểm, mỗi đòn đánh thường sẽ gây thêm sát thương vật lý và được hồi máu đồng thời chiêu thức sẽ nhận được hiệu ứng cường hóa khác nhau nhưng không thể nhận nội năng từ việc tấn công kẻ địch vào khi này. Đòn đánh thường và chiêu thức trúng đích giúp hồi nội năng, tối đa có thể dự trữ 90 điểm
   - **Chiêu 1 - Điện chùy xuất kích:** Biron vung vũ khí về phía trước, mỗi lần gâysát thương vật lý và hồi máu cho bản thân. Cường hóa: Tăng sát thương vật lý gây ra và tăng hồi máu Khi gây sát thương lên đơn vị không phải tướng, hiệu quả hồi máu giảm một nửa.
@@ -95,6 +103,7 @@
 ## Charlotte (`charlotte`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** slow, sustain, immune-untargetable
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3550 | phys_atk_lv1: 170 | magic_atk_lv1: 0 | armor_lv1: 135 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | move_speed: 390.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Thất tinh kiếm trận:** Nội tại: Bất kỳ chiêu nào của Charlotte trúng đích đều sẽ giúp cô được cường hóa chiêu tiếp theo, đồng thời tích lũy 1 cộng dồn dấu ấn. Đủ 3 cộng dồn, Charlotte sẽ được cường hóa đòn đánh thường kế tiếp.
   - **Chiêu 1 - Tam giác kiếm khí:** Chiêu khởi đầu: Charlotte tung tam giác kiếm khí theo hướng chỉ định, gây sát thương cho kẻ địch trên đường bay, gây sát thương vật lý và tăng tốc cho bản thân.
@@ -106,6 +115,7 @@
 ## Dextra (`dextra`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý/Chuẩn | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, sustain, true-dmg, percent-hp, immune-untargetable
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3657 | phys_atk_lv1: 159 | magic_atk_lv1: 0 | armor_lv1: 147 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 0 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Huyết chú:** Mỗi khi Dextra đánh thường hoặc tung chiêu trúng kẻ địch, cô sẽ được nhận thêm tốc đánh. Nếu đánh trúng tướng địch, tốc đánh sẽ được cộng dồn hai lần. Mỗi cộng dồn giúp tăng 5% tốc đánh (mỗi 3 cấp tướng tăng thêm 1%), hiệu ứng kéo dài 5 giây và có thể cộng dồn tối đa 16 lần. Khi tốc đánh đạt giới hạn, đòn đánh thường và chiêu thức của Dextra sẽ kèm theo 60 (+12 mỗi cấp tướng) sát thương chuẩn.
   - **Chiêu 1 - Luân hồi cưa:** Dextra lập tức xóa mọi hiệu ứng làm chậm và cường hóa đòn đánh thường kế gây 150 (+100% công vật lý) + 30/cấp chiêu sát thương vật lý đồng thời làm chậm 50% trong 1 giây. Trong thời gian này, Dextra nhận trạng thái miễn khống và cứ mỗi 0.5 giây sẽ tăng thêm 50 tốc chạy, cộng dồn tối đa 6 lần. Kẻ địch chạm phải sẽ chịu 50 (+25% công vật lý) + 10/cấp chiêu sát thương vật lý. Sau khi tụ lực kết thúc, hiệu ứng tăng tốc sẽ duy trì thêm 3 giây.
@@ -117,6 +127,7 @@
 ## Edras (`11596`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, mobility, sustain, immune-untargetable, shred
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3512 | phys_atk_lv1: 180 | magic_atk_lv1: 0 | armor_lv1: 150 | armor_display_pct: 20 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 0 | move_speed: 375.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Luân hồi quang trảm:** Edras dần giải phóng sức mạnh, đòn đánh thường và chiêu 2 trúng tướng địch sẽ giúp bản thân nhận thêm 10 kinh nghiệm. Khi ở trạng thái Quang minh, Edras được tăng tốc đánh và tăng xuyên giáp; khi ở trạng thái Hắc ám, mỗi công vật lý thêm sẽ giúp bản thân tăng tốc đánh.
   - **Chiêu 1 - Đột kích dũng mãnh:** Edras đột kích theo hướng chỉ định.
@@ -129,6 +140,7 @@
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, mobility, sustain, immune-untargetable
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **15.10.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3575 | phys_atk_lv1: 173 | magic_atk_lv1: 0 | armor_lv1: 136 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Nhuệ khí | max_resource: 100 | move_speed: 370.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Tay ác ma:** Đòn đánh thường trúng đích giúp Errol tăng 1 điểm Quỷ trảo, nhiều nhất 5 điểm, giúp tăng tốc chạy, tốc đánh, hút máu, nhưng giảm kháng phép và vật lý. Quỷ trảo kéo dài 5 giây. Mỗi 3 lần công thường tay phải sẽ chuyển thành tay ác ma đột kích.
   - **Chiêu 1 - Tay lưỡi liềm:** Errol lướt phía trước vung tay lưỡi liềm quét ngang kẻ địch, gây sát thương vật lý Trong quá trình lướt trúng gặp địch sẽ khiến địch bị định thân, đồng thời Errol thuấn di cạnh kẻ địch và tung Tay lưỡi liềm chém ngang địch, giảm hồi chiêu và hồi 1 phần máu đã mất
@@ -140,6 +152,13 @@
 ## Florentino (`florentino`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý/Chuẩn | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, mobility, sustain, true-dmg, immune-untargetable, shred
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3535 | phys_atk_lv1: 170 | magic_atk_lv1: 0 | armor_lv1: 135 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 0 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
+- **Hồ sơ chiến thuật (Curated):**
+  - **Florentino Đường Tà thần Đấu tay đôi** (Early 4.5/5 · Mid 4.5/5 · Late 3.5/5) | Power Spikes: Cấp 2 có thể nối Hào hoa, Đột kích, nhặt hoa và Thưởng hoa., Cấp 4 có Tài hoa để quyết đấu và tạo cửa sổ miễn khống chế.
+    - *early:* Ép trao đổi khi Hào hoa có góc trúng. Nếu trượt, lùi khỏi cự ly trả đòn và chờ nhịp mới. Nhặt hoa theo đường cho phép Kiếm bộ né chiêu đáp trả. Khi đối thủ đứng sau lính, bước lệch để tạo góc phóng hoa. Nếu bông tiếp theo nằm dưới trụ hoặc sát điểm Rừng địch có thể xuất hiện, kết thúc pha trao đổi ở bông an toàn.
+    - *mid:* Khi dẫn, kéo người thủ cánh rồi hội quân khi đã đẩy xong lính. Ở giao tranh nhỏ, chỉ dùng Tài hoa khi đã nhìn thấy mục tiêu cần khóa và có địa hình nhặt hoa. Nếu đối thủ gửi hai người ra cánh, ưu tiên đẩy xong rồi rút để đội lấy mục tiêu phía còn lại. Chọn quyết đấu khi đã thấy hướng người thứ hai tới và có đường hoa dẫn về phía đội.
+    - *late:* Khi thọt, đón người bước vào quá sâu ở vùng có tầm nhìn và giữ đường thoát. Trong 5v5, ưu tiên góc cạnh sườn có không gian xoay hơn lối hẹp bị đối phương chắn. Trước khi dùng Tài hoa, kiểm tra ai đứng đầu đường lướt. Nếu tướng đỡ đòn chắn chủ lực, đi cạnh sườn hoặc giữ chiêu cho người đang tách khỏi đội hình.
+- **Ghi chú Coach:** Trước khi phóng hoa, xác định bông nào giúp tiến và bông nào giữ lối ra. Tài hoa chọn tướng đầu tiên trúng chiêu, nên canh đường lướt nếu cần quyết đấu với một mục tiêu cụ thể.
 - **Kỹ năng (Official):**
   - **Nội tại - Xuất chúng:** Đột kích: Florentino khi rời giao tranh sẽ khiến đòn đánh thường kế tiếp lướt tới kẻ địch, gây sát thương vật lý, đồng thời làm chậm tốc chạy kẻ địch. Đòn đánh thường tiếp theo đó sẽ được tăng sát thương. Đột kích trúng tướng địch giúp Florentino hồi máu. Kiếm bộ: Sau khi tung Đột kích, Florentino sẽ lướt một đoạn ngắn, miễn nhiễm mọi hiệu ứng khống chế. Lướt xong Florentino được tăng tốc chạy.
   - **Chiêu 1 - Hào hoa:** Florentino phóng hoa vào kẻ địch, gây sát thương vật lý, làm choáng địch. Dùng trúng địch sẽ tạo ra ba đoá hoa trong 5 giây. Nhặt hoa sẽ giúp Florentino hồi 100 nội năng, đồng thời khiến đòn đánh kế tiếp Đột kích và hoàn lại hồi chiêu của Thưởng hoa.
@@ -151,6 +170,7 @@
 ## Kil’Groth (`kilgroth`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý/Phép | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, mobility, sustain, immune-untargetable
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3720 | phys_atk_lv1: 168 | magic_atk_lv1: 0 | armor_lv1: 146 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 430 | move_speed: 390.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Áp suất biển sâu:** Mỗi đòn đánh thường giúp tăng tốc đánh (tăng theo cấp tướng), tối đa cộng dồn 5 lần. Đặc biệt các đòn thứ ba có phạm vi công kích rộng hơn.
   - **Chiêu 1 - Sóng tử vong:** Kil'Groth lướt tới trước đâm mâu vào kẻ địch, gây sát thương vật lý và làm giảm tốc chạy mục tiêu. Đâm trúng tướng giúp giảm hồi chiêu.
@@ -162,6 +182,7 @@
 ## Lữ Bố (`lu-bo`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, sustain
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3781 | phys_atk_lv1: 174 | magic_atk_lv1: 0 | armor_lv1: 150 | armor_display_pct: 20 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 0 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Chúa tể:** "Nội tại: Giảm 1 giây hồi chiêu của Phương thiên họa kích bất cứ khi nào Lữ Bố đánh trúng mục tiêu bằng chiêu thức hay đòn đánh thường. Mỗi lần sử dụng kỹ năng sẽ tăng tốc đánh, nhiều nhất cộng dồn 10 lần, duy trì trong thời gian ngắn."
   - **Chiêu 1 - Xích thố:** "Lữ Bố xông vPhương thiên họa kíchề phía trước, gây sát thương thường. Kỹ năng này có thể được sử dụng 3 lần liên tiếp và vượt được địa hình. Đòn tấn công thứ Lữ Bố vung cây thương xuống để phóng ra sóng xung kích đến những kẻ thù, gây sát thương thường và làm chậm tốc chạy của chúng.ba sẽ hất kẻ thù lên không và làm choáng khi rơi xuống."

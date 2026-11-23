@@ -5,12 +5,12 @@ description: Micro/Macro Gameplay, Laning Matchup, Combo, Jungle Pathing, and Te
 
 # aov-gameplay-coach
 
-Practical micro and macro coaching anchored in exact official skill mechanics and game-phase timing.
+Practical micro and macro coaching anchored in exact official skill mechanics, item thresholds, and gold-driven game states.
 
 ## When to Use
 
 - User asks how to play a hero, including skill order, passive management, and practical combos.
-- User asks how to play a specific lane matchup (Hero A vs Hero B) during levels 1-4 and mid-game.
+- User asks how to play a specific lane matchup (Hero A vs Hero B) during laning and mid-game rotations.
 - User asks how to adjust gameplay based on power curve (early snowball vs late scaling) and gold lead/deficit.
 - User asks how to position in 5v5 teamfights or contest Caesar/Dragon objectives.
 
@@ -23,11 +23,12 @@ Practical micro and macro coaching anchored in exact official skill mechanics an
    - If unverified: derive timing carefully from the actual skill text (base CC/utility vs multi-stat scaling) and note how build path shifts power timing (e.g. Valhein semi-tank snowball vs crit scaling).
 4. Deliver an actionable coaching plan in 4 tight blocks:
    - **Core Mechanic & Combos:** 1-2 practical combos grounded strictly in the official skill descriptions (e.g. passive stacks, resets, terrain states).
-   - **Phase Gameplan (Early 0-4m / Mid 4-10m / Late 10m+):** Clear objective and risk tolerance for each phase.
+   - **Phase Gameplan (Early: 0-1 item / Mid: 2-3 items / Late: 4-6 items):** Clear objective, power spike trigger, and risk tolerance for each phase based on item count and map state rather than rigid clock minutes.
    - **Matchup & Teamfight Positioning:** Key enemy cooldowns to track and target priority.
-   - **Gold-State Adjustment:** 1 bullet if snowballing vs 1 bullet if playing from behind.
+   - **Gold-State Adjustment:** 1 bullet if snowballing ahead in items vs 1 bullet if playing from behind.
 
 ## Gotchas
 
 - **Verify reworked kits:** Always check `references/patches_coaching.md` for recent reworks (such as Butterfly's skill changes) before explaining combos, because the Academy page may lag behind the latest balance patch.
+- **No rigid clock assumptions:** Judge Early/Mid/Late by completed items, tower state, and gold lead; a fed carry hitting 3 items early accelerates the match into Mid-Late tempo.
 - **Concrete over generic:** Give specific cues ("hold Skill 2 stun until Nakroth commits his dash") instead of vague advice ("keep good positioning").

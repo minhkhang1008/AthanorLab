@@ -134,6 +134,16 @@ def parse_patch_article(html: str) -> list[dict[str, Any]]:
             cur_sub = {"heading": sub_heading, "lines": []}
             cur_sec["subsections"].append(cur_sub)
         elif name == "table":
+            rows = child.find_all("tr")
+            first_text = clean_text(child.get_text(" ", strip=False))
+            # Garena hay bọc tiêu đề mục lớn (CÂN BẰNG TƯỚNG / ĐIỀU CHỈNH CHIẾN TRƯỜNG / SỬA LỖI...) trong table 1x1
+            if len(rows) == 1 and len(first_text) <= 80 and (
+                child.find(["h1", "h2", "strong", "b"]) or first_text.isupper()
+            ):
+                if first_text and not first_text.lower().startswith("mục lục"):
+                    cur_sec = ensure_section(first_text)
+                    cur_sub = None
+                continue
             md = table_to_markdown(child)
             if md:
                 append_content(md)

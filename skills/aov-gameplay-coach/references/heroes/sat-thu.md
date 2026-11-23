@@ -3,6 +3,7 @@
 ## Airi (`airi`)
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, slow, mobility, shield
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3543 | phys_atk_lv1: 170 | magic_atk_lv1: 0 | armor_lv1: 137 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Nội năng | max_resource: 150 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Sắc Lẻm:** Nội tại: Mỗi đòn đánh thường giúp giảm thời gian hồi của Kiếm khí đi 1 giây.
   - **Chiêu 1 - Phi Tiêu:** Airi ném phi tiêu về phía trước gây sát thương vật lý đồng thời làm choáng các nạn nhân trúng đòn trong thoáng chốc.
@@ -14,6 +15,7 @@
 ## Aoi (`aoi`)
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, slow, mobility, shield, sustain, immune-untargetable
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3360 | phys_atk_lv1: 172 | magic_atk_lv1: 0 | armor_lv1: 133 | magic_def_lv1: 80 | max_energy: 0 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Long Lực:** Sau mỗi lần tung chiêu, Aoi sẽ tích lũy 1 lần Long lực (tối đa 4 lần) đồng thời cường hóa đòn đánh thường kế thành đột kích khiến đòn này được tăng tầm đánh và tốc đánh - gây sát thương vật lý lên mục tiêu. Đòn đánh thướng thứ 4 nhất định sẽ gây chí mạng và khiến bản thân giảm hồi chiêu.
   - **Chiêu 1 - Long Trảm:** Aoi tung trảo đột kích về phía trước và gây sát thương vật lý lên kẻ địch trong phạm vi. Đánh trúng địch giúp bản thân được hồi máu. Trạng thái phi hành: Aoi bổ nhào xuống vị trí chỉ định gây sát thương vật lý và hất tung tất cả các mục tiêu trong phạm vi. Đánh trúng kẻ địch giúp bản thân nhận lá chắn.
@@ -25,6 +27,7 @@
 ## Billow (`billow`)
 - **Vai trò:** Sát thủ | **Loại ST:** Chuẩn | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, slow, mobility, sustain, true-dmg
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3400 | phys_atk_lv1: 175 | magic_atk_lv1: 0 | armor_lv1: 150 | armor_display_pct: 20 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 440 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Cuồng thú săn mồi:** Billow gây thêm sát thương chuẩn lên những mục tiêu máu thấp
   - **Chiêu 1 - Độn thủy tiềm hành:** Billow lướt về phía trước và nhảy xuống nước. Suốt thời gian này tướng nhận được hiệu ứng tăng tốc chạy đồng thời tăng thêm tốc chạy khi xung quanh có mục tiêu thấp máu. Trong vùng sông, trạng thái Hải quái không giới hạn thời gian. Trạng thái Hải quái: Lướt theo hướng chỉ định và gây sát thương.
@@ -37,6 +40,7 @@
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** slow, mobility, immune-untargetable
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **16.11.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3619 | phys_atk_lv1: 177 | magic_atk_lv1: 0 | armor_lv1: 135 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 0 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Sát Thủ:** Hạ hoặc phụ sẽ làm mới toàn bộ thời gian hồi chiêu
   - **Chiêu 1 - Quét Kiếm:** Butterfly quét kiếm, gây sát thương vật lý, xoá làm chậm đang phải gánh chịu, đồng thời tăng tốc chạy bản thân.
@@ -48,6 +52,7 @@
 ## Enzo (`enzo`)
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, slow, mobility, immune-untargetable
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3585 | phys_atk_lv1: 178 | magic_atk_lv1: 0 | armor_lv1: 134 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 450 | move_speed: 370.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Tín niệm:** Enzo tiến vào trạng thái Tín niệm, được tăng phúc năng lực thần thánh lên vũ khí, gây sát thương vật lý lên địch ở gần. Đánh xa gây thêm sát thương, đánh trúng tướng địch giúp bản thân tăng tốc chạy (hiệu quả phụ thuộc vào Truy bức).
   - **Chiêu 1 - Truy bức:** Enzo lướt nhanh và được tăng công vật lý. Nếu đánh trúng địch ở xa sẽ làm chậm địch và tăng tốc chạy cho bản thân. Nếu kích hoạt Câu hồn, Truy bức khiến mục tiêu chịu Câu hồn bị kéo theo một đoạn nhỏ theo hướng Enzo di chuyển
@@ -59,6 +64,7 @@
 ## Kaine (`kaine`)
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, slow, mobility, immune-untargetable, stealth
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3642 | phys_atk_lv1: 171 | magic_atk_lv1: 0 | armor_lv1: 131 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 450 | move_speed: 400.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Truy Nã:** Nội tại: Kaine tàng hình khi xung quanh không có địch
   - **Chiêu 1 - Huyết luân:** Gây sát thương cho địch xung quanh. Kẻ địch còn ít máu nhất sẽ nhận thêm sát thương.
@@ -71,6 +77,7 @@
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý/Phép | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, mobility, sustain, immune-untargetable, stealth
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **29.10.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3660 | phys_atk_lv1: 165 | magic_atk_lv1: 0 | armor_lv1: 134 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 450 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Ám lưu:** Keera có sẵn hút máu phép, và đòn đánh thường của cô gây sát thương vật lý. Tuy nhiên sát thương chiêu của Keera sẽ bị chia đều cho số kẻ địch đánh trúng (tối đa là chia 3).
   - **Chiêu 1 - Ác mộng ảo ảnh:** Keera đặt 1 huyễn ảnh tại vị trí đang đứng và nhảy đến điểm chỉ định gây sát thương phép trong phạm vi. Nạn nhân gần nhất sẽ bị đánh dấu trong 3 giây đồng thời bị kéo đến gần Keera. Sau khi tung chiêu, 3 đòn đánh thường kế tiếp của Keera được tăng tốc đánh và gây sát thương phép thay vì vật lý. Kích hoạt lần nữa: Huyễn ảnh bắn thẳng đến nạn nhân bị đánh dấu, đánh trúng sẽ gây sát thương phép trong phạm vi. Nếu không đánh dấu được tướng địch, huyễn ảnh sẽ bắn thẳng đến Keera và gây sát thương phép xung quanh.
@@ -83,6 +90,7 @@
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý/Phép | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** mobility, sustain
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **15.10.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3589 | phys_atk_lv1: 173 | magic_atk_lv1: 0 | armor_lv1: 132 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 450 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Nhấm Nháp:** Nội tại: Sau khi chiêu của Kriknak trúng đích, đòn đánh thường kế tiếp của hắn sẽ gây thêm sát thương vật lý.
   - **Chiêu 1 - Ấu Trùng Quỷ:** "Kriknak gọi một bầy ấu trùng quỷ tấn công một mục tiêu (ưu tiên tướng) gây sát thương vật lý, và đánh dấu Ấu trùng lên nạn nhân. Mọi đòn đánh thường hoặc chiêu thức của Kriknak đều sẽ kích hoạt dấu ấn gây sát thương phép theo máu tối đa của mục tiêu, đồng thời giảm thời gian hồi chiêu và hồi phục năng lượng cho hắn."
@@ -94,6 +102,7 @@
 ## Murad (`murad`)
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, slow, mobility, shred
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3268 | phys_atk_lv1: 180 | magic_atk_lv1: 0 | armor_lv1: 139 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 450 | move_speed: 390.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Ảnh Hồn:** Nội tại: Mỗi đòn đánh thường trúng đích giúp Murad cộng dồn 1 Ảnh hồn và tăng xuyên giáp. Đủ 4 cộng dồn sẽ phá phong ấn của Ảo ảnh trảm trong 5 giây.
   - **Chiêu 1 - Tàn Ảnh Đao:** Murad lướt đi gây sát thương vật lý và làm choáng lên những nạn nhân trúng chiêu. Chiêu thức có thể tung ra 3 lần, đặc biệt ở lần thứ ba Murad sẽ quay trở về vị trí ban đầu của bản thân.
@@ -105,6 +114,7 @@
 ## Nakroth (`nakroth`)
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** -
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3288 | phys_atk_lv1: 172 | magic_atk_lv1: 0 | armor_lv1: 133 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 430 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Thẩm phán oai nghiêm:** Nội tại: Mỗi đòn đánh thường thứ 4 sẽ hất văng mục tiêu. Tung chiêu trúng địch hoặc dùng Nguồn cơn rắc rối sẽ tăng tốc đánh.
   - **Chiêu 1 - Bồi thẩm đoàn:** Nakroth xông về phía trước, hất văng mục tiêu gây sát thương vật lý. Kỹ năng này có thể tung ra một lần nữa miễn phí trong vòng 5 giây.
@@ -117,6 +127,7 @@
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, mobility, stealth
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **15.10.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3505 | phys_atk_lv1: 167 | magic_atk_lv1: 0 | armor_lv1: 139 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 430 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 22 | critical_damage_pct: 175 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Vô địch thiên hạ:** "Nội tại: Mỗi lần Ngộ Không tung một chiêu thức, đòn đánh thường tiếp theo của hắn được cường hóa gây thêm sát thương vật lý, đồng thời khiến hắn lập tức áp sát mục tiêu. Đặc biệt Ngộ Không sở hữu sẵn một lượng Tỷ lệ chí mạng."
   - **Chiêu 1 - Phân Thân Thuật:** Ngộ Không lập tức tiến vào trạng thái tàng hình. Sau khi tung chiêu, Ngộ Không sẽ được tăng tốc chạy trong thời gian ngắn.
@@ -128,6 +139,7 @@
 ## Paine (`paine`)
 - **Vai trò:** Sát thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, slow, immune-untargetable
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3550 | phys_atk_lv1: 179 | magic_atk_lv1: 0 | armor_lv1: 133 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Nội năng | max_resource: 100 | move_speed: 370.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Trảm hồn:** Sau mỗi lần tung chiêu, trong 4 giây kế các đòn đánh thường của Paine sẽ gây sát thương phép. Trong đó đòn đánh thường đầu tiên sẽ chuyển thành đột kích sau lưng kẻ địch và gây gấp đôi sát thương.
   - **Chiêu 1 - Hồn gọi xác:** Paine xuất hồn theo hướng chỉ định và gây sát thương phép cho kẻ địch trên đường xuyên qua đồng thời được miễn khống chế. Khi chiêu kết thúc hoặc ấn kết thúc, thể xác Paine sẽ lao nhanh đến vị trí linh hồn của hắn và gây tiếp sát thương phép lên kẻ địch trên đường lao đồng thời làm chậm kẻ địch.
@@ -139,6 +151,7 @@
 ## Quillen (`quillen`)
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** slow, mobility, sustain, stealth, vision
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3619 | phys_atk_lv1: 177 | magic_atk_lv1: 0 | armor_lv1: 135 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 0 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 125 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Đánh lén:** Những đòn đánh và chiêu thức tấn công từ phía sau kẻ địch chắc chắn gây chí mạng. Tuy nhiên sát thương chí mạng khởi điểm của hắn chỉ là 125% (tăng 0.5% theo mỗi 0.5% tỷ lệ chí mạng Quillen có). Tấn công trước mặt chắc chắn không chí mạng
   - **Chiêu 1 - Chém đôi:** Quillen chém chớp nhoáng hai lần theo hướng chỉ định, gây sát thương vật lý.
@@ -150,6 +163,7 @@
 ## Sinestrea (`sinestrea`)
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, slow, mobility, sustain, percent-hp, immune-untargetable, reset
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3535 | phys_atk_lv1: 170 | magic_atk_lv1: 0 | armor_lv1: 135 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 0 | move_speed: 360.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Huyết hoa:** Mỗi đòn đánh thường trúng mục tiêu của Sinestrea sẽ tăng tầm đánh và tốc đánh, sau 4 lần liên tiếp cô sẽ chuyển sang trạng thái bắn xa. Mỗi khi đổi trạng thái, cô sẽ làm mới thời gian hồi chiêu 1 và chiêu 2. Sau khi vào trận, nút Biến về sẽ được thay thế bằng Huyết tế. Huyết tế: Sinestrea hy sinh 50% máu hiện tại để gây sát thương cho địch trong phạm vi và làm choáng chúng 0.5 giây đồng thời khiến bản thân không thể bị chọn làm mục tiêu. Ngoài ra mỗi tướng địch bị trúng chiêu giúp cô hồi 10% máu tối đa (Hồi chiêu 150 giây).
   - **Chiêu 1 - Huyết đột (Huyết tiễn, khi đánh xa):** Đánh gần: Trong trạng thái cận chiến, Sinestrea lướt về phía trước và lập tức chìm vào giấc ngủ. Đòn đánh kế tiếp sẽ biến thành đột kích gây sát thương vật lý cho mục tiêu và các đơn vị xung quanh. Ngoài ra nếu Sinestrea không di chuyển trong 2.5 giây cô cũng sẽ chìm vào giấc ngủ. Đánh xa: Sinestrea lướt theo hướng chỉ định và bắn một huyết tiễn. Nếu bắn trúng tướng địch đầu tiên, huyết tiễn sẽ gây sát thương tương đương và đẩy lùi. Nếu phía sau hắn có tường trong phạm vi 4m thì tướng địch này sẽ bị trói buộc (không thể rời khỏi phạm vi chỉ định).

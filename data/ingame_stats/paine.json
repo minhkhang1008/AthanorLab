@@ -1,0 +1,30 @@
+{
+  "slug": "paine",
+  "captured_patch": "17.11.2026",
+  "source": "in-game client screenshot",
+  "source_image": "Screenshot_2026-11-23-20-22-04-472_com.garena.game.kgvn.jpg",
+  "base_stats": {
+    "hp_lv1": 3550,
+    "phys_atk_lv1": 179,
+    "magic_atk_lv1": 0,
+    "armor_lv1": 133,
+    "armor_display_pct": 0,
+    "magic_def_lv1": 80,
+    "magic_def_display_pct": 0,
+    "resource": "Nội năng",
+    "max_resource": 100,
+    "move_speed": 370.0,
+    "attack_range": "melee",
+    "physical_penetration_flat": 0,
+    "physical_penetration_pct": 0,
+    "magic_penetration_flat": 0,
+    "magic_penetration_pct": 0,
+    "bonus_attack_speed_pct": 0,
+    "critical_rate_pct": 0,
+    "critical_damage_pct": 200,
+    "life_steal_pct": 0,
+    "magic_life_steal_pct": 0,
+    "cooldown_reduction_pct": 0
+  },
+  "skill_overrides": {}
+}

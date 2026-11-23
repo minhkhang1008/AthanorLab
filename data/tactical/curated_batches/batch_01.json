@@ -1,0 +1,420 @@
+{
+  "batch_name": "Đợt 1 – 15 tướng do người chơi chọn",
+  "captured_patch": "17.11.2026",
+  "notes": "Điểm Early/Mid/Late là nhận định huấn luyện theo vai trò, trang bị, trạng thái bản đồ và chênh lệch vàng. Kèo Dyadia gặp Y’bneth và nhịp sức mạnh của Dyadia dựa trên thực chiến do người chơi cung cấp. Mô tả kỹ năng Y’bneth trong bản nháp dựa trên bản chép do người chơi gửi và được đối chiếu với các ghi chú bản vá tìm được. Các tình huống trong từng giai đoạn là đề xuất chiến thuật có thể hiệu chỉnh qua thực chiến.",
+  "heroes": [
+    {
+      "slug": "dyadia",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "coach_notes": "Theo kinh nghiệm người chơi, Dyadia ép tốt đầu trận nhờ sát thương và trói từ Chiêu 2, rồi có thêm nhịp hỗ trợ giao tranh ở cấp 4. Đoạn hụt sức thường bắt đầu khoảng cấp 5, trước khi tích đủ vàng nội tại và có trang bị. Khoảng 900 vàng nội tại trở lên kết hợp đồ phù hợp là mốc thực chiến để đánh giá sức mạnh, với hiệu quả Chiêu 3 tăng dần theo vàng kiếm từ bộ chiêu. Bản 17.11 giảm sát thương gốc của nội tại và phần sát thương kéo dài của Chiêu 2. Trong kèo Y’bneth, Chiêu 2 của hắn có thể gom và choáng cả một mục tiêu. Cần theo dõi hướng vỗ và hồi chiêu trước khi tái kích hoạt Ác Duyên hoặc lao vào bằng đòn Phúc Duyên.",
+      "archetypes": [
+        {
+          "id": "dyadia-roam-enchanter",
+          "name": "Dyadia Trợ thủ Hồi phục và Phản công",
+          "power_curve": {
+            "early": 4.5,
+            "mid": 2.5,
+            "late": 4.5
+          },
+          "power_spikes": [
+            "Đầu trận có thể tạo áp lực bằng sát thương và nhịp trói của Chiêu 2 khi có góc vào an toàn.",
+            "Cấp 4 có Tụ Nhân Duyên để hồi máu trong giao tranh hoặc nối trói từ xa lên mục tiêu đang mang Ác Duyên.",
+            "Theo thực chiến, Dyadia mạnh lại khi vàng nội tại vào khoảng 900 trở lên và đã có trang bị phù hợp."
+          ],
+          "gameplan_by_phase": {
+            "early": "Dùng Ác Duyên ép đối phương lùi hoặc bỏ vị trí, tái kích hoạt để trói khi đồng đội theo kịp và đường vào an toàn. Khi gặp Y’bneth còn cú vỗ, ưu tiên giữ cự ly, đi ngoài hướng hắn đang canh và để Ác Duyên chạy. Có Chiêu 3 thì dùng dấu sẵn có để trói từ xa hoặc hồi máu cho đội. Khi Y’bneth quay mặt chắn đường vào, dùng góc chéo để buộc hắn chọn giữa canh bạn và chặn chủ lực.",
+            "mid": "Ở đoạn hụt sức người chơi thường gặp quanh cấp 5, ưu tiên tích vàng nội tại bằng Chúc Phúc Lương Duyên hoặc Lời Nguyền Ác Duyên qua các nhịp trao đổi ngắn. Giữ Lương Duyên trên đồng đội ở phía sau khi cần lối lướt về, đồng thời hoàn thiện trang bị. Trước khi lao theo dấu, kiểm tra Y’bneth đã dùng Chiêu 2 và đồng đội có thể đánh tiếp. Nếu đồng đội đang rời khu vực, ưu tiên kích Lương Duyên trên đường rút. Chỉ dùng Ác Duyên để tranh vàng trên người có thể chạm từ mép tầm khi địch mất chiêu mở.",
+            "late": "Khi đã tích khoảng 900 vàng nội tại trở lên và đủ trang bị cho pha giao tranh, chọn góc Tụ Nhân Duyên vừa chạm tuyến mình vừa đe dọa địch đã mang dấu. Nếu Y’bneth còn Chiêu 2, ưu tiên giữ cự ly để trói hoặc cứu người. Nếu hắn đã lướt vào mở pháp trận, rời vùng hạt sớm và giúp đồng đội tản ra. Nếu chủ lực đội mình vừa bị ép mất phép thoát, giữ Tụ Nhân Duyên cho nhịp đối phương quay lại. Nếu chủ lực còn an toàn và đã có dấu trên tuyến trước, dùng chiêu trước để tạo nhịp đánh vào."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "dolia",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "coach_notes": "Chọn người lập khế ước theo chiêu mà đội cần dùng lần hai. Báo trước nhịp làm mới và chờ chiêu cần làm mới thực sự vào hồi, vì Chiêu 3 xét chiêu đang hồi lâu nhất. Hướng hồi phục hoạt động tốt quanh sông và hồ nước tự tạo.",
+      "archetypes": [
+        {
+          "id": "dolia-roam-reset",
+          "name": "Dolia Trợ thủ Làm mới chiêu chủ chốt",
+          "power_curve": {
+            "early": 2.5,
+            "mid": 4.5,
+            "late": 4.5
+          },
+          "power_spikes": [
+            "Cấp 4 có thể làm mới chiêu đang hồi lâu nhất của đồng minh trong phạm vi.",
+            "Mạnh khi đồng minh có chiêu quyết định giao tranh và cả hai giữ được cự ly liên kết."
+          ],
+          "gameplan_by_phase": {
+            "early": "Giúp chủ lực qua nhịp đẩy đầu bằng Chiêu 2 đặt hồ gần đồng đội. Ở sông hoặc trong hồ, canh đợt sóng cuối của Chiêu 1 chặn địch áp sát. Nếu địch còn cú lao, đặt hồ lệch khỏi đường lính để đồng đội có đường lùi và giữ sóng cuối đón người áp sát. Khi đường đã đẩy xong, hồi ở sông rồi đi cùng Rừng thay vì bỏ Xạ thủ giữa đợt lính.",
+            "mid": "Khi dẫn, đi cùng người có chiêu mở để ép hai nhịp quanh mục tiêu. Giữ vị trí đủ gần để dùng Chiêu 3 sau nhịp đầu và giữ hồ trên đường đồng đội có thể đứng đánh. Khi người lập khế ước còn nhiều chiêu đang hồi, tính chiêu nào sẽ được làm mới. Nếu chiêu mở đầu hụt và đội chưa tới, giữ lượt thứ hai cho giao tranh tiếp theo.",
+            "late": "Khi bị ép, dùng lượt làm mới cho chiêu bảo kê hoặc phản mở có giá trị nhất. Nếu khu vực tranh chấp mất tầm nhìn, tập hợp ở lối vào an toàn trước khi tìm cơ hội dùng chiêu. Trước giao tranh, quyết định đội cần mở hai lần hay giữ một lượt phản mở. Khi đối phương còn sát thủ ở cánh khuất, chừa khoảng cách với người lao vào để còn sống tới nhịp làm mới."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "evita",
+      "durability_class": "squishy",
+      "range_class": "mid-ranged",
+      "coach_notes": "Chiêu 2 có độ trễ và hất tung ở tâm, nên nhắm điểm kết thúc lướt hoặc chỗ đồng đội đã ghìm địch. Bản 30.10 giảm sát thương Chiêu 1 và Chiêu 3, đồng thời kéo dài hồi chiêu cuối.",
+      "archetypes": [
+        {
+          "id": "evita-control-dps",
+          "name": "Evita Pháp sư Kiểm soát khu vực",
+          "power_curve": {
+            "early": 3,
+            "mid": 4,
+            "late": 4
+          },
+          "power_spikes": [
+            "Cấp 4 có Ma vật hỗn mang giảm giáp phép và thúc đẩy tích Ma lực.",
+            "Hai món phép lõi giúp duy trì áp lực quanh trụ và cửa hang."
+          ],
+          "gameplan_by_phase": {
+            "early": "Dùng Chiêu 1 dọn lính và chạm tướng khi có góc. Canh Ma lực đầy để lấy lá chắn khi trao đổi. Giữ Chiêu 2 nếu đối phương còn nhịp lao vào. Nếu đối thủ đang đứng lệch khỏi lính, chọn dọn lính để lấy quyền đảo hoặc giữ Ma lực đầy đến khi có góc chạm tướng. Chỉ bước vào sông khi đã biết đường về.",
+            "mid": "Khi dẫn, đi cùng Trợ thủ chiếm cửa hang, bật Chiêu 3 lúc đội có thể đánh tiếp vào mục tiêu bị giảm giáp phép. Canh tâm Chiêu 2 trên cửa hẹp hoặc nối khống chế đồng minh. Khi đội cần vào trước, dùng vùng Chiêu 2 buộc đối thủ đổi lối rồi bật Ma vật lúc tuyến mình đã áp tới. Nếu đội đang câu chiêu, giữ Chiêu 3 cho lượt đối phương bước vào thay vì bật khi họ vẫn có thể lùi.",
+            "late": "Khi thọt, giữ Chiêu 2 ở đường vào sát chủ lực và chờ đối thủ bước vào tầm Ma vật. Cân nhắc một ô đồ bảo mệnh khi sát thủ liên tục xuyên tuyến trước. Nếu đội mình có nguồn sát thương phép theo sau, báo mục tiêu Ma vật đang bám để dồn cùng một người. Khi sát thủ chưa lộ, đặt tâm Chiêu 2 lên lối nó phải vượt qua thay vì cố với tới tuyến sau."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "tachi",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "coach_notes": "Khi mở phong ấn, Tachi có lá chắn và gây sát thương chuẩn. Muốn lấy đủ sát thương Long Sát thì đánh thường trước khi tụ lực nếu còn an toàn. Dùng Long Bộ trong lúc tụ lực có thể sửa góc với đánh đổi sát thương.",
+      "archetypes": [
+        {
+          "id": "tachi-solo-true-damage",
+          "name": "Tachi Đường Tà thần Mở phong ấn",
+          "power_curve": {
+            "early": 3.5,
+            "mid": 4.5,
+            "late": 4
+          },
+          "power_spikes": [
+            "Cấp 4 có thể mở phong ấn ngay khi đáp Chiêu 3.",
+            "Món chống chịu đầu tiên giúp trụ đủ lâu để đánh thường trong cửa sổ mở phong ấn."
+          ],
+          "gameplan_by_phase": {
+            "early": "Đổi máu quanh dấu ấn, dùng Long Bộ lấy góc còn thiếu hoặc rút ra nếu địch ép sát. Giữ lính ở vị trí có đường lui khi Rừng địch mất dấu. Nếu thiếu một hướng dấu và đường vòng nằm phía địch, dùng nhịp làm chậm để lấy góc chỉ khi còn Long Bộ hoặc có thể rút qua lính mình. Đợi nhịp sau nếu địch đứng sát điểm lướt.",
+            "mid": "Khi dẫn, chọn góc Chiêu 3 cắt đường rút ở cửa hang và đánh thường sau khi đáp. Tranh thủ lá chắn để giữ đất cho đồng đội. Khi đã có thể mở phong ấn từ trao đổi ở mép giao tranh, giữ Chiêu 3 để bám lượt hai hoặc cắt đường rút. Nếu vào thẳng bằng Chiêu 3, xác định mục tiêu đánh thường được sau khi đáp.",
+            "late": "Khi thọt, giữ Chiêu 3 để đón tướng lao vào chủ lực. Nếu đội cần mở, đáp ở vùng đồng minh theo sát được và dành Long Bộ để chỉnh vị trí. Nếu địch có thể lui khỏi tầm Long Sát, đổi góc bằng Long Bộ chỉ khi giữ được người quan trọng hoặc tránh bị hạ. Nếu đối thủ đang bị ghìm, giữ vị trí để lấy đủ sát thương."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "violet",
+      "durability_class": "squishy",
+      "range_class": "long-ranged",
+      "coach_notes": "Chiêu 2 mở cửa sổ dồn sát thương. Bản 11.03 ghi lựu đạn gây 250 + 50 mỗi cấp chiêu + 100% công vật lý sát thương vật lý. Dấu ấn tồn tại 5 giây, giảm 10% giáp và cho đòn đánh thường thêm 100 + 20 mỗi cấp chiêu + 20% công vật lý sát thương vật lý. Garena xác nhận phần sát thương lên lính có dấu tăng gấp đôi. Bản chép client người chơi gửi ghi cả quái rừng và làm chậm 50% trong 1,5 giây. Chiêu 1 vào hồi ngay khi lộn. Bản 08.04 giảm phần sát thương gốc xuống 225 + 25 mỗi cấp chiêu và đặt hồi chiêu cố định 5 giây. Theo bản chép client, đòn cường hóa giữ được 5 giây, phần sát thương thêm không chí mạng và phát kế tiếp được tăng tầm trong thoáng chốc. Nếu có địch ngoài công trình ở gần sau khi lộn, Violet được tăng 30% tốc chạy giảm dần trong 2 giây. Ở cấp 1 có thể mở Chiêu 1 hoặc 2 theo thế lính và kèo. Sau khi mở cả hai, ưu tiên nâng Chiêu 2 vì tăng sát thương lựu đạn và sát thương theo dấu. Mức giảm giáp được ghi là 10%.",
+      "archetypes": [
+        {
+          "id": "violet-crit-poke",
+          "name": "Violet Xạ thủ Ép dấu và Cấu rỉa chí mạng",
+          "power_curve": {
+            "early": 4,
+            "mid": 4,
+            "late": 4.5
+          },
+          "power_spikes": [
+            "Cấp 1 có hai cách mở. Chiêu 2 khi có chỗ đứng bắn theo dấu hoặc cần giành nhịp dọn lính. Chiêu 1 khi cần tầm đánh và một đường đổi góc.",
+            "Có cả Chiêu 1 và 2 để né góc nguy hiểm rồi đặt dấu trước các phát bắn, hoặc mở lựu đạn trước khi đã có góc đứng bắn.",
+            "Món gây sát thương đầu tiên giúp tăng áp lực của các phát bắn. Phần sát thương cộng thêm của Chiêu 1 có quy tắc chí mạng riêng theo mô tả client."
+          ],
+          "gameplan_by_phase": {
+            "early": "Violet có thể chủ động solo nhiều kèo AD đầu trận khi ngang tài nguyên và lựu đạn trúng. Nếu đối thủ đứng cạnh lính, Chiêu 2 có thể vừa giành quyền đẩy vừa tạo cửa sổ đánh dấu. Gặp Valhein còn choáng và có chỗ đứng bắn liên tục, ưu tiên Chiêu 1 để trao đổi ngoài cự ly thuận lợi của hắn. Chỉ kéo dài pha đánh khi choáng đã ra, lính và Trợ thủ bên mình theo kịp.",
+            "mid": "Trước khi ép trụ, quyết định dùng lựu đạn để đẩy lính giành lượt di chuyển hay để dành đánh dấu tướng. Nếu đội đã chặn được đường lao, đánh dấu mục tiêu đồng đội vật lý đang bắn rồi nối các phát tăng tầm. Nếu địch còn sát thủ mất dấu, lộn ngang về phía đã có tầm nhìn và giữ đường lùi kể cả khi còn dấu trên mục tiêu.",
+            "late": "Ở cửa hẹp, ưu tiên dấu lên người tuyến trước mà cả đội có thể bắn. Dùng phát tăng tầm tiếp theo để tiếp tục gây áp lực nếu vẫn đứng được sau tuyến chắn. Khi thọt hoặc đội mất góc, dùng dấu dọn lính và giữ lộn cho lượt lao vào. Nếu mục tiêu thấp máu đã rời tầm đánh, cân nhắc Pháo đại từ xa trước khi quyết định đuổi."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "florentino",
+      "durability_class": "bruiser",
+      "range_class": "melee",
+      "coach_notes": "Trước khi phóng hoa, xác định bông nào giúp tiến và bông nào giữ lối ra. Tài hoa chọn tướng đầu tiên trúng chiêu, nên canh đường lướt nếu cần quyết đấu với một mục tiêu cụ thể.",
+      "archetypes": [
+        {
+          "id": "florentino-solo-duelist",
+          "name": "Florentino Đường Tà thần Đấu tay đôi",
+          "power_curve": {
+            "early": 4.5,
+            "mid": 4.5,
+            "late": 3.5
+          },
+          "power_spikes": [
+            "Cấp 2 có thể nối Hào hoa, Đột kích, nhặt hoa và Thưởng hoa.",
+            "Cấp 4 có Tài hoa để quyết đấu và tạo cửa sổ miễn khống chế."
+          ],
+          "gameplan_by_phase": {
+            "early": "Ép trao đổi khi Hào hoa có góc trúng. Nếu trượt, lùi khỏi cự ly trả đòn và chờ nhịp mới. Nhặt hoa theo đường cho phép Kiếm bộ né chiêu đáp trả. Khi đối thủ đứng sau lính, bước lệch để tạo góc phóng hoa. Nếu bông tiếp theo nằm dưới trụ hoặc sát điểm Rừng địch có thể xuất hiện, kết thúc pha trao đổi ở bông an toàn.",
+            "mid": "Khi dẫn, kéo người thủ cánh rồi hội quân khi đã đẩy xong lính. Ở giao tranh nhỏ, chỉ dùng Tài hoa khi đã nhìn thấy mục tiêu cần khóa và có địa hình nhặt hoa. Nếu đối thủ gửi hai người ra cánh, ưu tiên đẩy xong rồi rút để đội lấy mục tiêu phía còn lại. Chọn quyết đấu khi đã thấy hướng người thứ hai tới và có đường hoa dẫn về phía đội.",
+            "late": "Khi thọt, đón người bước vào quá sâu ở vùng có tầm nhìn và giữ đường thoát. Trong 5v5, ưu tiên góc cạnh sườn có không gian xoay hơn lối hẹp bị đối phương chắn. Trước khi dùng Tài hoa, kiểm tra ai đứng đầu đường lướt. Nếu tướng đỡ đòn chắn chủ lực, đi cạnh sườn hoặc giữ chiêu cho người đang tách khỏi đội hình."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ybneth",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "coach_notes": "Ưu tiên mô tả hiện tại do người chơi cung cấp khi phân tích kèo này. Chiêu 2 Thiên nhiên vỗ về gây sát thương vật lý bằng 5% máu tối đa + 80% công vật lý, gom mục tiêu phía trước về tâm và choáng 1 giây kể cả khi chỉ trúng một mục tiêu. Mỗi đơn vị địch trúng thêm tăng sát thương vật lý thêm 5% máu tối đa. Chiêu 3 Hạt giống sinh mệnh lướt tới vị trí chọn, tạo pháp trận và cho lá chắn kéo dài 6 giây, đồng thời làm chậm 60% trong 1,5 giây. Bản 23.07 ghi lá chắn 1.000 + 500 mỗi cấp chiêu và hồi 1,5% máu tối đa khi hạt trúng tướng. Y’bneth miễn khống chế khi tung chiêu và có thể điều khiển tối đa 24 lần tấn công bằng hạt. Bản chép người chơi ghi mỗi hạt gây 50 + 1% máu tối đa sát thương phép, mỗi 8 lần trúng gây choáng 1 giây và tướng địch còn bị kéo về Y’bneth một lần mỗi lượt chiêu. Mốc 8 và sát thương mỗi hạt cần đối chiếu thêm với ảnh kỹ năng client vì bản làm lại từng công bố giá trị khác. Trong chiêu cuối, giữ và điều hướng nút Chiêu 2 phối hợp cần trái để điều chỉnh số hạt. Gặp Dyadia, xoay về đường cô ấy lao và giữ cú vỗ để chặn nhịp tái kích hoạt Ác Duyên hoặc đòn Phúc Duyên.",
+      "archetypes": [
+        {
+          "id": "ybneth-roam-counterengage",
+          "name": "Y’bneth Trợ thủ Phản mở",
+          "power_curve": {
+            "early": 3.5,
+            "mid": 4.5,
+            "late": 4
+          },
+          "power_spikes": [
+            "Cấp 2 có thể dùng Thiên nhiên vỗ về để gom và choáng ngay mục tiêu đơn lẻ, rồi nối Cây Đổ nếu đã tích đủ.",
+            "Cấp 4 có thể lướt vào điểm chọn bằng Hạt giống sinh mệnh để chia cắt đội hình hoặc giữ cửa hang."
+          ],
+          "gameplan_by_phase": {
+            "early": "Dùng bụi để hồi phục sau trao đổi và tích Dây leo bằng các lần trúng đích. Giữ Chiêu 2 để đón riêng Dyadia hoặc người muốn lao vào Xạ thủ. Chọn góc trúng thêm đơn vị khi điều đó giúp gây thêm sát thương mà vẫn giữ được vị trí. Khi muốn bảo kê, đứng nơi có thể xoay cú vỗ qua lối vào Xạ thủ. Nếu Dyadia chưa tái kích hoạt dấu, đừng dùng vỗ lấy sát thương lên lính trước khi cô ấy quyết định.",
+            "mid": "Khi dẫn, dùng tầm nhìn để chọn điểm đáp Chiêu 3 ở cửa hang hoặc đường rút của địch. Nếu đã có Cây Đổ, cân nhắc nối sau cú vỗ gom để tách mục tiêu khỏi đội hình. Nếu địch chưa lộ người bọc sườn, đáp cạnh miệng hang thay vì nhảy sâu qua cả tuyến mình. Dùng vị trí pháp trận để ép địch đi theo lối đội đã kiểm soát.",
+            "late": "Khi thọt, đứng giữa chủ lực và hướng địch sẽ mở, giữ cú vỗ cho người lao đầu tiên. Chọn điểm đáp pháp trận để chặn hướng truy đuổi và điều hướng hạt theo lối địch buộc phải đi qua. Khi đối phương tản ra tránh vùng hạt, chọn chặn người đang tiến gần chủ lực hoặc che hướng bắt buộc phải rút qua. Giữ người hồi máu và Xạ thủ cùng một đường an toàn trước khi mở lượt mới."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "elandorr",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "coach_notes": "Xác định đèn đang ở đâu trước khi tái kích hoạt. Bản 29.09 cho phần sát thương thêm của đòn đánh sau khi tung chiêu hoặc thu đèn có thể chí mạng. Cần tách đòn đánh này khỏi nhịp nổ ba dấu trong mô tả nội tại.",
+      "archetypes": [
+        {
+          "id": "elandorr-jungle-tempo",
+          "name": "Eland’orr Đi rừng Tốc đánh và Đổi góc",
+          "power_curve": {
+            "early": 4,
+            "mid": 4.5,
+            "late": 3.5
+          },
+          "power_spikes": [
+            "Cấp 4 có Phá kén để đẩy lùi và tạo đường đèn mới.",
+            "Món tốc đánh đầu tiên giúp tích ba dấu và đánh mục tiêu đều hơn."
+          ],
+          "gameplan_by_phase": {
+            "early": "Dọn vòng rừng bằng nhịp đánh ba dấu và di chuyển giữa bãi. Dùng Phi điệp giữ đèn ở phía an toàn nếu đi gank qua góc dễ bị ép. Nếu đối thủ sang cướp rừng khi đường gần không có quyền đẩy, chuyển sang bãi an toàn và giữ đèn ngoài đường truy đuổi. Đổi tài nguyên khi đồng đội ở đường kế bên có thể di chuyển trước.",
+            "mid": "Khi dẫn, lấy mục tiêu hoặc bãi đối phương theo đường đã đẩy, đánh xen chiêu và giữ ít nhất một đường đổi vị trí về phía đội. Trước khi vào tranh mục tiêu, đặt đường đèn sao cho vị trí trả về nằm bên kia người có chiêu lao. Nếu đèn đã bị canh, chấp nhận bỏ lượt tái kích hoạt và đi theo tuyến mình.",
+            "late": "Khi thọt, bắt đầu từ bãi có tầm nhìn và giữ Phá kén để đẩy người truy đuổi. Trong giao tranh lớn, bắn mục tiêu gần và tránh quay về đèn đang bị đối phương canh. Nếu dùng Phá kén để mở góc đánh, xác định người còn chiêu khống chế trực tiếp lên mình. Khi người đó chưa ra chiêu, dùng mép tầm bắn và giữ một đường đèn để tránh kẹt ở điểm quay về."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "darcy",
+      "durability_class": "squishy",
+      "range_class": "long-ranged",
+      "coach_notes": "Đặt Lập phương đủ muộn để nổ gần lúc mục tiêu bị kéo về Ma trận và tập canh nhịp theo hoạt ảnh. Chiêu 1 bảo vệ trong lúc di chuyển, hiệu lực chấm dứt khi tung chiêu hoặc đánh. Chỉ tái kích hoạt Chiêu 3 nếu tâm Ma trận an toàn.",
+      "archetypes": [
+        {
+          "id": "darcy-mid-matrix",
+          "name": "D’Arcy Đường giữa Dồn sát thương theo Ma trận",
+          "power_curve": {
+            "early": 2.5,
+            "mid": 4,
+            "late": 4.5
+          },
+          "power_spikes": [
+            "Cấp 4 có Ma trận kéo mục tiêu về điểm đã đặt.",
+            "Hai món phép lõi tăng sức ép của Lập phương cường hóa và chuỗi chiêu quanh Ma trận."
+          ],
+          "gameplan_by_phase": {
+            "early": "Tích Lực lượng thứ nguyên trên lính để dùng Lập phương cường hóa dọn đợt. Giữ Chiêu 1 để xoay vị trí khi đối phương còn chiêu áp sát. Nếu đang đầy Lực lượng thứ nguyên khi cần đẩy lính rồi đảo, chọn Lập phương cường hóa. Nếu bị ép góc hoặc đối phương đe dọa băng vào, giữ cường hóa cho Chiêu 1 để thoát nhịp đầu.",
+            "mid": "Khi dẫn, phối hợp với đồng minh có khống chế để đặt Ma trận lên người khó né. Theo dõi hiệu ứng giải khống chế của địch trước khi dồn Lập phương. Nếu mục tiêu vừa dùng giải khống, đặt Ma trận vào chỗ đồng đội còn thấy và nối được sát thương. Khi địch có hai hướng rút, ưu tiên ép một người vào điểm đồng đội kiểm soát.",
+            "late": "Khi thọt, ném Lập phương dọn lính và dùng Ma trận chặn hướng băng trụ. Xả từ ngoài tâm nếu chỗ đó còn bị dàn chắn địch kiểm soát. Nếu tâm Ma trận sát tuyến địch, dùng lượt kéo để dồn Lập phương từ ngoài và giữ vị trí. Chỉ dịch chuyển vào khi đường thoát còn sẵn và đồng đội có thể bảo vệ điểm đáp."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "lorion",
+      "durability_class": "squishy",
+      "range_class": "mid-ranged",
+      "coach_notes": "Theo dõi vị trí lôi cầu trước khi dùng Tĩnh điện. Nếu cầu đang ở ngoài, Chiêu 2 dịch chuyển Lorion tới cầu. Canh Chiêu 3 ở góc địch phải đi qua hoặc nối khống chế đồng đội vì chiêu nổ trễ.",
+      "archetypes": [
+        {
+          "id": "lorion-mid-ball-control",
+          "name": "Lorion Đường giữa Điều khiển lôi cầu",
+          "power_curve": {
+            "early": 3,
+            "mid": 4.5,
+            "late": 4.5
+          },
+          "power_spikes": [
+            "Cấp 4 có Bão từ trường để khống chế diện rộng sau nhịp tụ lực.",
+            "Hai món phép lõi cho phép gây áp lực qua nhiều nhịp lôi cầu."
+          ],
+          "gameplan_by_phase": {
+            "early": "Dùng đường bay của Chiêu 1 để quét nhiều lính và đặt sẵn cầu ở phía hành lang an toàn. Thận trọng với Chiêu 2 khi cầu ở sâu phía địch. Nếu đối phương tiến lên sau khi thấy lần ném đầu, dùng lần ném tiếp theo để cắt đường áp sát. Chỉ kéo người theo cầu khi điểm tới nằm ngoài tầm phản công của Trợ thủ hoặc Rừng.",
+            "mid": "Khi dẫn, dàn cầu trước ở cửa hang, đặt Bão từ trường vào chỗ đồng đội đang ghìm người rồi mới tính nhịp Tĩnh điện. Nếu đồng đội đã có người đứng chặn mép hang, đặt cầu ở đường rút thứ hai để vây thay vì chồng tất cả chiêu vào cửa chính. Khi giữ trụ, đặt cầu trên hướng địch buộc phải qua để tiến vào.",
+            "late": "Khi thọt hoặc gặp đội hình lao mạnh, chơi quanh chủ lực và giữ cầu ở vị trí phản mở. Dùng Bão từ trường làm đối phương chậm nhịp băng vào để đội có thời gian tản góc. Nếu mở được Bão từ trường nhưng điểm cầu đã bị địch bao, để khống chế nổ từ xa. Khi địch dồn vào chủ lực mình, đợi họ cam kết đường lướt rồi dùng vùng nổ phản mở."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "flowborn",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "coach_notes": "Biến thể Xạ thủ. Tại tế đàn cân nhắc Xuyên phá để lấy công vật lý hoặc Sinh mệnh/Gia tốc khi cần sống sót. Dòng chảy dùng chung cho đòn xuyên và lượt dùng thêm của Chiêu 2/3. Bản 15.10 đã giảm sát thương Chiêu 3 vật lý.",
+      "archetypes": [
+        {
+          "id": "flowborn-ad-adaptive",
+          "name": "Flowborn Xạ thủ Đòn xuyên và Quản lý Dòng chảy",
+          "power_curve": {
+            "early": 3,
+            "mid": 4,
+            "late": 4.5
+          },
+          "power_spikes": [
+            "Cấp 4 có Nỏ tiễn liên hoàn để ép góc và bắn qua nhịp giao tranh.",
+            "Món tốc đánh hoặc chí mạng đầu tiên tăng áp lực đánh thường. Đến ngưỡng xuyên giáp, tiếp tục dùng đường đạn xuyên vào đội hình đứng thẳng hàng."
+          ],
+          "gameplan_by_phase": {
+            "early": "Tận dụng lính đứng thẳng hàng với đối thủ để vừa dọn vừa cấu. Dùng Chiêu 1 gần đồng đội hoặc lính mình khi cần hồi và tích tầng, giữ lại nếu địch sắp vào tầm đẩy lùi. Nếu đối thủ đứng sau lính theo cùng một trục, dùng đòn xuyên để cấu cùng lúc. Nếu lính gần trụ địch và Rừng chưa lộ, giữ tầng và góc lướt để xử lý lượt địch quay lại.",
+            "mid": "Khi dẫn, đứng sau tuyến chắn, dùng Chiêu 2 ép góc ngoài rồi cân nhắc Chiêu 1 rút hồi Chiêu 2/3 khi có thể tiếp tục giao tranh. Khi tranh cửa hang, quyết định trước lượt nào dành tầng cho Chiêu 2 hoặc 3. Nếu mục tiêu đã rời tầm và đội chưa ra hiệu tiến, giữ tầng cho lượt đánh kế thay vì đuổi theo để tiêu hết.",
+            "late": "Khi thọt, giữ góc bắn lên mục tiêu gần và giữ tài nguyên để đổi vị trí hoặc đẩy lùi người áp sát. Cân nhắc nhánh Sinh mệnh và một ô bảo mệnh khi sát thủ liên tục tìm tới. Nếu dàn chắn địch đứng thẳng với chủ lực, đổi nhẹ góc đòn xuyên khi còn giữ được đường lùi. Khi sát thủ đang giữ chiêu chờ bạn lộ vị trí, dành Chiêu 1 đẩy lùi rồi mới chuyển sang nhịp dùng tầng gây sát thương."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "rouie",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "coach_notes": "Giá trị của Rouie nằm ở việc cả đội phân người trước khi hội quân. Trước mục tiêu, thống nhất người xử lý lính cánh, người giữ tầm nhìn và người phải có mặt đầu tiên. Thần môn cần 4 giây để đưa người đang đứng trong cổng về tế đàn. Thần trận cho mỗi đồng minh một lượt tới điểm đặt trong cửa sổ 8 giây. Tính thời gian người hồi máu hoặc người đẩy cánh sẵn sàng bấm rồi mới đặt cổng. Nếu đối phương có thể phủ khống chế vào điểm đến hoặc cắt đường giữ nhà, chọn điểm khác hoặc bỏ lượt hội quân. Mốc Late 5.0 theo đánh giá người chơi phản ánh sức mạnh macro khi cả đội phối hợp được.",
+      "archetypes": [
+        {
+          "id": "rouie-roam-rotation",
+          "name": "Rouie Trợ thủ Điều quân và Hồi tuyến",
+          "power_curve": {
+            "early": 2.5,
+            "mid": 4.5,
+            "late": 5.0
+          },
+          "power_spikes": [
+            "Cấp 4 mở phương án trả người về tế đàn rồi gọi trở lại với Thần môn và Thần trận.",
+            "Cuối trận, khi một đồng đội có thể ép lính cánh và đội kiểm soát chỗ đáp, Thần trận rút ngắn thời gian chuyển từ đánh hai cánh sang tập trung đủ người."
+          ],
+          "gameplan_by_phase": {
+            "early": "Dùng câm lặng phủ đường đối phương đuổi vào và giữ lượt đẩy lùi để cắt người bám Xạ thủ. Đặt Thần môn phía sau trụ hoặc góc đã có tầm nhìn khi đồng đội còn đủ thời gian đứng trong cổng. Báo người nào về và ai ở lại giữ đợt lính.",
+            "mid": "Đầu tiên đẩy lính đường gần và chiếm góc đáp với tuyến trước. Nếu một đồng đội bị cấu thấp máu trước mục tiêu, cho người đó về bằng Thần môn. Với người đang đẩy cánh, đợi họ báo đã xử lý đợt lính hoặc buộc được địch lộ người phòng thủ rồi đặt Thần trận để đội đánh vào lợi thế quân số.",
+            "late": "Khi dẫn, cho người đẩy cánh buộc đối phương lộ người phòng thủ, sau đó mở cổng sau tuyến chắn cạnh Caesar hoặc gần đường đang ép trụ. Khi thọt, giữ người xử lý đợt lính đe dọa nhà và dùng Thần trận để gọi đồng đội về điểm thủ an toàn. Nếu đối phương bỏ Caesar để ép nhà, giữ quyền hội quân phòng thủ. Nếu đối phương vẫn ở Caesar và nhà đã an toàn, chọn góc đáp ngoài vùng khống chế để tranh mục tiêu."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "fennik",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "coach_notes": "Bản 17.11 tăng cả sát thương gốc lẫn sát thương nổ Chiêu 1. Dùng Chiêu 2 để né nhịp bị chọn mục tiêu hoặc rời góc nguy hiểm. Theo dõi khoảng cách sau nhịp lướt của Chiêu 1 để tránh tự đưa mình vào tầm khống chế.",
+      "archetypes": [
+        {
+          "id": "fennik-jungle-objectives",
+          "name": "Fennik Đi rừng Kíp nổ và Ép mục tiêu",
+          "power_curve": {
+            "early": 4,
+            "mid": 4.5,
+            "late": 4
+          },
+          "power_spikes": [
+            "Cấp 4 có Lốc siêu thanh để cộng kíp và giữ địch ở cửa hẹp.",
+            "Món tốc đánh đầu tiên giúp chạm đủ bốn kíp nhanh hơn khi có góc đánh."
+          ],
+          "gameplan_by_phase": {
+            "early": "Dọn vòng rừng chắc tay, dùng nhịp đánh đủ kíp khi có thể đứng bắn. Chỉ bước vào sông khi đường gần có người hỗ trợ. Nếu đường gần bị ghim lính, dọn bãi bên mình tiếp và giữ Nẹt điện để né chiêu quan trọng. Lấy mục tiêu sớm khi đồng đội ép được người đối diện lùi và có góc đứng đánh đủ kíp.",
+            "mid": "Khi dẫn, tận dụng Kíp nổ lên công trình hoặc đánh mục tiêu lớn sau khi đã đẩy lính. Đặt tâm Lốc siêu thanh vào lối đối thủ phải đi qua. Nếu địch đã mất người giữ đường, đặt kíp lên trụ khi đội có lính và biết lối rút. Nếu Rừng địch còn ngoài tầm nhìn, giữ Nẹt điện và có thể dùng Lốc lên lối vào trước khi tiếp tục đánh mục tiêu.",
+            "late": "Khi thọt, giữ Chiêu 2 cho pha lao của địch và dùng Lốc siêu thanh kéo chậm nhịp vào hang. Bắn mục tiêu gần nhất đủ lâu để nổ kíp khi dàn chắn mình đã có mặt. Khi đứng đánh mục tiêu, quyết định trước lượt nào dành Nẹt điện để né người mở. Nếu lối vào mất tầm nhìn hoặc không thể giữ cự ly sau khi lộn, rời mục tiêu và chờ đồng đội lấy lại góc."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "toro",
+      "durability_class": "tank",
+      "range_class": "melee",
+      "coach_notes": "Canh nhịp tung chiêu để tận dụng miễn khống chế. Chiêu 2 cho lá chắn và có thể làm mới Chiêu 1 khi có địch trong vùng. Bản 29.09 giảm sát thương Chiêu 2, nên đánh giá pha mở qua khả năng giữ người cho đồng đội.",
+      "archetypes": [
+        {
+          "id": "toro-roam-frontline",
+          "name": "Toro Trợ thủ Mở giao tranh và Chắn tuyến",
+          "power_curve": {
+            "early": 3.5,
+            "mid": 4.5,
+            "late": 4
+          },
+          "power_spikes": [
+            "Có Chiêu 1 và 2 để hất tung, lấy lá chắn và làm mới Sừng trâu nếu điều kiện Chiêu 2 thỏa.",
+            "Cấp 4 có Đại địa chấn chia đội hình và có thể dùng Sừng trâu trong lúc tung chiêu."
+          ],
+          "gameplan_by_phase": {
+            "early": "Đứng giữa đường lao của đối phương và Xạ thủ. Dùng Sừng trâu để cắt pha mở, giữ Chiêu 2 nếu đối phương còn khả năng dồn sát thương theo sau. Nếu Trợ thủ địch đứng chắn Xạ thủ mà chủ lực mình đang bận lính, giữ húc và ép họ lùi bằng vị trí. Mở khi đồng đội có đường tới hoặc dùng húc để cắt pha địch đi trước.",
+            "mid": "Khi dẫn, ép địch rời cửa hang bằng Đại địa chấn từ góc đồng đội theo được. Sừng trâu có thể nối trong lúc tung Chiêu 3 để bắt người đổi hướng. Kiểm tra địch có thể chạy khỏi Đại địa chấn theo hướng nào rồi dùng Sừng trâu để cắt một lối. Khi đội mình thiếu sát thương theo ngay, mở từ góc nông để giữ đường về sau nhịp hất.",
+            "late": "Khi thọt, dành ít nhất một lần hất tung cho tướng lao vào chủ lực. Khi Chiến ý còn thấp, chọn pha chặn ngắn và lùi về tuyến mình giữa các đợt. Nếu sát thủ địch chưa lộ và chủ lực mình không còn phép thoát, giữ húc để bảo kê dù tuyến trước địch đứng gần. Nếu đã thấy sát thủ ở xa, có thể dành lượt mở để lấy vị trí trong cửa hang."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "valhein",
+      "durability_class": "squishy",
+      "range_class": "ranged",
+      "coach_notes": "Đòn thứ ba có hiệu ứng ngẫu nhiên, còn Chiêu 2 choáng chủ động để canh thời điểm. Chiêu 3 thưởng tốc đánh khi đạn trúng, nên bắn ở cự ly có thể rút hoặc bắn tiếp an toàn.",
+      "archetypes": [
+        {
+          "id": "valhein-lane-tempo",
+          "name": "Valhein Xạ thủ Tốc đánh và Ép đường",
+          "power_curve": {
+            "early": 4.5,
+            "mid": 4,
+            "late": 3.5
+          },
+          "power_spikes": [
+            "Cấp 2 có Phi tiêu hoàng kim làm choáng chủ động để thắng nhịp trao đổi ngắn.",
+            "Món tốc đánh đầu tiên giúp tăng tần suất đòn nội tại. Hướng bán thủ giữ khả năng gây áp lực khi địch dồn sát thương mạnh."
+          ],
+          "gameplan_by_phase": {
+            "early": "Đánh lính chuẩn bị nhịp nội tại rồi bước lên khi Trợ thủ có thể theo. Giữ Chiêu 2 để cắt góc lao của đối phương hoặc nối khống chế đồng đội. Gặp Violet, giữ lợi thế đầu bằng cách né lựu đạn rồi ép nhịp bắn khi dấu đã hết. Nếu đã bị đánh dấu và cô ấy còn cự ly bắn, lùi khỏi tầm trước khi kéo dài trao đổi.",
+            "mid": "Khi dẫn, đổi nhịp ép đường thành trụ hoặc mục tiêu cùng Trợ thủ. Nếu đi bán thủ và sống được qua nhịp dồn đầu, tiếp tục đánh đều vào mục tiêu gần nhất. Nếu Trợ thủ đã ghìm mục tiêu, nối choáng sau lượt khống chế của đồng đội. Nếu đối thủ còn người bọc cánh, giữ phi tiêu hoàng kim cho hướng đó và ép mục tiêu bằng nhịp đánh thường.",
+            "late": "Khi thọt, giữ choáng cho người lao vào và dọn lính gần trụ. Nếu đội đã có người bảo kê và đang cần sát thương, ưu tiên hoàn thành ngưỡng đồ gây sát thương trước pha tranh lớn. Khi phải bước vào cự ly gần để bắn đủ Bão đạn, kiểm tra đường lui và chiêu lao của địch trước. Nếu đội thiếu góc, giữ choáng để mở khoảng trống rồi đánh mục tiêu gần."
+          }
+        }
+      ]
+    }
+  ],
+  "review_sources": {
+    "ybneth": {
+      "academy": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/ybneth/",
+      "rework": "https://lienquan.garena.vn/tag/ybneth/",
+      "shield_and_healing_patch": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-ngay-hoi-lien-quan-23-07-2026/",
+      "verification": "Bản vá 11.09.2025 ghi cơ chế lướt vào pháp trận, miễn khống, tối đa 24 đợt hạt và điều hướng hai tay. Mô tả tại thời điểm làm lại ghi mốc 10 lần trúng tướng và sát thương phép 20 + 0,5% máu tối đa mỗi hạt. Bản 23.07.2026 xác nhận thay đổi lá chắn và hồi máu. Điều kiện choáng Chiêu 2, hệ số Chiêu 2 và thông số hiện tại của hạt lấy từ bản chép người chơi, chờ đối chiếu tooltip client."
+    },
+    "dyadia": {
+      "balance_patch": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-17-11-2026/",
+      "verification": "Cấp khoảng 5 và khoảng 900 vàng nội tại là mốc quan sát thực chiến của người chơi. Điểm sức mạnh dự thảo do coach quy đổi để phản ánh nhịp mạnh đầu, hụt giữa, mạnh trở lại khi có vàng nội tại và trang bị."
+    },
+    "violet": {
+      "mark_rework": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-11-03-2026/",
+      "skill_1_balance": "https://lienquan.garena.vn/chi-tiet-ban-cap-nhat-le-hoi-5v5-08-04-2026/",
+      "verification": "Garena xác nhận giảm giáp, dấu ấn, hệ số tăng theo cấp cho hai chiêu và sát thương gấp đôi lên lính có dấu. Mức làm chậm, quái rừng, tăng tốc sau lộn, phát bắn kế tiếp và quy tắc chí mạng được ghi theo bản chép người chơi. Cách chọn chiêu cấp 1, ưu tiên Chiêu 2 sau khi mở cả hai và đánh giá kèo AD đầu trận là nhận định thực chiến."
+    },
+    "rouie": {
+      "academy": "https://lienquan.garena.vn/hoc-vien/tuong-skin/d/rouie/",
+      "verification": "Late 5.0 theo đánh giá người chơi về macro có phối hợp. Kế hoạch chia cánh, hồi quân và hội quân là đề xuất chiến thuật dựa trên cơ chế Chiêu 2 và Chiêu 3."
+    }
+  }
+}

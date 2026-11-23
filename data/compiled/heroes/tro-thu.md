@@ -3,6 +3,7 @@
 ## Alice (`alice`)
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** hard-cc, mobility, shield, shred
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3558 | phys_atk_lv1: 176 | magic_atk_lv1: 0 | armor_lv1: 144 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 470 | move_speed: 350.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Bước chân thần tốc:** Nội tại: Sử dụng một kỹ năng sẽ tăng tốc chạy trong 1 giây.
   - **Chiêu 1 - Vụ nổ thời không:** Alice gọi đến áng sáng mặt trời, gây sát thương phép và làm choáng những kẻ thù trúng chiêu.
@@ -14,6 +15,7 @@
 ## Annette (`annette`)
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** hard-cc, slow, mobility, shield, sustain, percent-hp
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3555 | phys_atk_lv1: 160 | magic_atk_lv1: 0 | armor_lv1: 140 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 430 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Gió nhẹ:** Annette nhận một điểm cộng dồn Gió nhẹ mỗi khi tướng xung quanh tung chiêu, tối đa 15 điểm Khi đã đủ 15 điểm, nếu bản thân Annette hoặc một tướng đồng minh lân cận còn dưới 70% máu, tất cả điểm cộng dồn sẽ chuyển thành hiệu ứng hồi máu cho mọi tướng đồng minh xung quanh.
   - **Chiêu 1 - Gió xoáy:** Annette tạo ra một cơn gió lốc gây sát thương phép mỗi 0.25 giây tại điểm chỉ định. Mỗi đợt tăng 33% sát thương, kéo dài trong 2 giây. Những kẻ địch tại vùng tâm cơn gió sẽ phải chịu thêm 2% máu tối đa thành sát thương phép, đồng thời bị làm chậm 50% tốc chạy trong 0.25 giây
@@ -25,6 +27,7 @@
 ## Aya (`aya`)
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** hard-cc, slow, mobility, shield, immune-untargetable, vision
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3558 | phys_atk_lv1: 160 | magic_atk_lv1: 0 | armor_lv1: 130 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 470 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Linh hồn sóc nhỏ:** Dưới 40% máu, Aya biến thành sóc nhỏ trong 5 giây, không bị chọn làm mục tiêu và nhận bộ chiêu thức mới.
   - **Chiêu 1 - Nốt nhạc ánh sáng:** Bắn ra quang cầu gây sát thương phép và làm chậm kẻ địch đồng thời khiến địch lộ diện
@@ -36,6 +39,7 @@
 ## Chaugnar (`chaugnar`)
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** hard-cc, mobility, immune-untargetable
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3661 | phys_atk_lv1: 170 | magic_atk_lv1: 0 | armor_lv1: 171 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 420 | move_speed: 390.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Đại dương sâu thẳm:** Nội tại: Mỗi khi tung chiêu 1 sẽ giúp Chaugnar hóa giải tất cả hiệu ứng khống chế, đồng thời tăng miễn thương và tốc chạy.
   - **Chiêu 1 - Thủy triều:** Chaugnar triệu hồi một luồng năng lượng công kích kẻ địch, gây sát thương phép lên bất kỳ kẻ địch nào trúng chiêu và giảm 50% tốc chạy của nạn nhân.
@@ -45,8 +49,15 @@
 ---
 
 ## Dolia (`dolia`)
-- **Vai trò:** Trợ thủ | **Loại ST:** Hỗn hợp/Chưa rõ | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
+- **Vai trò:** Trợ thủ | **Loại ST:** Hỗn hợp/Chưa rõ | **Chống chịu/Tầm:** squishy / ranged
 - **Cơ chế:** slow, mobility, sustain, reset
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3500 | phys_atk_lv1: 176 | magic_atk_lv1: 0 | armor_lv1: 140 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 460 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
+- **Hồ sơ chiến thuật (Curated):**
+  - **Dolia Trợ thủ Làm mới chiêu chủ chốt** (Early 2.5/5 · Mid 4.5/5 · Late 4.5/5) | Power Spikes: Cấp 4 có thể làm mới chiêu đang hồi lâu nhất của đồng minh trong phạm vi., Mạnh khi đồng minh có chiêu quyết định giao tranh và cả hai giữ được cự ly liên kết.
+    - *early:* Giúp chủ lực qua nhịp đẩy đầu bằng Chiêu 2 đặt hồ gần đồng đội. Ở sông hoặc trong hồ, canh đợt sóng cuối của Chiêu 1 chặn địch áp sát. Nếu địch còn cú lao, đặt hồ lệch khỏi đường lính để đồng đội có đường lùi và giữ sóng cuối đón người áp sát. Khi đường đã đẩy xong, hồi ở sông rồi đi cùng Rừng thay vì bỏ Xạ thủ giữa đợt lính.
+    - *mid:* Khi dẫn, đi cùng người có chiêu mở để ép hai nhịp quanh mục tiêu. Giữ vị trí đủ gần để dùng Chiêu 3 sau nhịp đầu và giữ hồ trên đường đồng đội có thể đứng đánh. Khi người lập khế ước còn nhiều chiêu đang hồi, tính chiêu nào sẽ được làm mới. Nếu chiêu mở đầu hụt và đội chưa tới, giữ lượt thứ hai cho giao tranh tiếp theo.
+    - *late:* Khi bị ép, dùng lượt làm mới cho chiêu bảo kê hoặc phản mở có giá trị nhất. Nếu khu vực tranh chấp mất tầm nhìn, tập hợp ở lối vào an toàn trước khi tìm cơ hội dùng chiêu. Trước giao tranh, quyết định đội cần mở hai lần hay giữ một lượt phản mở. Khi đối phương còn sát thủ ở cánh khuất, chừa khoảng cách với người lao vào để còn sống tới nhịp làm mới.
+- **Ghi chú Coach:** Chọn người lập khế ước theo chiêu mà đội cần dùng lần hai. Báo trước nhịp làm mới và chờ chiêu cần làm mới thực sự vào hồi, vì Chiêu 3 xét chiêu đang hồi lâu nhất. Hướng hồi phục hoạt động tốt quanh sông và hồ nước tự tạo.
 - **Kỹ năng (Official):**
   - **Nội tại - Linh lực biển sâu:** Dolia hóa thành mỹ nhân ngư khi di chuyển ở địa hình hoặc môi trường nước. Tốc độ di chuyển của Dolia sẽ giảm, nhưng được hồi phục máu và năng lượng đồng thời đòn đánh gây sát thương diện rộng. Khả năng hồi phục của Dolia được thay thế bởi Linh lực biển sâu, cho phép cô thiết lập khế ước với một đồng minh. Khi sử dụng hồi phục, cô nàng sẽ ưu tiên cho đồng minh được lập khế ước.
   - **Chiêu 1 - Hải dương hoan ca:** Dolia tung 4 đợt sóng âm thanh, gây sát thương và làm chậm mục tiêu. Đợt sóng cuối tạo ra tiếng vang, gây sát thương lên kẻ địch chạm vào đồng thời đợt sóng cuối đánh bật tướng địch khi sử dụng ở dưới nước.
@@ -56,9 +67,16 @@
 ---
 
 ## Dyadia (`dyadia`)
-- **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
+- **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** squishy / ranged
 - **Cơ chế:** hard-cc, mobility, sustain, vision
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **16.11.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3560 | phys_atk_lv1: 169 | magic_atk_lv1: 0 | armor_lv1: 140 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 620 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
+- **Hồ sơ chiến thuật (Curated):**
+  - **Dyadia Trợ thủ Hồi phục và Phản công** (Early 4.5/5 · Mid 2.5/5 · Late 4.5/5) | Power Spikes: Đầu trận có thể tạo áp lực bằng sát thương và nhịp trói của Chiêu 2 khi có góc vào an toàn., Cấp 4 có Tụ Nhân Duyên để hồi máu trong giao tranh hoặc nối trói từ xa lên mục tiêu đang mang Ác Duyên., Theo thực chiến, Dyadia mạnh lại khi vàng nội tại vào khoảng 900 trở lên và đã có trang bị phù hợp.
+    - *early:* Dùng Ác Duyên ép đối phương lùi hoặc bỏ vị trí, tái kích hoạt để trói khi đồng đội theo kịp và đường vào an toàn. Khi gặp Y’bneth còn cú vỗ, ưu tiên giữ cự ly, đi ngoài hướng hắn đang canh và để Ác Duyên chạy. Có Chiêu 3 thì dùng dấu sẵn có để trói từ xa hoặc hồi máu cho đội. Khi Y’bneth quay mặt chắn đường vào, dùng góc chéo để buộc hắn chọn giữa canh bạn và chặn chủ lực.
+    - *mid:* Ở đoạn hụt sức người chơi thường gặp quanh cấp 5, ưu tiên tích vàng nội tại bằng Chúc Phúc Lương Duyên hoặc Lời Nguyền Ác Duyên qua các nhịp trao đổi ngắn. Giữ Lương Duyên trên đồng đội ở phía sau khi cần lối lướt về, đồng thời hoàn thiện trang bị. Trước khi lao theo dấu, kiểm tra Y’bneth đã dùng Chiêu 2 và đồng đội có thể đánh tiếp. Nếu đồng đội đang rời khu vực, ưu tiên kích Lương Duyên trên đường rút. Chỉ dùng Ác Duyên để tranh vàng trên người có thể chạm từ mép tầm khi địch mất chiêu mở.
+    - *late:* Khi đã tích khoảng 900 vàng nội tại trở lên và đủ trang bị cho pha giao tranh, chọn góc Tụ Nhân Duyên vừa chạm tuyến mình vừa đe dọa địch đã mang dấu. Nếu Y’bneth còn Chiêu 2, ưu tiên giữ cự ly để trói hoặc cứu người. Nếu hắn đã lướt vào mở pháp trận, rời vùng hạt sớm và giúp đồng đội tản ra. Nếu chủ lực đội mình vừa bị ép mất phép thoát, giữ Tụ Nhân Duyên cho nhịp đối phương quay lại. Nếu chủ lực còn an toàn và đã có dấu trên tuyến trước, dùng chiêu trước để tạo nhịp đánh vào.
+- **Ghi chú Coach:** Theo kinh nghiệm người chơi, Dyadia ép tốt đầu trận nhờ sát thương và trói từ Chiêu 2, rồi có thêm nhịp hỗ trợ giao tranh ở cấp 4. Đoạn hụt sức thường bắt đầu khoảng cấp 5, trước khi tích đủ vàng nội tại và có trang bị. Khoảng 900 vàng nội tại trở lên kết hợp đồ phù hợp là mốc thực chiến để đánh giá sức mạnh, với hiệu quả Chiêu 3 tăng dần theo vàng kiếm từ bộ chiêu. Bản 17.11 giảm sát thương gốc của nội tại và phần sát thương kéo dài của Chiêu 2. Trong kèo Y’bneth, Chiêu 2 của hắn có thể gom và choáng cả một mục tiêu. Cần theo dõi hướng vỗ và hồi chiêu trước khi tái kích hoạt Ác Duyên hoặc lao vào bằng đòn Phúc Duyên.
 - **Kỹ năng (Official):**
   - **Nội tại - Phúc Duyên:** Nội tại: (1) Mỗi 7.5-6 giây (giảm theo cấp), đòn đánh thường kế tiếp được cường hóa: Lao đến mục tiêu bằng động tác đu xích đu, đá gây sát thương phép và hất lùi; nếu trúng, bật ngược ra sau. (2) Thưởng vàng & tăng tốc cường hóa: Khi đồng minh nhận Chúc Phúc Lương Duyên hoặc kẻ địch dính Lời Nguyền Ác Duyên: +20 vàng và giảm 50% thời gian hồi cho đòn đánh cường hóa tiếp theo.
   - **Chiêu 1 - Trao Lương Duyên:** Gắn cho 1 đồng minh: Gắn Lương Duyên để hồi máu cho một đồng minh. Tái kích hoạt lên cùng người đó: Dyadia lướt tới, kích Chúc Phúc, hồi nhiều máu cho cả hai. Gắn cho 2 đồng minh khác nhau: Tăng tốc khi lại gần, khi chạm nhau -> Chúc Phúc + hồi máu + kéo dài tăng tốc 2s. Thời gian tái kích hoạt kéo dài 5 giây.
@@ -70,6 +88,7 @@
 ## Helen (`helen`)
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** hard-cc, mobility, sustain
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3588 | phys_atk_lv1: 159 | magic_atk_lv1: 0 | armor_lv1: 142 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 470 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Thanh cao:** Helen chịu sát thương thì bản thân sẽ được tăng tốc chạy và hồi máu, cách một khoảng thời gian cố định sẽ được kích hoạt 1 lần
   - **Chiêu 1 - Ánh sáng thần thánh:** Helen được tăng tốc chạy đồng thời liên tục hồi máu cho bản thân và các đồng minh lân cận
@@ -82,6 +101,7 @@
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** hard-cc, slow, mobility, shield, shred, vision
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **28.09.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3672 | phys_atk_lv1: 162 | magic_atk_lv1: 0 | armor_lv1: 138 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 450 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Ẩn Đột:** Sau khi thoát khỏi tầm nhìn của địch trong 3 giây, Krizzix được cường hóa đòn đánh thường kế tiếp gây sát thương phép và làm chậm tốc chạy diện rộng quanh kẻ địch trúng chiêu. Nếu Krizzix tung đòn đánh thường cường hóa khi kẻ địch không nhìn thấy hắn, thời gian hồi của chiêu này được giảm.
   - **Chiêu 1 - Ngụy Trang Đơn Lẻ:** Krizzix tiến vào trạng thái ngụy trang. Dưới trạng thái này, Krizzix được tăng tốc chạy và gây sát thương phép kèm hiệu ứng giảm giáp cùng giáp phép lên những nạn nhân hắn lướt qua; ngụy trang sẽ mất hiệu lực khi Krizzix gây bất kỳ sát thương nào khác lên địch, ngoại trừ chiêu này.
@@ -93,6 +113,7 @@
 ## Ming (`ming`)
 - **Vai trò:** Trợ thủ | **Loại ST:** Vật lý/Phép/Chuẩn | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** sustain, true-dmg, vision
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3620 | phys_atk_lv1: 162 | magic_atk_lv1: 0 | armor_lv1: 138 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 440 | move_speed: 370.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Hồi huyết trảo:** Mỗi 5 giây, đón đánh thường kế tiếp sẽ gây sát thương phép và kích hoạt hiệu ứng đánh thường trên người địch về hồi máu cho bản thân và đồng đội được liên kết. Đánh mục tiêu không phải tướng sẽ hồi máu ít hơn.
   - **Chiêu 1 - Bí thuật cường hóa:** Thời gian hồi chiêu 3s - Năng lượng tiêu hao 50+5/cấp chiêu Ném pháp khí để kết nối với đồng đội, nếu không trúng mục tiêu, pháp khí sẽ tự động tìm kiếm một đồng minh trong phạm vi để kết nối và tăng: 20 + 4/cấp chiêu (+10% công phép) thuộc tính tấn công chính (1 thuộc tính tấn công chính = 1 công vật lý hoặc 2 công phép) & (10 + 2/cấp chiêu)% tốc đánh. Kẻ địch chạm vào sợi dây liên kết sẽ phải chịu 30/cấp chiêu (+20% công phép) sát thương phép mỗi 0.5 giây. Nội tại: Bản thân nhận thêm 30 + 6/cấp chiêu công vật lý, /75 + 15cấp chiêu công phép và (7.5 + 1.5/cấp chiêu)% tốc chạy
@@ -102,8 +123,15 @@
 ---
 
 ## Rouie (`rouie`)
-- **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
+- **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** squishy / ranged
 - **Cơ chế:** hard-cc, mobility
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3555 | phys_atk_lv1: 160 | magic_atk_lv1: 0 | armor_lv1: 130 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 430 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
+- **Hồ sơ chiến thuật (Curated):**
+  - **Rouie Trợ thủ Điều quân và Hồi tuyến** (Early 2.5/5 · Mid 4.5/5 · Late 5.0/5) | Power Spikes: Cấp 4 mở phương án trả người về tế đàn rồi gọi trở lại với Thần môn và Thần trận., Cuối trận, khi một đồng đội có thể ép lính cánh và đội kiểm soát chỗ đáp, Thần trận rút ngắn thời gian chuyển từ đánh hai cánh sang tập trung đủ người.
+    - *early:* Dùng câm lặng phủ đường đối phương đuổi vào và giữ lượt đẩy lùi để cắt người bám Xạ thủ. Đặt Thần môn phía sau trụ hoặc góc đã có tầm nhìn khi đồng đội còn đủ thời gian đứng trong cổng. Báo người nào về và ai ở lại giữ đợt lính.
+    - *mid:* Đầu tiên đẩy lính đường gần và chiếm góc đáp với tuyến trước. Nếu một đồng đội bị cấu thấp máu trước mục tiêu, cho người đó về bằng Thần môn. Với người đang đẩy cánh, đợi họ báo đã xử lý đợt lính hoặc buộc được địch lộ người phòng thủ rồi đặt Thần trận để đội đánh vào lợi thế quân số.
+    - *late:* Khi dẫn, cho người đẩy cánh buộc đối phương lộ người phòng thủ, sau đó mở cổng sau tuyến chắn cạnh Caesar hoặc gần đường đang ép trụ. Khi thọt, giữ người xử lý đợt lính đe dọa nhà và dùng Thần trận để gọi đồng đội về điểm thủ an toàn. Nếu đối phương bỏ Caesar để ép nhà, giữ quyền hội quân phòng thủ. Nếu đối phương vẫn ở Caesar và nhà đã an toàn, chọn góc đáp ngoài vùng khống chế để tranh mục tiêu.
+- **Ghi chú Coach:** Giá trị của Rouie nằm ở việc cả đội phân người trước khi hội quân. Trước mục tiêu, thống nhất người xử lý lính cánh, người giữ tầm nhìn và người phải có mặt đầu tiên. Thần môn cần 4 giây để đưa người đang đứng trong cổng về tế đàn. Thần trận cho mỗi đồng minh một lượt tới điểm đặt trong cửa sổ 8 giây. Tính thời gian người hồi máu hoặc người đẩy cánh sẵn sàng bấm rồi mới đặt cổng. Nếu đối phương có thể phủ khống chế vào điểm đến hoặc cắt đường giữ nhà, chọn điểm khác hoặc bỏ lượt hội quân. Mốc Late 5.0 theo đánh giá người chơi phản ánh sức mạnh macro khi cả đội phối hợp được.
 - **Kỹ năng (Official):**
   - **Nội tại - Quang tốc:** Rouie tăng tốc chạy cho bản thân và đồng đội gần nhất trong phạm vi.
   - **Chiêu 1 - Thần cảnh/Thần ấn:** Thần cảnh (ST lần 1): Rouie triệu hồi trận pháp Thần cảnh tại vị trí chỉ định, gây sát thương phép lên kẻ địch trong phạm vi và làm chúng câm lặng. Thần ấn (ST lần 2: Rouie triệu hồi thần ấn theo hướng chỉ định gây sát thương phép và đẩy lùi kẻ địch. Đồng đội di chuyển qua Thần ấn sẽ được tăng tốc.
@@ -116,6 +144,7 @@
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** hard-cc, slow, mobility, sustain, immune-untargetable
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **29.10.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3216 | phys_atk_lv1: 162 | magic_atk_lv1: 0 | armor_lv1: 118 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 470 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Suối nguồn:** Nội tại: Mỗi khi tung chiêu Sephera sẽ kích hoạt nội tại Suối nguồn gây sát thương phép lên tướng địch lân cận thấp máu nhất, đồng thời hồi máu cho tướng đồng minh lân cận thấp máu nhất.
   - **Chiêu 1 - Thuỷ âm:** Sephera gảy đàn tấn công 3 kẻ địch lân cận (ưu tiên tướng), gây sát thương phép, đồng thời làm chậm tốc chạy của nạn nhân trong 1 giây. Đặc biệt đòn đánh thường kế tiếp sau khi tung chiêu này sẽ gây sát thương phép, và giúp giảm 1 giây hồi tất cả chiêu.
@@ -127,6 +156,7 @@
 ## TeeMee (`teemee`)
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** hard-cc, slow
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3551 | phys_atk_lv1: 154 | magic_atk_lv1: 0 | armor_lv1: 140 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 420 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Vàng vung vãi:** Nội tại: Các đơn vị kẻ địch lân cận (không phải tướng) khi bị hạ gục giúp TeeMee và đồng đội xung quanh nhận thêm 25% vàng.
   - **Chiêu 1 - Rắm thần lực:** TeeMee bỗng nhiên đau bụng dữ dội, liên tục toát mồ hôi trong 5 giây. Suốt thời gian này, TeeMee có thể tự chủ động hoặc chờ hết thời gian chịu đựng dẫn đến đánh rắm khiến kẻ địch lân cận chịu sát thương phép và bị choáng. Thời gian nín càng lâu, sát thương và choáng càng cao.
@@ -139,6 +169,7 @@
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** hard-cc, slow, mobility, shield
 - **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **29.10.2026** -> kiểm tra `patches_latest.md`.
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3719 | phys_atk_lv1: 158 | magic_atk_lv1: 0 | armor_lv1: 159 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 470 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Sách Thánh Tích:** Nội tại: Mỗi đòn đánh thường thứ ba gây thêm sát thương dựa trên máu tối đa bản thân thành sát thương phép.
   - **Chiêu 1 - Thần Hộ Thể:** Xeniel tự phủ một lớp bản hộ lên bản thân, giúp chặn sát thương. Sau thoáng chốc, Xeniel có thể tự hủy khiên, gây sát thương phép lên những kẻ địch lân cận và làm chậm nạn nhân trúng chiêu. Nếu lớp bảo hộ bị phá sẽ không thể gây sát thương.
@@ -150,6 +181,7 @@
 ## Zip (`zip`)
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** bruiser-or-squishy / mixed
 - **Cơ chế:** hard-cc, shield, sustain, immune-untargetable
+- **Chỉ số in-game (17.11.2026):** hp_lv1: 3769 | phys_atk_lv1: 151 | magic_atk_lv1: 0 | armor_lv1: 166 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 470 | move_speed: 380.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - BÉO ĐÔ ĐÔ:** Zip biến lớn và được tăng miễn thương đồng thời mỗi giây gây sát thương phép lên địch trong phạm vi.
   - **Chiêu 1 - ÁC HẬN:** Zip niệm ma chú, gây sát thương phép lên mục tiêu và làm choáng mục tiêu. Sau đó ma chú tiếp tục tìm và khóa các tướng địch lân cận. Nếu không có đối tượng gần đấy, mục tiêu chính sẽ bị giảm tốc chạy.

@@ -5,30 +5,7 @@
 ## ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026 (`16.11.2026`)
 - **Nguồn:** https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-17-11-2026/
 
-### TỔNG QUAN
-#### Lối vào sự kiện: Sảnh – Trung tâm sự kiện – Đại Chiến Ghép Thú
-Thời gian sự kiện: 17/11/2026 – 08/12/2026
-Thời gian đổi thưởng: 17/11/2026 – 08/12/2026
-Mô tả sự kiện:
-- Tham gia sự kiện Đại Chiến Ghép Thú, hoàn thành nhiệm vụ hoặc vượt các màn để nhận Xu Lễ hội
-- Xu Lễ hội dùng để đổi Bolt Baron – Chúa Tể Sấm Sét và các thưởng khác tại Cửa hàng đổi thưởng
-
-#### Làm lại chiêu thức Butterfly! Chơi Butterfly nhận thưởng!
-Lối vào sự kiện: Sảnh – Trung tâm sự kiện – Thử thách tướng Butterfly
-Thời gian sự kiện: 17/11/2026 – 29/11/2026
-Mô tả sự kiện:
-- Hoàn thành nhiệm vụ đăng nhập và chơi Trận đấu bằng Butterfly để nhận tướng Butterfly và Xu Lễ hội
-- Xu Lễ hội dùng để đổi trang phục và các thưởng khác tại Cửa hàng đổi thưởng
-
-#### Bình chọn trang phục, tham gia sự kiện nhận thưởng
-Lối vào sự kiện: Sảnh – Trung tâm sự kiện – Bình chọn trang phục
-Thời gian sự kiện: 17/11/2026 – 01/12/2026
-Mô tả sự kiện:
-- Tham gia sự kiện Bình chọn trang phục, hoàn thành tiến độ bình chọn để nhận Xu Lễ hội
-- Xu Lễ hội dùng để đổi trang phục và các thưởng khác tại Cửa hàng đổi thưởng
-| CÂN BẰNG TƯỚNG |
-| --- |
-
+### CÂN BẰNG TƯỚNG
 #### Butterfly
 Lý do chỉnh sửa:
 “Trong lần điều chỉnh này, chúng tôi đã tối ưu hiệu ứng hình ảnh của Butterfly giúp hiển thị rõ ràng hơn một số cơ chế gây sát thương trước đây còn quá khó nhận biết của cô ấy. Bên cạnh đó, cơ chế hồi máu của chiêu cuối cũng được tối ưu thành hồi máu tức thì nhằm cân bằng trải nghiệm chơi của Butterfly trong các trận đấu dù đang thuận lợi hay bất lợi. “
@@ -77,56 +54,17 @@ Lý do chỉnh sửa:
 Chỉnh cụ thể:
 - Nội tại: ST gốc: 150~300(+1.0 Công vật lý)(+0.3 Công phép) ST Phép → 140~280(+1.0 Công vật lý)(+0.25 Công phép) ST Phép.
 - Chiêu 2: ST kéo dài: 640(+128/cấp chiêu)(+0.95 Công phép) ST Phép → 540(+108/cấp chiêu)(+1.0 Công phép) ST Phép
-| ĐIỀU CHỈNH CHIẾN TRƯỜNG |
-| --- |
-Kỹ năng Triệu hồi King Kong: Chu kỳ kích hoạt Bùa lợi: 9s → 4.5s Triệu hồi King Kong hỗ trợ làm chậm: 15% → 50% Kỹ năng Triệu hồi King Kong hắc ám: Chu kỳ kích hoạt Bùa lợi: 6s → 3s Triệu hồi King Kong hỗ trợ làm chậm: 15% → 50% Caesar tiên phong bạo chúa: Tăng Công vật lý gốc của Caesar tiên phong bạo chúa để tránh tình trạng khi Hạ BOSS cuối, Caesar tiên phong bạo chúa không thể thắng được Lính Thuộc tính lính: Tăng nhẹ Máu và Tốc đánh của Lính sau phút 20 Kỹ năng phụ trợ Ma chủng hắc ám ST gốc: 280(+20/cấp tướng) → 350(+25/cấp tướng) Lá chắn: 280(+20/cấp tướng) → 350(+25/cấp tướng)
-| SỬA LỖI VÀ TỐI ƯU |
-| --- |
-Sửa lỗi khi Lướt ván Slime va vào Quái rừng thỉnh thoảng bị giật khiến game đứng hình vài giây và hồi chiêu lướt ván bị Làm mới bất thường. Sửa lỗi tốc độ Lướt ván Slime bất thường. Sửa lỗi Lướt ván Slime vẫn dùng được ván trượt ở ngoài Tế đàn. Sửa lỗi 3 trang phục Hợp tác thương hiệu Slime không tàng hình bình thường khi được Chiêu cuối của Krizzix bao phủ dẫn đến hiển thị bóng đen bất thường. Sửa lỗi hiệu ứng hoạt ảnh bất thường khi Lướt ván Slime và phát nhầm hoạt ảnh biến về. Sửa lỗi biểu tượng nút Lướt ván Slime bị sai. Sửa lỗi mô hình một số trang phục bị sai khi dùng Lướt ván Slime (gồm toàn bộ trang phục của Preyta, Sephera NoVa Stardust, Bolt Baron Thiên Phủ Tư Mệnh, Bolt Baron Veldora Tempest, Aoi Aoi Mikasa Ackermann, Billow Okarun). Sửa lỗi Lorion dùng lướt ván cơ chế mùa mùa bị kẹt không tung ra được Chiêu 1. Sửa lỗi sau khi Lorion lên ván trượt, dùng Chiêu 1 nối Chiêu 2 hoặc dùng thẳng Chiêu 2 đều không kích hoạt được đòn sét giật tự động mỗi giây khi lôi cầu trong cơ thể dẫn đến không gây được sát thương và không được hồi máu. Sửa lỗi Rouie dùng Chiêu 2/3 trong Cổng dịch chuyển đường trên, dịch chuyển về nhà rồi dùng Chiêu 3 quay lại Cổng dịch chuyển thì có thể dùng lướt ván ngoài tế đàn. Sửa lỗi Murad dùng Chiêu 1 (đợt 1) trong Cổng dịch chuyển Đường trên về nhà bằng Cổng dịch chuyển rồi dùng Chiêu 1 quay lại Cổng dịch chuyển thì có thể dùng lướt ván ngoài Tế đàn. Sửa lỗi khi dùng Erin, tướng đột ngột bị hạ dù máu đầy và chưa nhận sát thương chí tử. Tối ưu hiệu ứng S1 của Evita và hiệu ứng ma vật tấn công khi cô tung S3. Sửa lỗi Murad Biến về khi chưa đầy máu kích hoạt bất thường hành vi chạm vạch đỏ Biến về (bị hệ thống phán định Biến về troll game). Sửa lỗi âm thanh bất thường khi Dyadia và Stuart cùng xuất hiện trong một trận đấu. Sửa lỗi trang phục Hayate Thứ nguyên vệ thần dạng lửa khi tốc đánh quá 75% sẽ dẫn đến tòa nhà đỏ biến mất. Tối ưu vấn đề khi phe địch dùng tính năng chia sẻ trang phục lính, giao diện phe ta bị lỗi vỡ hình (chỉ hiển thị vòng tròn, thiếu biểu tượng)
 
+### ĐIỀU CHỈNH CHIẾN TRƯỜNG
+Kỹ năng Triệu hồi King Kong: Chu kỳ kích hoạt Bùa lợi: 9s → 4.5s Triệu hồi King Kong hỗ trợ làm chậm: 15% → 50% Kỹ năng Triệu hồi King Kong hắc ám: Chu kỳ kích hoạt Bùa lợi: 6s → 3s Triệu hồi King Kong hỗ trợ làm chậm: 15% → 50% Caesar tiên phong bạo chúa: Tăng Công vật lý gốc của Caesar tiên phong bạo chúa để tránh tình trạng khi Hạ BOSS cuối, Caesar tiên phong bạo chúa không thể thắng được Lính Thuộc tính lính: Tăng nhẹ Máu và Tốc đánh của Lính sau phút 20 Kỹ năng phụ trợ Ma chủng hắc ám ST gốc: 280(+20/cấp tướng) → 350(+25/cấp tướng) Lá chắn: 280(+20/cấp tướng) → 350(+25/cấp tướng)
+### SỬA LỖI VÀ TỐI ƯU
+Sửa lỗi khi Lướt ván Slime va vào Quái rừng thỉnh thoảng bị giật khiến game đứng hình vài giây và hồi chiêu lướt ván bị Làm mới bất thường. Sửa lỗi tốc độ Lướt ván Slime bất thường. Sửa lỗi Lướt ván Slime vẫn dùng được ván trượt ở ngoài Tế đàn. Sửa lỗi 3 trang phục Hợp tác thương hiệu Slime không tàng hình bình thường khi được Chiêu cuối của Krizzix bao phủ dẫn đến hiển thị bóng đen bất thường. Sửa lỗi hiệu ứng hoạt ảnh bất thường khi Lướt ván Slime và phát nhầm hoạt ảnh biến về. Sửa lỗi biểu tượng nút Lướt ván Slime bị sai. Sửa lỗi mô hình một số trang phục bị sai khi dùng Lướt ván Slime (gồm toàn bộ trang phục của Preyta, Sephera NoVa Stardust, Bolt Baron Thiên Phủ Tư Mệnh, Bolt Baron Veldora Tempest, Aoi Aoi Mikasa Ackermann, Billow Okarun). Sửa lỗi Lorion dùng lướt ván cơ chế mùa mùa bị kẹt không tung ra được Chiêu 1. Sửa lỗi sau khi Lorion lên ván trượt, dùng Chiêu 1 nối Chiêu 2 hoặc dùng thẳng Chiêu 2 đều không kích hoạt được đòn sét giật tự động mỗi giây khi lôi cầu trong cơ thể dẫn đến không gây được sát thương và không được hồi máu. Sửa lỗi Rouie dùng Chiêu 2/3 trong Cổng dịch chuyển đường trên, dịch chuyển về nhà rồi dùng Chiêu 3 quay lại Cổng dịch chuyển thì có thể dùng lướt ván ngoài tế đàn. Sửa lỗi Murad dùng Chiêu 1 (đợt 1) trong Cổng dịch chuyển Đường trên về nhà bằng Cổng dịch chuyển rồi dùng Chiêu 1 quay lại Cổng dịch chuyển thì có thể dùng lướt ván ngoài Tế đàn. Sửa lỗi khi dùng Erin, tướng đột ngột bị hạ dù máu đầy và chưa nhận sát thương chí tử. Tối ưu hiệu ứng S1 của Evita và hiệu ứng ma vật tấn công khi cô tung S3. Sửa lỗi Murad Biến về khi chưa đầy máu kích hoạt bất thường hành vi chạm vạch đỏ Biến về (bị hệ thống phán định Biến về troll game). Sửa lỗi âm thanh bất thường khi Dyadia và Stuart cùng xuất hiện trong một trận đấu. Sửa lỗi trang phục Hayate Thứ nguyên vệ thần dạng lửa khi tốc đánh quá 75% sẽ dẫn đến tòa nhà đỏ biến mất. Tối ưu vấn đề khi phe địch dùng tính năng chia sẻ trang phục lính, giao diện phe ta bị lỗi vỡ hình (chỉ hiển thị vòng tròn, thiếu biểu tượng)
 ---
 
 ## ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 30.10.2026 (`29.10.2026`)
 - **Nguồn:** https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-30-10-2026/
 
-### TỔNG QUAN
-#### Hẹn gặp ngày 31/10! Mở đổi trang phục Hiếm Capheny ECHO!
-Lối vào đổi thưởng: Sảnh – Trung tâm sự kiện – Cửa hàng thời gian
-Thời gian đổi: 31/10 – 15/11
-Giới thiệu sự kiện: Trang phục Hiếm Capheny ECHO hoàn toàn mới sắp có mặt tại Cửa hàng thời gian và mở đổi trong thời gian giới hạn.
-
-#### Hẹn gặp ngày 31/10! Trang phục Veres ECHO lên kệ!
-Trang phục Veres ECHO – Tím Huyền Ảo mở bán trong thời gian giới hạn. Sau khi mua vé ECHO, người chơi mới được mở quyền mua trang phục với giá ưu đãi.
-Lối vào sự kiện: Sảnh – Trung tâm sự kiện – Shop ECHO
-Thời gian mở bán: 31/10 – 15/11
-Giá ưu đãi giới hạn thời gian: 649 Quân huy.
-
-#### Hẹn gặp ngày 31/10! Trải nghiệm miễn phí trang phục!
-Thời gian miễn phí: 31/10 – 08/11
-Trang phục miễn phí: Nhiều trang phục được mở miễn phí trong thời gian giới hạn, gồm nhiều trang phục hấp dẫn.
-
-#### Hẹn gặp ngày 31/10! Nhiều chế độ giải trí mở chơi trong thời gian giới hạn!
-Thời gian mở giới hạn: 31/10 – 8/11
-Nội dung sự kiện: Nhiều chế độ giải trí sẽ được mở trong thời gian giới hạn.
-
-#### Hợp tác thương hiệu Slime lần 2 đã đến! Đổi trang phục hợp tác Miễn phí Hữu hạn
-Hợp tác Slime! Hoàn thành nhiệm vụ để nhận trang phục Ilumia Shuna
-Lối vào sự kiện: Sảnh – Trung tâm sự kiện – Ủy thác của Shuna!
-Thời gian sự kiện: 01/11/2026 – 30/11/2026
-Thể lệ sự kiện:
-- Người chơi có thể nhận Xu Slime bằng cách hoàn thành nhiệm vụ hằng ngày và các nhiệm vụ do người chơi khác chia sẻ
-- Xu Slime có thể dùng để Đổi trang phục và các phần thưởng khác
-
-#### Tachi X Benimaru, Bolt Baron X Veldora Tempest xuất hiện, nhận ưu đãi sinh nhật 10 tuổi
-Thời gian sự kiện: 1/11/2026 – 30/11/2026
-Cổng sự kiện: Sảnh – Trung tâm sự kiện – Benimaru x Veldora Tempest
-Nội dung sự kiện:
-- Dùng 12 Quân huy để quay 1 lần hoặc 120 Quân huy để quay 10 lần, có cơ hội nhận “Xu đổi” hoặc các phần thưởng khác.
-- Thu thập đủ số lượng Xu đổi chỉ định để đổi trang phục giới hạn Tachi X Benimaru, Bolt Baron X Veldora Tempest và các phần thưởng hợp tác thương hiệu khác tại Cửa hàng đổi thưởng.
-- Nếu người chơi nhận được Vật phẩm “Vé quay Slime 2026” trong game, có thể quay miễn phí 1 lần.
-| CÂN BẰNG TƯỚNG |
-| --- |
-
+### CÂN BẰNG TƯỚNG
 #### Keera
 Lý do chỉnh sửa:
 “Giảm hồi chiêu Chiêu 1 của Keera và tăng vừa phải sát thương Chiêu 2. “
@@ -178,75 +116,15 @@ Chỉnh cụ thể:
 - Chiêu 1: ST gốc: 325 (+65/cấp chiêu) (+0.65 Công phép) ST Phép → 300(+60/cấp chiêu)(+0.6 Công phép) ST Phép
 - Chiêu 3: ST gốc: 36(+18/cấp chiêu)(+0.07 Công phép) ST Phép → 30(+15/cấp chiêu)(+0.06 Công phép) ST Phép
 - Hồi chiêu: 50s (-5s/cấp chiêu) → 55s (-5s/cấp chiêu)
-| SỬA LỖI VÀ TỐI ƯU |
-| --- |
-Sửa lỗi bản thân bị lộ diện sớm khi sử dụng Vô Ảnh Tiễn sau khi đánh thường trúng tướng địch trong lúc đang mang Bùa đỏ. Sửa lỗi đôi khi hiệu ứng đánh thường cường hóa của trang phục Billow hiển thị bất thường khi Billow phe địch đánh thường. Tối ưu hiển thị biệt danh tiếng Trung và tiếng Anh trong danh sách bạn bè, khắc phục tình trạng kích thước chữ không đồng đều khi thay đổi cỡ chữ hoặc bật in đậm. Tối ưu hiển thị Banner ở lối vào Trung tâm sự kiện để hình không bị cắt. Tối ưu kích thước biểu tượng tín hiệu ở góc trên bên phải giao diện ghép trận. Sửa lỗi biểu tượng Lực chiến hiển thị bất thường trên BXH Lực chiến. Sửa lỗi văn bản trên Thẻ thử trang phục bị chồng lên nhau khi sử dụng thẻ ở giao diện chọn tướng trong trận. Sửa lỗi hiệu ứng động của trang phục khác xuất hiện khi chỉnh sửa hình ảnh tùy chỉnh của Flowborn. Sửa lỗi đôi khi giao diện phía dưới Sảnh biến mất trong một số tình huống. Sửa lỗi đôi khi Sảnh bị đơ không thể thao tác sau khi người chơi nhấn BXH hoặc danh sách bạn bè ở Sảnh rồi nhanh chóng vào trang Đấu hạng và thoát ra. Sửa lỗi Liliana bị cảnh báo bất thường “lên trang bị troll” (đã sửa lỗi khẩn cấp vào 23/10). Sửa lỗi điểm kết thúc trận Evita bất thường. Sửa lỗi vị trí thực tế của boss xuất hiện lúc phút 20 không khớp với vị trí ảnh đại diện trên bản đồ nhỏ.
 
+### SỬA LỖI VÀ TỐI ƯU
+Sửa lỗi bản thân bị lộ diện sớm khi sử dụng Vô Ảnh Tiễn sau khi đánh thường trúng tướng địch trong lúc đang mang Bùa đỏ. Sửa lỗi đôi khi hiệu ứng đánh thường cường hóa của trang phục Billow hiển thị bất thường khi Billow phe địch đánh thường. Tối ưu hiển thị biệt danh tiếng Trung và tiếng Anh trong danh sách bạn bè, khắc phục tình trạng kích thước chữ không đồng đều khi thay đổi cỡ chữ hoặc bật in đậm. Tối ưu hiển thị Banner ở lối vào Trung tâm sự kiện để hình không bị cắt. Tối ưu kích thước biểu tượng tín hiệu ở góc trên bên phải giao diện ghép trận. Sửa lỗi biểu tượng Lực chiến hiển thị bất thường trên BXH Lực chiến. Sửa lỗi văn bản trên Thẻ thử trang phục bị chồng lên nhau khi sử dụng thẻ ở giao diện chọn tướng trong trận. Sửa lỗi hiệu ứng động của trang phục khác xuất hiện khi chỉnh sửa hình ảnh tùy chỉnh của Flowborn. Sửa lỗi đôi khi giao diện phía dưới Sảnh biến mất trong một số tình huống. Sửa lỗi đôi khi Sảnh bị đơ không thể thao tác sau khi người chơi nhấn BXH hoặc danh sách bạn bè ở Sảnh rồi nhanh chóng vào trang Đấu hạng và thoát ra. Sửa lỗi Liliana bị cảnh báo bất thường “lên trang bị troll” (đã sửa lỗi khẩn cấp vào 23/10). Sửa lỗi điểm kết thúc trận Evita bất thường. Sửa lỗi vị trí thực tế của boss xuất hiện lúc phút 20 không khớp với vị trí ảnh đại diện trên bản đồ nhỏ.
 ---
 
 ## ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 15.10.2026 (`15.10.2026`)
 - **Nguồn:** https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-15-10-2026/
 
-### TỔNG QUAN
-#### Tặng miễn phí trang phục Capheny ECHO
-Thời gian sự kiện: Mở đổi từ ngày 31/10
-Lối vào sự kiện: Trung tâm sự kiện – Cửa hàng Thời Gian
-Phần thưởng sự kiện:
-- Tích lũy Huy hiệu Thời Gian để đổi miễn phí trang phục Capheny ECHO.
-- Trang phục sẽ mở đổi vào ngày 31/10, ngày lễ kỷ niệm 10 năm.
-
-#### Nhìn lại kỉ niệm, nhận tối đa 60.000 Huy hiệu Thời Gian
-Thời gian sự kiện: 17/10 – 8/11
-Lối vào sự kiện: Trung tâm sự kiện – Nhìn lại kỉ niệm
-Phần thưởng sự kiện:
-- Nhìn lại hành trình 10 năm Liên Quân. Tùy theo thời gian đăng ký tài khoản, bạn sẽ nhận được từ 30.000 – 60.000 Huy hiệu Thời Gian.
-- Bảo đảm nhận được 30.000 Huy hiệu Thời Gian, có thể dùng để đổi trực tiếp trang phục Capheny ECHO.
-
-#### Truyền Lửa Thời Gian, chắc chắn nhận 400 Quân huy hữu hạn
-Thời gian sự kiện: 23/10 – 15/11
-Lối vào sự kiện: Trung tâm sự kiện – Truyền Lửa Thời Gian
-Phần thưởng sự kiện:
-- Tham gia sự kiện để chắc chắn nhận được 400 Quân huy hữu hạn, đồng thời có cơ hội nhận các giải thưởng lớn như toàn bộ tướng, toàn bộ trang phục!
-- Phần thưởng sẽ mở nhận từ ngày 31/10.
-
-#### Thập Kỷ Chung Sức, nhận miễn phí trang phục lên tới SS hữu hạn
-Thời gian sự kiện: 23/10 – 15/11
-Lối vào sự kiện: Trung tâm sự kiện – Thập Kỷ Chung Sức
-Phần thưởng sự kiện:
-- Đăng nhập, tham gia trận đấu, mời bạn quay lại game hỗ trợ mỗi ngày, hoặc tham gia trận đấu cùng bạn quay lại game để nhận token.
-- Dùng token để đổi trang phục lên tới SS hữu hạn, bao gồm Lữ Bố Tư lệnh Robot, Capheny Kimono, Richter Kiếm thần Susanoo, Arthur Siêu việt, Tulen Tân niên vệ thần, Elsu Sứ giả tận thế, Natalya Nghiệp hỏa yêu hậu…
-
-#### Đổi miễn phí trang phục giới hạn 10 năm
-Thời gian sự kiện: 15/10 – 15/11
-Lối vào sự kiện: Trung tâm sự kiện – Cửa hàng Thời Gian
-Phần thưởng sự kiện:
-- Trang phục giới hạn 10 năm được lên kệ. Có thể dùng Huy hiệu Thời Gian để đổi nhiều trang phục như trang phục Capheny ECHO, nút bấm Capheny ECHO, bộ giới hạn 10 năm của Flowborn, Linh Bảo giới hạn 10 năm, hiệu ứng vĩnh viễn giới hạn 10 năm…
-
-#### Kho Báu Thời Gian, báu vật mới ra mắt, nhận vô vàn Huy hiệu Thời Gian
-Thời gian sự kiện: 29/09 – 15/11
-Lối vào sự kiện: Trung tâm sự kiện – Kho Báu Thời Gian
-Phần thưởng sự kiện:
-- Rất nhiều Báu vật kỉ niệm cho 10 năm Liên Quân đã xuất hiện ở Bình Nguyên Vô Tận. Điểm danh mỗi ngày hoặc tham gia trận đấu để nhận báu vật, bán báu vật để nhận Huy hiệu Thời Gian dùng đổi trang phục Hiếm.
-- Mở khóa tiến độ báu vật để nhận lượng lớn Huy hiệu Thời Gian và danh hiệu cao cấp vĩnh viễn.
-
-#### Mở nhận tướng mới Evita
-Thời gian sự kiện: 15/10 – 25/10
-Lối vào sự kiện: Trung tâm sự kiện – Siêu Boss đại chiến
-Phần thưởng sự kiện:
-- Tướng mới Evita có thể nhận trong phần thưởng tiến độ sự kiện..
-
-#### Chơi thử miễn phí nhiều trang phục
-Thời gian sự kiện: 31/10 – 8/11
-Lối vào sự kiện: Giao diện chọn tướng trong trận đấu
-- Nhiều trang phục được dùng miễn phí trong thời gian giới hạn, bao gồm rất nhiều trang phục cấp cao…
-
-#### Cửa hàng ECHO
-Thời gian sự kiện: 16/10 – 15/11
-Lối vào sự kiện: Trung tâm sự kiện – Cửa hàng ECHO
-Phần thưởng sự kiện:
-- Ưu đãi riêng mừng 10 năm! Tuần đầu tiên (16-22/10) chỉ cần 10 Quân huy để vào sự kiện. Sau khi mở, bạn có thể dùng Quân huy trong sự kiện để mua các trang phục Violet ECHO, Yue ECHO, Veres ECHO!
-| TƯỚNG MỚI EVITA |
-| --- |
+### TƯỚNG MỚI EVITA
 “Hủy diệt tất cả, mới có thể cứu rỗi tất cả.”
 Evita được sinh ra cùng sứ mệnh trọng yếu là chuyển hóa Athanor. Là tạo vật cuối cùng của Chủ Thần Hắc Ám, cô từng bị buộc phải ngủ say suốt hàng trăm năm cho đến khi giành lại quyền kiểm soát Ma lực Hắc ám tối thượng.
 Tiếp theo, cô sẽ dẫn dắt những kẻ áo đen đeo mặt nạ đang hoạt động khắp nơi trên Athanor, khởi động lại kế hoạch vĩ đại đánh thức Chủ Thần Hắc Ám để “cứu rỗi” đại lục này…
@@ -264,9 +142,7 @@ Chiêu 3: Triệu hồi hắc ám
 Evita nhận lá chắn và triệu hồi Ma vật hỗn mang tạo thành một lần Ma vật xung kích gây hiệu ứng làm chậm cho kẻ địch. Sau đó, Ma vật sẽ tiến vào trạng thái tự tìm mục tiêu để tấn công. Trong thời gian này, tốc độ chuyển hóa Ma lực hắc ám tăng mạnh; mỗi lần Ma vật hỗn mang chạm vào kẻ địch, nó sẽ gây sát thương và giảm giáp phép mục tiêu đồng thời mang đến lá chắn cho Evita.
 Gợi ý chiến đấu:
 Khi giao tranh, hãy dùng Chiêu 2 để gom kẻ địch trước, sau đó nối Chiêu 1 và Chiêu 3 để gây lượng lớn sát thương diện rộng! Kết hợp hệ Phù hiệu Tháp Quang Minh (Thánh Châu, Xuyên Tâm, Thần Quang) và Vực Hỗn Mang (Ma Hỏa, Cường Công), cùng Quả Cầu Băng Sương và Sách Thánh để tối đa hóa cả sát thương lẫn khả năng sống sót!
-| CÂN BẰNG TƯỚNG |
-| --- |
-
+### CÂN BẰNG TƯỚNG
 #### Dirak
 Lý do chỉnh sửa:
 “ Chiêu 3 của Dirak hiện gộp cả cơ chế tự bảo vệ lẫn gây sát thương. Trong lần điều chỉnh này, chúng tôi đã tách riêng hai chức năng này để tối ưu trải nghiệm điều khiển giúp người chơi linh hoạt lựa chọn tự bảo vệ (Lô cốt tử quang) hoặc gây sát thương (Pháo tử quang).
@@ -320,8 +196,8 @@ Chỉnh cụ thể:
 - Chiêu 1: Hồi chiêu: 10s (-0.8s/cấp chiêu) → 8s (-0.3s/cấp chiêu).
 - Chiêu 2: Sát thương cơ bản: 500 (+60/cấp chiêu) (+0.8 công phép) ST Phép → 450 (+90/cấp chiêu) (+0.9 công phép) ST Phép.
 - Giảm giáp phép: 50 (+30/cấp chiêu) → 100 (+20/cấp chiêu).
-| SỬA LỖI VÀ TỐI ƯU |
-| --- |
+
+### SỬA LỖI VÀ TỐI ƯU
 - Sửa lỗi hiệu ứng Chiêu 2 của trang phục Murad – Tuyệt Thế Thần Binh bị thiếu vũ khí tương ứng.
 - Sửa lỗi hiệu ứng của Phù hiệu Cứu Viện liên tục được làm mới.
 - Sửa lỗi Caesar hắc ám và Caesar bạo chúa có thể cùng tồn tại trong Đấu luyện.
@@ -336,13 +212,12 @@ Chỉnh cụ thể:
 - Sửa lỗi hiển thị poster của một số tướng không được căn ở giữa trong Trang cá nhân.
 - Sửa lỗi trong Hỗn chiến phù hiệu cầm phụ trợ Dịch chuyển và phù hiệu Dư âm phán quyết sẽ bị lỗi không kích hoạt dịch chuyển mà liên tục tung Dư âm phán quyết (mới)
 - Sửa lỗi khiến Nakroth có thể tung đòn tấn công quét liên tục trong một số trường hợp nhất định (16.10).
-
 ---
 
 ## CHI TIẾT BẢN CẬP NHẬT VẾT NỨT THỜI KHÔNG 29.09.2026 (`28.09.2026`)
 - **Nguồn:** https://lienquan.garena.vn/chi-tiet-ban-cap-nhat-vet-nut-thoi-khong-29-09-2026/
 
-### TỔNG QUAN
+### CHIẾN TRƯỜNG
 #### 1. Chiến trường
 Chủ đề cập nhật chiến trường lần này là “Vết nứt thời không”. Thông qua sự trở lại của ba Quái Boss, cơ chế/sức mạnh Hắc Ám Tối Thượng có thể ảnh hưởng đến cục diện trận đấu, Kỹ năng phụ trợ giới hạn mùa Ma chủng hắc ám, cùng Phù hiệu và trang bị mới, chúng tôi hy vọng mang đến cho các Kiện tướng trải nghiệm giao tranh đặc sắc. Nội dung cụ thể như sau:
 
@@ -374,8 +249,8 @@ Hồi chiêu 100 giây: Giảm 50% thời gian hồi chiêu còn lại của to�
 #### 1.6. Điều chỉnh Phù hiệu và trang bị
 Vực hỗn mang: Cấp 2: Khi ở nửa bản đồ thuộc phe mình, tăng 3% tỷ lệ sát thương và 3% tốc chạy.
 Rừng nguyên sinh: Cấp 2: Mỗi 15 giây trị liệu một lần cho các tướng đồng minh xung quanh, lượng hồi phục 210 (+15/cấp tướng), cũng có thể hồi cho bản thân.
-| TRANG BỊ |
-| --- |
+
+### TRANG BỊ
 Trang bị công kích
 +40 công vật lý
 +20% tốc đánh
@@ -397,21 +272,18 @@ Trang bị phòng thủ
 +700 máu tối đa
 Kích hoạt chủ động – Phản Pháo: Tăng hiệu ứng nội tại “Phản phệ” lên 25% (kéo dài 3 giây). (Hồi chiêu: 75 giây)
 Nội tại duy nhất – Phản phệ: Khi chịu sát thương, sẽ phản lại 5% lượng sát thương đó thành sát thương chuẩn lên kẻ địch. (Tính theo giá trị sát thương ban đầu trước khi tính giảm miễn sát thương; giảm theo khoảng cách, tối đa giảm 50%.)
-| TỐI ƯU BẢN ĐỒ VÀ TRẢI NGHIỆM TRONG TRẬN |
-| --- |
+### TỐI ƯU BẢN ĐỒ VÀ TRẢI NGHIỆM TRONG TRẬN
 Ở phiên bản trước, chúng tôi nhận được rất nhiều phản hồi rằng người chơi chưa quen với tính năng đường chỉ báo truy kích mới. Vì vậy, trong phiên bản này, chúng tôi đã tối ưu tính năng đường chỉ báo truy kích như sau: 1. Thêm công tắc đường chỉ báo truy kích, người chơi có thể vào Cài đặt – Thiết lập chiến trường để chọn bật hoặc tắt hiển thị đường chỉ báo truy kích.
 - Tối ưu hiển thị của đường chỉ báo truy kích.
 - Sửa nhiều lỗi liên quan đến đường chỉ báo truy kích.
 Chúng tôi đã rà soát các vấn đề hiện tại như chân dung của nhiều tướng bị che khuất trên map nhỏ, đồng thời xác nhận thứ tự ưu tiên hiển thị chân dung tướng trên map nhỏ. Với các trường hợp chồng lấn, chúng tôi cũng đã thiết kế thu phóng tương ứng. Sau này chúng tôi sẽ tiếp tục tối ưu map nhỏ, hy vọng mang đến cho mọi người trải nghiệm tốt hơn.
 Chúng tôi đã nâng cấp hiển thị của nhiều bối cảnh trong bản đồ, bao gồm khu vực trụ trong phe đỏ/phe xanh, trụ phòng thủ, Cổng dịch chuyển và khu rừng, nhằm phù hợp hơn với bầu không khí chủ đề chiến trường “Vết nứt thời không”.
-
 #### Điều chỉnh máu trụ
 Trụ bị phá quá nhanh thường đồng nghĩa vàng và không gian sinh tồn của phe yếu thế bị thu hẹp thêm. Trong lần này, chúng tôi tăng máu trụ ở mức hợp lý để giảm bớt hiện tượng này.
 Máu trụ ngoài: 6000 -> 6500
 Máu trụ giữa: 7500 -> 7750
-| TỐI ƯU HỆ THỐNG |
-| --- |
 
+### TỐI ƯU HỆ THỐNG
 #### Nâng cấp toàn diện hiển thị hình ảnh
 Trong phiên bản lần này, các giao diện chính ảnh hưởng trực tiếp đến trải nghiệm người chơi như sảnh game, sảnh Đấu hạng, phòng chờ tổ đội, giao diện chọn tướng và sảnh Đấu Đỉnh Cao đều được nâng cấp hình ảnh thống nhất. Chúng tôi hy vọng vừa giữ tối đa thói quen sử dụng của người chơi, vừa nâng cấp phong cách và hiệu ứng hiển thị mới cho chữ, nền bảng, phông nền, hiệu ứng và các nội dung liên quan. Cần lưu ý rằng phiên bản hiện tại chưa phải chất lượng cuối cùng. Chúng tôi sẽ tiếp tục thu thập phản hồi của mọi người để tinh chỉnh chất lượng, cố gắng mang đến trải nghiệm hình ảnh hoàn thiện hơn khi ra mắt trên máy chủ chính thức.
 
@@ -427,9 +299,8 @@ Dọn dẹp và loại bỏ nhiều chấm đỏ không còn quan trọng, chẳ
 Tối ưu một số cách xóa chấm đỏ:
 Trước đây, chấm đỏ trong Túi đồ cần bấm từng mục để xóa. Sau bản cập nhật lần này, chỉ cần vào trang rồi thoát ra, toàn bộ chấm đỏ của vật phẩm sẽ được xóa, giúp giảm thao tác không cần thiết.
 Sửa một số lỗi khiến chấm đỏ có thể không xóa được.
-| ĐIỀU CHỈNH TƯỚNG |
-| --- |
 
+### ĐIỀU CHỈNH TƯỚNG
 #### Nâng cấp tướng Preyta
 Lần điều chỉnh này dựa trên kết quả đồng sáng tạo với người chơi để tái thiết kế có trọng tâm, tập trung tăng cường Nội tại và Chiêu 1. Điều này giúp Preyta hoàn toàn tạm biệt “Nội tại kém hữu dụng” và sở hữu khả năng thể hiện mới trên chiến trường. Preyta sau khi làm lại vừa giữ được nét đặc trưng của chiêu thức cũ vừa khiến Nội tại từng yếu nhất được làm mới hoàn toàn. Hắn có thể là một Pháp sư siêu tầm xa đứng phía sau liên tục cấu rỉa, cũng có thể hóa thân thành một “Pháp sư Xạ thủ” dựa vào đánh thường cường hóa để gây sát thương liên tục. Nhiều lối chơi nâng cao hơn đang chờ các Kiện tướng tự mình trải nghiệm!
 Khi chiêu của Preyta trúng kẻ địch, sẽ cộng dồn tầng dịch bệnh lên chúng. Dịch bệnh sẽ gây sát thương liên tục; khi cộng đủ 3 tầng sẽ phát nổ, gây một lần sát thương phạm vi. Đồng thời, khi chiêu của Preyta trúng tướng địch hoặc hạ lính và quái rừng, hắn cũng sẽ nhận được năng lượng dịch bệnh. Năng lượng dịch bệnh sẽ tăng công phép của Preyta và tiến hóa vĩnh viễn chiêu của hắn – năng lượng cộng dồn càng nhiều, chiêu càng mạnh.
@@ -530,15 +401,14 @@ Lý do chỉnh sửa:
 “ Tăng độ ổn định của combo Chiêu 3 – Chiêu 2 “
 Chỉnh cụ thể:
 - Chiêu 3 – Thêm hiệu ứng: Khi đang dùng chiêu giai đoạn 1, nếu điểm trung tâm của Chiêu 2/Chiêu 2 cường hóa nằm trong pháp trận thì Chiêu 2 sẽ phát nổ ngay sau khi Chiêu 3 cưỡng chế kéo mục tiêu về
-| CHẾ ĐỘ GIẢI TRÍ |
-| --- |
 
+### CHẾ ĐỘ GIẢI TRÍ
 #### Siêu Boss Đại Chiến
 - Lối chơi PVE hoàn toàn mới, cùng đồng đội thách đấu Boss chiến trường mới và Boss cuối thần bí.
 - Trước khi mỗi trận Boss bắt đầu, có thể chọn Phù hiệu chúc phúc để nhận thêm sức mạnh chiến đấu. Sau khi chiến đấu bắt đầu, bị hạ sẽ không thể hồi sinh; tất cả người chơi bị hạ sẽ được tính là thử thách thất bại. Hãy phân công hợp tác với đồng đội để vượt ải!
 - Tổng cộng có 5 tầng Boss, vượt qua toàn bộ có thể nhận thưởng tướng mới. Hãy cùng đồng đội thử các tướng và tổ hợp Phù hiệu khác nhau, chinh phục kỷ lục BXH toàn máy chủ. Lên bảng có thể nhận thưởng danh hiệu giới hạn!
-| SỬA LỖI |
-| --- |
+
+### SỬA LỖI
 - Sửa lỗi hiển thị di chuyển của Hayate – Siêu đạo chích Kid bất thường sau khi biến về.
 - Sửa lỗi Billow không hiển thị sát thương nhảy lên ở mức đồ họa thấp.
 - Sửa lỗi quyền sở hữu hạ quái Boss bất thường khi Hayate đứng gần tướng đi Rừng phe địch.
@@ -554,6 +424,5 @@ Chỉnh cụ thể:
 - Sửa lỗi trong Khiêu chiến mùa, người chơi dùng Thẻ cộng sao đạt đủ số sao yêu cầu nhưng không thể nhận thưởng.
 - Sửa lỗi trang phục Gildur Jiji không có bóng.
 - Sửa lỗi hiển thị điệu nhảy bất thường trong giao diện Hiệu ứng ngoài trận của trang phục Dolia – Mã Khởi Thiên Ca.
-
 ---
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:19:05.614234+00:00",
+  "generated_at": "2026-11-23T10:28:51.405537+00:00",
   "status": "passed",
   "stats": {
     "heroes": 130,
@@ -20,7 +20,7 @@
     "arcana.json": "00e26531158672abde4af60fe02a597f57b998f3e2360bcd12ab0afa2649ba8a",
     "talents.json": "9cc20538b5a67a02c73c28c8d345161aa9fb6cf31978af57fe6c69bed84ffefe",
     "enchantments.json": "1be27f40b3bcada366c738d792bf641e8487960d47aa67238aea9f6f48a05a1c",
-    "patches.json": "29de93e95a3a620c22bb8b605f290999436f57a7b2bad62372a69c86d5013e91"
+    "patches.json": "9b30ed28b169f17f6b08141e45655e34a1a3c898abcd8ed006171b05d29e6143"
   },
   "error_count": 0,
   "warning_count": 3,
