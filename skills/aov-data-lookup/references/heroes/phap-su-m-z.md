@@ -40,6 +40,7 @@
 ## Preyta (`preyta`)
 - **Vai trò:** Pháp sư | **Loại ST:** Phép | **Chống chịu/Tầm:** squishy / ranged
 - **Cơ chế:** hard-cc, slow, mobility
+- **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **25.11.2026** -> kiểm tra `patches_latest.md`.
 - **Chỉ số in-game (17.11.2026):** hp_lv1: 3308 | phys_atk_lv1: 168 | magic_atk_lv1: 0 | armor_lv1: 152 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 490 | move_speed: 380.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Dịch bệnh truyền nhiễm:** Khi chiêu của Preyta trúng kẻ địch, sẽ cộng dồn tầng dịch bệnh lên chúng. Dịch bệnh sẽ gây sát thương liên tục; khi cộng đủ 3 tầng sẽ phát nổ, gây một lần sát thương phạm vi. Đồng thời, khi chiêu của Preyta trúng tướng địch hoặc hạ lính và quái rừng, hắn cũng sẽ nhận được năng lượng dịch bệnh. Năng lượng dịch bệnh sẽ tăng công phép của Preyta và tiến hóa vĩnh viễn chiêu của hắn – năng lượng cộng dồn càng nhiều, chiêu càng mạnh.

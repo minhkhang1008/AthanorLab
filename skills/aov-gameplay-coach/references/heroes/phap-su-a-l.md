@@ -171,6 +171,7 @@
 ## Ignis (`ignis`)
 - **Vai trò:** Pháp sư | **Loại ST:** Phép/Chuẩn | **Chống chịu/Tầm:** squishy / ranged
 - **Cơ chế:** hard-cc, slow, mobility, shield, sustain, true-dmg
+- **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **25.11.2026** -> kiểm tra `patches_latest.md`.
 - **Chỉ số in-game (17.11.2026):** hp_lv1: 3555 | phys_atk_lv1: 160 | magic_atk_lv1: 0 | armor_lv1: 139 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 490 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Hỏa Hồn:** Nội tại: Hoả cầu trúng đích khiến các nạn nhân phải gánh chịu hiệu ứng Hỏa hồn, hiệu ứng kéo dài 2.5 giây. Chiêu thức tiếp theo của Ignis nếu kích phát Hỏa hồn sẽ được cường hóa và hồi máu cho Ignis.

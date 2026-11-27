@@ -2,6 +2,47 @@
 
 > Chỉ giữ Cân bằng Tướng / Trang bị / Chiến trường / Phù hiệu / Phụ trợ. Đã lược mục Sửa lỗi & Sự kiện.
 
+## ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 26.11.2026 (`25.11.2026`)
+### CÂN BẰNG TƯỚNG
+#### Rouie
+Chỉnh cụ thể:
+- Chiêu 3: Thêm hiệu ứng lá chắn để cường hóa cho đồng đội.
+- Chiêu 3: Hiệu ứng mới: Đồng đội trong phạm vi nhận lá chắn chặn 300(+150/cấp chiêu)(+0.45 Công phép) sát thương, kéo dài 8s.
+
+#### Valhein
+Lý do chỉnh sửa:
+“Tối ưu cơ chế giảm dấu ấn của Valhein. “
+Chỉnh cụ thể:
+- Nội tại: Hiệu ứng mới: Dấu ấn giảm dần từng tầng cộng dồn (cứ 1s giảm một tầng cộng dồn)
+
+#### Yena
+Lý do chỉnh sửa:
+” Tăng lá chắn Yena nhận được từ Nội tại và buff Chiêu 2 ở mức vừa phải. “
+Chỉnh cụ thể:
+- Nội tại: Lá chắn gốc: 200(+100/cấp tướng)(+1.4 Công vật lý) → 280(+140/cấp tướng)(+1.8 Công vật lý)
+- Chiêu 2: (Dạng Viên đao): ST gốc: 130(+20/cấp chiêu)(+0.68 Công vật lý) STVL → 140(+28/cấp chiêu)(+0.75 Công vật lý) STVL (Dạng Song loan đao): Hồi chiêu: 12s → 12s (-0.4s/cấp chiêu)
+
+#### Ignis
+Lý do chỉnh sửa:
+“Tăng lượng trị liệu Ignis nhận được khi kích hoạt Dấu ấn đồng thời tăng ST Chiêu 1 của vị thánh đồ lửa thiêng này. “
+Chỉnh cụ thể:
+- Nội tại: Hồi máu gốc: 90(+6/cấp tướng)(+0.14 Công phép) máu → 95(+7/cấp tướng)(+0.15 Công phép) máu
+- Chiêu 1: ST gốc: 425(+50/cấp chiêu)(+0.6 Công phép) ST Phép → 425(+85/cấp chiêu)(+0.70 Công phép) ST Phép
+
+#### Aoi
+Lý do chỉnh sửa:
+“ Tăng ST Đòn đánh thường cường hóa của Aoi “
+Chỉnh cụ thể:
+- Nội tại: ST thêm: 60(+10/cấp tướng)(+0.45 Công vật lý thêm) STVL → 90(+10/cấp tướng)(+0.5 Công vật lý thêm) STVL
+
+#### Preyta
+Lý do chỉnh sửa:
+“ Giảm ST do Dấu ấn bùng nổ của Preyta “
+Chỉnh cụ thể:
+- Nội tại: ST nổ Dấu ấn: 210(+15/cấp tướng)(+0.4 Công phép) ST Phép→ 180(+13/cấp tướng)(+0.3 Công phép) ST Phép ST kéo dài của Dấu ấn: 16(+1/cấp tướng)(+0.03 Công phép) ST Phép → 12(+1/cấp tướng)(+0.025 Công phép) ST Phép
+
+---
+
 ## ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026 (`16.11.2026`)
 ### CÂN BẰNG TƯỚNG
 #### Butterfly
@@ -55,61 +96,5 @@ Chỉnh cụ thể:
 
 ### ĐIỀU CHỈNH CHIẾN TRƯỜNG
 Kỹ năng Triệu hồi King Kong: Chu kỳ kích hoạt Bùa lợi: 9s → 4.5s Triệu hồi King Kong hỗ trợ làm chậm: 15% → 50% Kỹ năng Triệu hồi King Kong hắc ám: Chu kỳ kích hoạt Bùa lợi: 6s → 3s Triệu hồi King Kong hỗ trợ làm chậm: 15% → 50% Caesar tiên phong bạo chúa: Tăng Công vật lý gốc của Caesar tiên phong bạo chúa để tránh tình trạng khi Hạ BOSS cuối, Caesar tiên phong bạo chúa không thể thắng được Lính Thuộc tính lính: Tăng nhẹ Máu và Tốc đánh của Lính sau phút 20 Kỹ năng phụ trợ Ma chủng hắc ám ST gốc: 280(+20/cấp tướng) → 350(+25/cấp tướng) Lá chắn: 280(+20/cấp tướng) → 350(+25/cấp tướng)
----
-
-## ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 30.10.2026 (`29.10.2026`)
-### CÂN BẰNG TƯỚNG
-#### Keera
-Lý do chỉnh sửa:
-“Giảm hồi chiêu Chiêu 1 của Keera và tăng vừa phải sát thương Chiêu 2. “
-Chỉnh cụ thể:
-- Chiêu 1: Hồi chiêu: 6s (-0.4s/cấp chiêu) → 5s (-0.2s/cấp chiêu)
-- Chiêu 2: Sát thương trên đường di chuyển: 75 (+15/cấp chiêu) (+0.15 công phép) ST Phép → 100 (+20/cấp chiêu) (+0.2 công phép) ST Phép Sát thương vùng tam giác: 400 (+40/cấp chiêu) (+0.6 công phép) ST Phép → 400 (+80/cấp chiêu) (+0.8 công phép) ST Phép
-
-#### Erin
-Lý do chỉnh sửa:
-“Tăng sát thương Chiêu 1 và điều chỉnh hồi chiêu theo cấp để cải thiện trải nghiệm “
-Chỉnh cụ thể:
-- Chiêu 1: Hồi chiêu: 8s (-0.2s/cấp chiêu) → 8s (-0.3s/cấp chiêu) Sát thương cơ bản: 350 (+70/cấp chiêu) (+0.8 công phép) (+0.45 công vật lý) ST Phép → 450 (+90/cấp chiêu) (+1.05 công phép) (+0.6 công vật lý) ST Phép Sát thương khi chạm mục tiêu: 125 (+25/cấp chiêu) (+0.3 công phép) (+0.2 công vật lý) ST Phép → 150 (+30/cấp chiêu) (+0.35 công phép) (+0.2 công vật lý) ST Phép
-
-#### Hayate
-Lý do chỉnh sửa:
-” Cân bằng khả năng gây sát thương của Hayate ở đầu và cuối trận. “
-Chỉnh cụ thể:
-- Nội tại: Sát thương chuẩn: 40 (+0.25 công vật lý) → 45 (+0.23 công vật lý)
-- Chiêu 1: Sát thương cơ bản: 105 (+21/cấp chiêu) (+0.2 công vật lý) STVL → 110 (+22/cấp chiêu) (+0.18 công vật lý) STVL
-
-#### Sephera
-Lý do chỉnh sửa:
-“Chúng tôi đã thêm cho Sephera nội tại hồi phục cho bản thân và tối ưu trải nghiệm. “
-Chỉnh cụ thể:
-- Nội tại: Hiệu ứng mới: Bản thân được hồi thêm lượng máu bằng (4% máu cộng thêm) máu.
-
-#### Tamyn
-Lý do chỉnh sửa:
-“ Chiến Thần Quang Minh Tamyn đã tung hoành ngang dọc trong một thời gian và nay đã đến lúc chúng tôi giảm một chút sát thương nội tại của anh ta để trở nên hợp lý hơn. “
-Chỉnh cụ thể:
-- Nội tại: Sát thương đòn đánh thường cường hóa: 200~396 (+0.3 công vật lý cộng thêm) STVL → 182~364 (+0.28 công vật lý cộng thêm) STVL
-
-#### Astrid
-Lý do chỉnh sửa:
-“ Nữ công tước Rosenberg Astrid đang rất mạnh cho nên chúng tôi cần giảm một chút cường độ chiêu 1 của cô ấy. “
-Chỉnh cụ thể:
-- Chiêu 1: Tốc đánh cơ bản: 20% (+4%/cấp chiêu) → 15% (+3%/cấp chiêu) Sát thương cơ bản: 300 (+60/cấp chiêu) (+1.1 công vật lý) STVL → 275 (+55/cấp chiêu) (+1.0 công vật lý) STVL
-
-#### Xeniel
-Lý do chỉnh sửa:
-“ Chúng tôi tăng hiệu quả Chiêu 1 để Xeniel phát huy tốt hơn vai trò của mình trong những đội hình phù hợp. “
-Chỉnh cụ thể:
-- Chiêu 1: Lá chắn cơ bản: 350 (+110/cấp chiêu) (+0.4 công phép) (+4% máu tối đa) → 500 (+100/cấp chiêu) (+0.5 công phép) (+5% máu tối đa). Sát thương cơ bản: 450 (+110/cấp chiêu) (+0.4 công phép) (+4% máu tối đa) ST Phép → 500 (+100/cấp chiêu) (+0.5 công phép) (+5% máu tối đa) ST Phép
-
-#### Evita
-Lý do chỉnh sửa:
-“ Do tạo vật của chủ thần Oru quá bá đạo cho nên cần giảm một chút sức mạnh của cô ta. “
-Chỉnh cụ thể:
-- Chiêu 1: ST gốc: 325 (+65/cấp chiêu) (+0.65 Công phép) ST Phép → 300(+60/cấp chiêu)(+0.6 Công phép) ST Phép
-- Chiêu 3: ST gốc: 36(+18/cấp chiêu)(+0.07 Công phép) ST Phép → 30(+15/cấp chiêu)(+0.06 Công phép) ST Phép
-- Hồi chiêu: 50s (-5s/cấp chiêu) → 55s (-5s/cấp chiêu)
-
 ---
 

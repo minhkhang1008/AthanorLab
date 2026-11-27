@@ -37,8 +37,8 @@
     },
     {
       "file": "heroes/dau-si-m-z.md",
-      "chars": 42283,
-      "approx_tokens": 13213
+      "chars": 42379,
+      "approx_tokens": 13243
     },
     {
       "file": "heroes/do-don.md",
@@ -47,33 +47,33 @@
     },
     {
       "file": "heroes/phap-su-a-l.md",
-      "chars": 48554,
-      "approx_tokens": 15173
+      "chars": 48650,
+      "approx_tokens": 15203
     },
     {
       "file": "heroes/phap-su-m-z.md",
-      "chars": 19071,
-      "approx_tokens": 5959
+      "chars": 19167,
+      "approx_tokens": 5989
     },
     {
       "file": "heroes/sat-thu.md",
-      "chars": 25454,
-      "approx_tokens": 7954
+      "chars": 25550,
+      "approx_tokens": 7984
     },
     {
       "file": "heroes/tro-thu.md",
-      "chars": 32471,
-      "approx_tokens": 10147
+      "chars": 32567,
+      "approx_tokens": 10177
     },
     {
       "file": "heroes/xa-thu.md",
-      "chars": 46538,
-      "approx_tokens": 14543
+      "chars": 46634,
+      "approx_tokens": 14573
     },
     {
       "file": "heroes_index.md",
-      "chars": 17761,
-      "approx_tokens": 5550
+      "chars": 17815,
+      "approx_tokens": 5567
     },
     {
       "file": "items_components.md",
@@ -87,18 +87,18 @@
     },
     {
       "file": "patch_history_index.md",
-      "chars": 2616,
-      "approx_tokens": 817
+      "chars": 2499,
+      "approx_tokens": 780
     },
     {
       "file": "patches_coaching.md",
-      "chars": 7737,
-      "approx_tokens": 2417
+      "chars": 6413,
+      "approx_tokens": 2004
     },
     {
       "file": "patches_latest.md",
-      "chars": 37049,
-      "approx_tokens": 11577
+      "chars": 21127,
+      "approx_tokens": 6602
     },
     {
       "file": "talents.md",
@@ -109,33 +109,33 @@
   "skill_packages": {
     "aov-data-lookup": {
       "files": 16,
-      "chars": 373640,
-      "approx_tokens_if_all_loaded": 116762
+      "chars": 358348,
+      "approx_tokens_if_all_loaded": 111983
     },
     "aov-draft-coach": {
       "files": 4,
-      "chars": 28589,
-      "approx_tokens_if_all_loaded": 8934
+      "chars": 27319,
+      "approx_tokens_if_all_loaded": 8537
     },
     "aov-build-coach": {
       "files": 8,
-      "chars": 57122,
-      "approx_tokens_if_all_loaded": 17850
+      "chars": 55798,
+      "approx_tokens_if_all_loaded": 17436
     },
     "aov-gameplay-coach": {
       "files": 12,
-      "chars": 302592,
-      "approx_tokens_if_all_loaded": 94560
+      "chars": 301898,
+      "approx_tokens_if_all_loaded": 94343
     },
     "aov-patch-analyst": {
       "files": 3,
-      "chars": 40575,
-      "approx_tokens_if_all_loaded": 12679
+      "chars": 24536,
+      "approx_tokens_if_all_loaded": 7667
     },
     "aov-sync-maintainer": {
       "files": 2,
-      "chars": 3526,
-      "approx_tokens_if_all_loaded": 1101
+      "chars": 3409,
+      "approx_tokens_if_all_loaded": 1065
     }
   }
 }

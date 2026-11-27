@@ -10,7 +10,7 @@ Dùng file này để lọc nhanh bể tướng theo vai trò, loại sát thư�
 | `allain` | **Allain** | Đấu sĩ | Vật lý/Chuẩn | hard-cc, slow, mobility, sustain, true-dmg, shred | unverified | - | `heroes/dau-si-a-l.md` |
 | `amily` | **Amily** | Đấu sĩ | Vật lý/Phép | hard-cc, slow, mobility, sustain, immune-untargetable | unverified | 28.09.2026 | `heroes/dau-si-a-l.md` |
 | `annette` | **Annette** | Trợ thủ | Phép | hard-cc, slow, mobility, shield, sustain, percent-hp | unverified | - | `heroes/tro-thu.md` |
-| `aoi` | **Aoi** | Sát thủ | Vật lý | hard-cc, slow, mobility, shield, sustain, immune-untargetable | unverified | - | `heroes/sat-thu.md` |
+| `aoi` | **Aoi** | Sát thủ | Vật lý | hard-cc, slow, mobility, shield, sustain, immune-untargetable | unverified | 25.11.2026 | `heroes/sat-thu.md` |
 | `arduin` | **Arduin** | Đấu sĩ | Vật lý/Phép/Chuẩn | hard-cc, slow, shield, sustain, true-dmg | unverified | 16.11.2026 | `heroes/dau-si-a-l.md` |
 | `arthur` | **Arthur** | Đấu sĩ | Vật lý/Phép | hard-cc, mobility, shield, sustain, percent-hp | unverified | - | `heroes/dau-si-a-l.md` |
 | `arum` | **Arum** | Đỡ đòn | Phép | hard-cc, slow, mobility, sustain | unverified | - | `heroes/do-don.md` |
@@ -54,7 +54,7 @@ Dùng file này để lọc nhanh bể tướng theo vai trò, loại sát thư�
 | `heino` | **Heino** | Pháp sư | Vật lý/Phép | hard-cc, slow, mobility, sustain, immune-untargetable | unverified | - | `heroes/phap-su-a-l.md` |
 | `helen` | **Helen** | Trợ thủ | Phép | hard-cc, mobility, sustain | unverified | - | `heroes/tro-thu.md` |
 | `iggy` | **Iggy** | Pháp sư | Phép | hard-cc, mobility, vision | unverified | - | `heroes/phap-su-a-l.md` |
-| `ignis` | **Ignis** | Pháp sư | Phép/Chuẩn | hard-cc, slow, mobility, shield, sustain, true-dmg | unverified | - | `heroes/phap-su-a-l.md` |
+| `ignis` | **Ignis** | Pháp sư | Phép/Chuẩn | hard-cc, slow, mobility, shield, sustain, true-dmg | unverified | 25.11.2026 | `heroes/phap-su-a-l.md` |
 | `ilumia` | **Ilumia** | Pháp sư | Phép | hard-cc, slow, mobility, reset, vision | unverified | - | `heroes/phap-su-a-l.md` |
 | `ishar` | **Ishar** | Pháp sư | Phép | hard-cc, slow, mobility, shield | unverified | - | `heroes/phap-su-a-l.md` |
 | `jinna` | **Jinna** | Pháp sư | Phép | slow, mobility, sustain | unverified | - | `heroes/phap-su-a-l.md` |
@@ -87,12 +87,12 @@ Dùng file này để lọc nhanh bể tướng theo vai trò, loại sát thư�
 | `omen` | **Omen** | Đấu sĩ | Vật lý/Chuẩn | hard-cc, slow, mobility, true-dmg, immune-untargetable | unverified | - | `heroes/dau-si-m-z.md` |
 | `ormarr` | **Ormarr** | Đấu sĩ | Vật lý/Phép | hard-cc, slow, mobility, percent-hp | unverified | - | `heroes/dau-si-m-z.md` |
 | `paine` | **Paine** | Sát thủ | Phép | hard-cc, slow, immune-untargetable | unverified | - | `heroes/sat-thu.md` |
-| `preyta` | **Preyta** | Pháp sư | Phép | hard-cc, slow, mobility | unverified | - | `heroes/phap-su-m-z.md` |
+| `preyta` | **Preyta** | Pháp sư | Phép | hard-cc, slow, mobility | unverified | 25.11.2026 | `heroes/phap-su-m-z.md` |
 | `qi` | **Qi** | Đấu sĩ | Vật lý | hard-cc, mobility, sustain, shred | unverified | - | `heroes/dau-si-m-z.md` |
 | `quillen` | **Quillen** | Sát thủ | Vật lý | slow, mobility, sustain, stealth, vision | unverified | - | `heroes/sat-thu.md` |
 | `raz` | **Raz** | Pháp sư | Phép | hard-cc, slow, mobility, shred | unverified | 15.10.2026 | `heroes/phap-su-m-z.md` |
 | `richter` | **Richter** | Đấu sĩ | Vật lý/Phép/Chuẩn | hard-cc, slow, mobility, true-dmg, percent-hp, immune-untargetable, reset | Richter Đường Tà Thần (Áp sát & Bắt chủ lực): E4.5/M4.5/L3; Richter Trợ thủ Đảo gank & Check bụi: E4.5/M4/L2.5 | 16.11.2026 | `heroes/dau-si-m-z.md` |
-| `rouie` | **Rouie** | Trợ thủ | Phép | hard-cc, mobility | Rouie Trợ thủ Điều quân và Hồi tuyến: E2.5/M4.5/L5.0 | - | `heroes/tro-thu.md` |
+| `rouie` | **Rouie** | Trợ thủ | Phép | hard-cc, mobility | Rouie Trợ thủ Điều quân và Hồi tuyến: E2.5/M4.5/L5.0 | 25.11.2026 | `heroes/tro-thu.md` |
 | `rourke` | **Rourke** | Đấu sĩ | Vật lý | hard-cc, mobility, shield, immune-untargetable, shred | unverified | - | `heroes/dau-si-m-z.md` |
 | `roxie` | **Roxie** | Đấu sĩ | Phép | hard-cc, slow, mobility, shield, sustain, immune-untargetable | unverified | 28.09.2026 | `heroes/dau-si-m-z.md` |
 | `ryoma` | **Ryoma** | Đấu sĩ | Vật lý | hard-cc, mobility, sustain | unverified | 28.09.2026 | `heroes/dau-si-m-z.md` |
@@ -114,7 +114,7 @@ Dùng file này để lọc nhanh bể tướng theo vai trò, loại sát thư�
 | `toro` | **Toro** | Đỡ đòn | Vật lý | hard-cc, slow, mobility, shield, sustain, percent-hp, immune-untargetable | Toro Trợ thủ Mở giao tranh và Chắn tuyến: E3.5/M4.5/L4 | 28.09.2026 | `heroes/do-don.md` |
 | `trieu-van` | **Triệu Vân** | Đấu sĩ | Vật lý/Chuẩn | hard-cc, slow, sustain, true-dmg, percent-hp, immune-untargetable | unverified | 15.10.2026 | `heroes/dau-si-m-z.md` |
 | `tulen` | **Tulen** | Pháp sư | Phép | hard-cc, slow | unverified | - | `heroes/phap-su-m-z.md` |
-| `valhein` | **Valhein** | Xạ thủ | Phép | hard-cc, mobility | Valhein Xạ thủ Tốc đánh và Ép đường: E4.5/M4/L3.5 | - | `heroes/xa-thu.md` |
+| `valhein` | **Valhein** | Xạ thủ | Phép | hard-cc, mobility | Valhein Xạ thủ Tốc đánh và Ép đường: E4.5/M4/L3.5 | 25.11.2026 | `heroes/xa-thu.md` |
 | `veera` | **Veera** | Pháp sư | Phép | hard-cc, mobility | unverified | - | `heroes/phap-su-m-z.md` |
 | `veres` | **Veres** | Đấu sĩ | Vật lý/Chuẩn | hard-cc, mobility, true-dmg, shred | unverified | - | `heroes/dau-si-m-z.md` |
 | `violet` | **Violet** | Xạ thủ | Vật lý | slow, percent-hp | Violet Xạ thủ Ép dấu và Cấu rỉa chí mạng: E4/M4/L4.5 | - | `heroes/xa-thu.md` |
@@ -124,7 +124,7 @@ Dùng file này để lọc nhanh bể tướng theo vai trò, loại sát thư�
 | `wonder-woman` | **Wonder Woman** | Đấu sĩ | Vật lý/Chuẩn | hard-cc, slow, mobility, shield, sustain, true-dmg, immune-untargetable | unverified | - | `heroes/dau-si-m-z.md` |
 | `xeniel` | **Xeniel** | Trợ thủ | Phép | hard-cc, slow, mobility, shield | unverified | 29.10.2026 | `heroes/tro-thu.md` |
 | `yan` | **Yan** | Đấu sĩ | Vật lý | hard-cc, slow, mobility, sustain, immune-untargetable | unverified | - | `heroes/dau-si-m-z.md` |
-| `yena` | **Yena** | Đấu sĩ | Vật lý | hard-cc, slow, mobility, immune-untargetable | unverified | - | `heroes/dau-si-m-z.md` |
+| `yena` | **Yena** | Đấu sĩ | Vật lý | hard-cc, slow, mobility, immune-untargetable | unverified | 25.11.2026 | `heroes/dau-si-m-z.md` |
 | `yorn` | **Yorn** | Xạ thủ | Vật lý/Phép/Chuẩn | hard-cc, true-dmg, percent-hp | unverified | 28.09.2026 | `heroes/xa-thu.md` |
 | `yue` | **Yue** | Pháp sư | Phép | hard-cc, mobility, vision | unverified | - | `heroes/phap-su-m-z.md` |
 | `ybneth` | **Y’bneth** | Đỡ đòn | Vật lý | hard-cc, slow, shield, sustain, immune-untargetable | Y’bneth Trợ thủ Phản mở: E3.5/M4.5/L4 | - | `heroes/do-don.md` |

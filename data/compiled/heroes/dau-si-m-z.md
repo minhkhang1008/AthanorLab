@@ -228,6 +228,7 @@
 ## Yena (`yena`)
 - **Vai trò:** Đấu sĩ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** bruiser / melee
 - **Cơ chế:** hard-cc, slow, mobility, immune-untargetable
+- **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **25.11.2026** -> kiểm tra `patches_latest.md`.
 - **Chỉ số in-game (17.11.2026):** hp_lv1: 3663 | phys_atk_lv1: 170 | magic_atk_lv1: 0 | armor_lv1: 144 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Nhuệ khí | max_resource: 100 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Bán nguyệt trảm:** Khi Yena dùng Song đao, cô được tăng tốc chạy. Đặc biệt mỗi lần cô sát thương tướng địch sẽ gây kèm hiệu ứng Nguyệt trảm; khi tích đủ 5 điểm cộng dồn hiệu ứng Yena sẽ gây sát thương vật lý, đồng thời khiến mục tiêu bị câm lặng và giảm tốc chạy. Yena cần có một khoảng thời gian hồi trước khi có thể áp dụng Nguyệt trảm lên cùng một kẻ địch. Khi Yena dùng Nguyệt đao, cô bị giảm tốc đánh, nhưng bù lại được tăng sát thương gây ra. Chưa hết, suốt thời gian Yena tung các kỹ năng, cô được miễn hiệu ứng và miễn thương.

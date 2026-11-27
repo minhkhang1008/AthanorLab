@@ -231,6 +231,7 @@
 ## Valhein (`valhein`)
 - **Vai trò:** Xạ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** squishy / ranged
 - **Cơ chế:** hard-cc, mobility
+- **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **25.11.2026** -> kiểm tra `patches_latest.md`.
 - **Chỉ số in-game (17.11.2026):** hp_lv1: 3592 | phys_atk_lv1: 173 | magic_atk_lv1: 0 | armor_lv1: 141 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 440 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Hồ sơ chiến thuật (Curated):**
   - **Valhein Xạ thủ Tốc đánh và Ép đường** (Early 4.5/5 · Mid 4/5 · Late 3.5/5) | Power Spikes: Cấp 2 có Phi tiêu hoàng kim làm choáng chủ động để thắng nhịp trao đổi ngắn., Món tốc đánh đầu tiên giúp tăng tần suất đòn nội tại. Hướng bán thủ giữ khả năng gây áp lực khi địch dồn sát thương mạnh.

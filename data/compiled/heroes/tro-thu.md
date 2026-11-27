@@ -125,6 +125,7 @@
 ## Rouie (`rouie`)
 - **Vai trò:** Trợ thủ | **Loại ST:** Phép | **Chống chịu/Tầm:** squishy / ranged
 - **Cơ chế:** hard-cc, mobility
+- **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **25.11.2026** -> kiểm tra `patches_latest.md`.
 - **Chỉ số in-game (17.11.2026):** hp_lv1: 3555 | phys_atk_lv1: 160 | magic_atk_lv1: 0 | armor_lv1: 130 | armor_display_pct: 0 | magic_def_lv1: 80 | magic_def_display_pct: 0 | resource: Năng lượng | max_energy: 430 | move_speed: 360.0 | attack_range: ranged | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Hồ sơ chiến thuật (Curated):**
   - **Rouie Trợ thủ Điều quân và Hồi tuyến** (Early 2.5/5 · Mid 4.5/5 · Late 5.0/5) | Power Spikes: Cấp 4 mở phương án trả người về tế đàn rồi gọi trở lại với Thần môn và Thần trận., Cuối trận, khi một đồng đội có thể ép lính cánh và đội kiểm soát chỗ đáp, Thần trận rút ngắn thời gian chuyển từ đánh hai cánh sang tập trung đủ người.

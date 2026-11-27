@@ -15,6 +15,7 @@
 ## Aoi (`aoi`)
 - **Vai trò:** Sát thủ | **Loại ST:** Vật lý | **Chống chịu/Tầm:** squishy / melee
 - **Cơ chế:** hard-cc, slow, mobility, shield, sustain, immune-untargetable
+- **Cảnh báo Patch gần đây:** Có chỉnh sửa ngày **25.11.2026** -> kiểm tra `patches_latest.md`.
 - **Chỉ số in-game (17.11.2026):** hp_lv1: 3360 | phys_atk_lv1: 172 | magic_atk_lv1: 0 | armor_lv1: 133 | magic_def_lv1: 80 | max_energy: 0 | move_speed: 380.0 | attack_range: melee | physical_penetration_flat: 0 | physical_penetration_pct: 0 | magic_penetration_flat: 0 | magic_penetration_pct: 0 | bonus_attack_speed_pct: 0 | critical_rate_pct: 0 | critical_damage_pct: 200 | life_steal_pct: 0 | magic_life_steal_pct: 0 | cooldown_reduction_pct: 0
 - **Kỹ năng (Official):**
   - **Nội tại - Long Lực:** Sau mỗi lần tung chiêu, Aoi sẽ tích lũy 1 lần Long lực (tối đa 4 lần) đồng thời cường hóa đòn đánh thường kế thành đột kích khiến đòn này được tăng tầm đánh và tốc đánh - gây sát thương vật lý lên mục tiêu. Đòn đánh thướng thứ 4 nhất định sẽ gây chí mạng và khiến bản thân giảm hồi chiêu.

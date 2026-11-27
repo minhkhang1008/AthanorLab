@@ -1,6 +1,6 @@
 {
   "source_url": "https://lienquan.garena.vn/cap-nhat/",
-  "scraped_at": "2026-11-23T10:28:51.395539+00:00",
+  "scraped_at": "2026-11-27T11:48:11.085204+00:00",
   "scanned_pages": 6,
   "total_posts_scanned": 30,
   "patch_count": 10,
@@ -18,6 +18,107 @@
     "ĐÍNH CHÍNH NỘI DUNG SAI SỰ THẬT VỀ QUY TRÌNH XỬ LÝ TÀI KHOẢN VI PHẠM & CSKH CỦA GARENA LIÊN QUÂN MOBILE"
   ],
   "patches": [
+    {
+      "slug": "dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-26-11-2026",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 26.11.2026",
+      "url": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-26-11-2026/",
+      "published_date": "25.11.2026",
+      "categories": [
+        "Cập nhật"
+      ],
+      "excerpt": "Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 26/11/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm […]",
+      "is_balance_patch": true,
+      "sections": [
+        {
+          "heading": "SỰ KIỆN",
+          "is_gameplay_relevant": false,
+          "intro_lines": [],
+          "subsections": [
+            {
+              "heading": "Thu thập Huy hiệu âm nhạc đổi miễn phí trang phục mới của Điêu Thuyền",
+              "lines": [
+                "Lối vào sự kiện: Sảnh game – Trung tâm sự kiện – Nữ hoàng âm nhạc",
+                "Thời gian sự kiện: 27/11/2026 đến 13/12/2026",
+                "Giới thiệu sự kiện:",
+                "- Hoàn thành Nhiệm vụ để nhận Huy hiệu âm nhạc",
+                "- Huy hiệu âm nhạc dùng để đổi trang phục Điêu Thuyền – Nữ hoàng âm nhạc và các phần thưởng khác tại Cửa hàng đổi thưởng của sự kiện"
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "CÂN BẰNG TƯỚNG",
+          "is_gameplay_relevant": true,
+          "intro_lines": [],
+          "subsections": [
+            {
+              "heading": "Rouie",
+              "lines": [
+                "Chỉnh cụ thể:",
+                "- Chiêu 3: Thêm hiệu ứng lá chắn để cường hóa cho đồng đội.",
+                "- Chiêu 3: Hiệu ứng mới: Đồng đội trong phạm vi nhận lá chắn chặn 300(+150/cấp chiêu)(+0.45 Công phép) sát thương, kéo dài 8s."
+              ]
+            },
+            {
+              "heading": "Valhein",
+              "lines": [
+                "Lý do chỉnh sửa:",
+                "“Tối ưu cơ chế giảm dấu ấn của Valhein. “",
+                "Chỉnh cụ thể:",
+                "- Nội tại: Hiệu ứng mới: Dấu ấn giảm dần từng tầng cộng dồn (cứ 1s giảm một tầng cộng dồn)"
+              ]
+            },
+            {
+              "heading": "Yena",
+              "lines": [
+                "Lý do chỉnh sửa:",
+                "” Tăng lá chắn Yena nhận được từ Nội tại và buff Chiêu 2 ở mức vừa phải. “",
+                "Chỉnh cụ thể:",
+                "- Nội tại: Lá chắn gốc: 200(+100/cấp tướng)(+1.4 Công vật lý) → 280(+140/cấp tướng)(+1.8 Công vật lý)",
+                "- Chiêu 2: (Dạng Viên đao): ST gốc: 130(+20/cấp chiêu)(+0.68 Công vật lý) STVL → 140(+28/cấp chiêu)(+0.75 Công vật lý) STVL (Dạng Song loan đao): Hồi chiêu: 12s → 12s (-0.4s/cấp chiêu)"
+              ]
+            },
+            {
+              "heading": "Ignis",
+              "lines": [
+                "Lý do chỉnh sửa:",
+                "“Tăng lượng trị liệu Ignis nhận được khi kích hoạt Dấu ấn đồng thời tăng ST Chiêu 1 của vị thánh đồ lửa thiêng này. “",
+                "Chỉnh cụ thể:",
+                "- Nội tại: Hồi máu gốc: 90(+6/cấp tướng)(+0.14 Công phép) máu → 95(+7/cấp tướng)(+0.15 Công phép) máu",
+                "- Chiêu 1: ST gốc: 425(+50/cấp chiêu)(+0.6 Công phép) ST Phép → 425(+85/cấp chiêu)(+0.70 Công phép) ST Phép"
+              ]
+            },
+            {
+              "heading": "Aoi",
+              "lines": [
+                "Lý do chỉnh sửa:",
+                "“ Tăng ST Đòn đánh thường cường hóa của Aoi “",
+                "Chỉnh cụ thể:",
+                "- Nội tại: ST thêm: 60(+10/cấp tướng)(+0.45 Công vật lý thêm) STVL → 90(+10/cấp tướng)(+0.5 Công vật lý thêm) STVL"
+              ]
+            },
+            {
+              "heading": "Preyta",
+              "lines": [
+                "Lý do chỉnh sửa:",
+                "“ Giảm ST do Dấu ấn bùng nổ của Preyta “",
+                "Chỉnh cụ thể:",
+                "- Nội tại: ST nổ Dấu ấn: 210(+15/cấp tướng)(+0.4 Công phép) ST Phép→ 180(+13/cấp tướng)(+0.3 Công phép) ST Phép ST kéo dài của Dấu ấn: 16(+1/cấp tướng)(+0.03 Công phép) ST Phép → 12(+1/cấp tướng)(+0.025 Công phép) ST Phép"
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "SỬA LỖI VÀ TỐI ƯU",
+          "is_gameplay_relevant": true,
+          "intro_lines": [
+            "Sửa lỗi Butterfly – Phượng cửu thiên khi dùng Chiêu 1 không trúng mục tiêu thì không có âm thanh phượng hoàng đồng thời tiếng phượng gáy của tất cả các chiêu không rõ ràng. Sửa lỗi thỉnh thoảng bị giật, game đứng hình vài giây khi va vào Quái rừng trong lúc Lướt ván Slime đồng thời hồi chiêu lướt ván bị làm mới bất thường Sửa lỗi thông báo không biến mất sau khi đợt lính cuối cùng của Caesar tiên phong bị hạ Sửa lỗi thỉnh thoảng xuất hiện Bolt Baron dùng đòn đánh thường trong trận bị hiện hiệu ứng Chiêu 1 của Alice Sửa lỗi model trang phục Biron – Deathmerc bị cứng đơ một lúc sau khi kết thúc lướt ván Sửa lỗi không có nút Lướt ván Slime ở vị trí phía dưới bên trái Tế đàn của phe xanh Sửa lỗi âm thanh lá chắn của Chiêu 1 quá lớn khi dùng trang phục Butterfly Bình Minh Tận Thế Sửa lỗi chỉ báo của Evita không hiển thị Sửa lỗi độ lệch camera của Chiêu 3 Veres chưa đủ Sửa lỗi trang phục Butterfly gây giật lag trong giao diện trước trận đấu"
+          ],
+          "subsections": []
+        }
+      ],
+      "gameplay_section_count": 2
+    },
     {
       "slug": "dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-17-11-2026",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026",
@@ -1512,410 +1613,6 @@
         }
       ],
       "gameplay_section_count": 3
-    },
-    {
-      "slug": "chi-tiet-ban-cap-nhat-ngay-hoi-lien-quan-08-07-2026",
-      "title": "CHI TIẾT BẢN CẬP NHẬT NGÀY HỘI LIÊN QUÂN 08.07.2026",
-      "url": "https://lienquan.garena.vn/chi-tiet-ban-cap-nhat-ngay-hoi-lien-quan-08-07-2026/",
-      "published_date": "07.07.2026",
-      "categories": [
-        "Cập nhật"
-      ],
-      "excerpt": "Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn vào ngày 08.07.2026. Người chơi có thể tự chọn thời điểm cập nhật trong thời gian cho phép. Không […]",
-      "is_balance_patch": true,
-      "sections": [
-        {
-          "heading": "CHIẾN TRƯỜNG",
-          "is_gameplay_relevant": true,
-          "intro_lines": [],
-          "subsections": [
-            {
-              "heading": "Thay đổi cơ chế Rừng: Tinh Linh Điểu Hộ Vệ, Bọ Ánh Sáng và Bùa xanh/đỏ cường hóa ra mắt!",
-              "lines": [
-                "Để tối ưu trải nghiệm đi Rừng, bảo vệ quá trình phát triển đầu trận của tướng đi Rừng đồng thời giải quyết vấn đề cuối trận phải nhường bùa cho đồng đội, chúng tôi sẽ tiến hành điều chỉnh toàn diện hệ sinh thái Rừng trong bản cập nhật lần này.",
-                "Góc nhìn chỉnh sửa:",
-                "- 4 phút đầu trận là giai đoạn phát triển khá mong manh của tướng đi Rừng. Tinh Linh Điểu sẽ tạo ra một lớp phòng tuyến tự nhiên cho bên bị xâm lăng, khiến kẻ xâm lăng phải trả giá bằng việc để lộ tầm nhìn. Điều này giúp giảm cảm giác ức chế khi Rừng bị phá nát từ sớm đồng thời giảm sự phụ thuộc vào việc cần đồng đội hỗ trợ trông coi Rừng.",
-                "Thiết lập:",
-                "- Trung tâm của Rừng nguyên sinh là Cây Linh Hồn. Dưới ảnh hưởng của sức mạnh thời không, Hoa Linh Hồn đã mọc lên trong Rừng. Tinh Linh Điểu là loài chim cộng sinh với Hoa Linh Hồn, có ý thức lãnh thổ rất mạnh và thường tuần tra trong lãnh địa nơi mình cư trú. Khi đối mặt với kẻ lạ xâm nhập lãnh địa, nó sẽ thể hiện sự thù địch rõ rệt. Khi phát hiện kẻ xâm nhập, Tinh Linh Điểu sẽ xua đuổi cho đến khi đối phương rời khỏi lãnh địa của nó.",
-                "Cơ chế:",
-                "- Trong 4 phút đầu trận, Rừng của mỗi phe sẽ mọc ra một nhánh Hoa Linh Hồn, đồng thời có một Tinh Linh Điểu Hộ Vệ trấn giữ tại khu vực bùa đỏ và bùa xanh của phe đó.",
-                "(1) Khi không có tướng địch xâm lăng: Tinh Linh Điểu bay quanh Hoa Linh Hồn, bảo vệ Rừng phe mình.",
-                "(2) Khi tướng địch xâm lăng: Hoa Linh Hồn biến mất, Tinh Linh Điểu bay đến trên đầu tướng địch xâm lăng, lượn vòng và mổ tấn công để xua đuổi đồng thời khiến tướng địch đó bị giảm 10% sát thương gây ra.",
-                "(3) Khi tướng địch rời đi: Hoa Linh Hồn và Tinh Linh Điểu trở về vị trí ban đầu, khôi phục trạng thái bảo vệ.",
-                "Sau 4 phút: Tinh Linh Điểu rời khỏi Rừng và không còn cung cấp cơ chế bảo vệ nữa. Hiệu ứng giảm sát thương gây ra khi tướng địch xâm nhập Rừng sẽ bị xóa bỏ.",
-                "Góc nhìn chỉnh sửa: Để cân bằng chiến lược kiểm soát tầm nhìn giữa hai đường cánh, chúng tôi đã điều chỉnh quái trung lập trên sông và tăng tốc độ bay của mắt tinh linh sau khi Bọ ánh sáng bị tiêu diệt để chiếu sáng rừng đối phương, đồng thời tối ưu hóa lộ trình bay.",
-                "Cơ chế: Chúng tôi đã loại bỏ cua sông đường giữa và cua sông đường Caesar, đồng thời bổ sung Bọ ánh sáng tại vị trí cua sông đường Caesar trước đây. Ngoài ra, phần thưởng khi hạ lính đường giữa ở giai đoạn đầu trận cũng được tăng thêm để bù đắp.",
-                "Trong 4 phút đầu trận: Sau khi hạ Bọ ánh sáng, Tinh linh tuần tra sẽ bay theo đường thẳng với tốc độ nhanh hơn tới rừng đối phương đồng thời soi sáng tầm nhìn dọc đường bay.",
-                "Bọ ánh sáng đường Caesar",
-                "- Thông số giữ nguyên như cua sông trước đây",
-                "- Xuất hiện lần đầu: 30 giây",
-                "- Hồi sinh: 60 giây",
-                "- Máu: 2500",
-                "- Giáp: 600",
-                "- Kháng phép: 0",
-                "- Vàng: 45",
-                "- Kinh nghiệm: 50",
-                "Điều chỉnh vàng lính đường giữa đầu trận",
-                "- Lính cận chiến: 25 → 27",
-                "- Lính đánh xa: 30 → 29",
-                "Góc nhìn chỉnh sửa: Vấn đề khó chịu nhất của tướng đi Rừng ở giai đoạn cuối trận là “bùa chỉ có thể dành cho một người”. Đồng đội muốn có bùa thì phải chờ bạn nhường, còn bạn cần phát triển thì lại không nỡ nhường. Cơ chế chia sẻ bùa giúp tướng đi Rừng không còn phải rơi vào thế khó “nhường cho đồng đội hay giữ cho bản thân”. Chỉ cần đến gần là có thể chia sẻ, vừa giữ được cảm giác kiểm soát của tướng đi Rừng, vừa tối đa hóa lợi ích cho cả đội. Ngay cả khi ở thế bất lợi trong giai đoạn cuối trận, đội của bạn vẫn có thể tận dụng cơ chế này để xoay chuyển tình thế.",
-                "Cơ chế: Sau 10 phút, Khổng lồ thuật sĩ và Khổng lồ lực sĩ sẽ bị sức mạnh thời không ăn mòn rồi biến mất rồi sau đó tái sinh thành Khổng lồ thuật sĩ cường hóa và Khổng lồ lực sĩ cường hóa. Phần trăm máu hiện tại của quái cũ sẽ được kế thừa sang quái cường hóa.",
-                "Sau khi hạ Khổng lồ lực sĩ cường hóa hoặc Khổng lồ thuật sĩ cường hóa, linh hồn của quái Rừng sẽ đi theo người hạ. Khi đồng đội đến gần, linh hồn này sẽ hóa thành luồng sáng bay đến đồng đội gần nhất và giúp họ nhận được hiệu ứng bùa tương ứng.",
-                "Nếu người đang giữ bùa bị hạ trước khi chia sẻ bùa cho đồng đội, hiệu ứng chia sẻ bùa sẽ không được chuyển tiếp cho tướng đồng đội nữa."
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "TRANG BỊ",
-          "is_gameplay_relevant": true,
-          "intro_lines": [],
-          "subsections": [
-            {
-              "heading": "Điều chỉnh trang bị",
-              "lines": [
-                "- Để tối ưu vấn đề bất tiện chuyển đổi kỹ năng khi người chơi đồng thời sở hữu nhiều trang bị có kích hoạt chủ động, hệ thống sẽ bổ sung thêm một nút kỹ năng chủ động mới trong trường hợp người chơi mua nhiều trang bị loại này trong trận đấu.",
-                "Lưu ý: Không ảnh hưởng đến quy tắc dùng chung thời gian hồi chiêu giữa các trang bị chủ động như hiện tại.",
-                "Góc nhìn chỉnh sửa: Trong nhiều tình huống, người chơi đi Rừng phải dùng Trừng trị để đảm bảo hạ gục quái Rừng và điều này khiến họ thiếu đi một kỹ năng trong giao tranh. Vì vậy, chúng tôi đã điều chỉnh Trừng trị thành cơ chế tích trữ để có thể tích tối đa 2 lần. Thay đổi này sẽ giúp các tướng đi Rừng linh hoạt hơn trong trong việc sử dụng Trừng trị.",
-                "Trừng trị:",
-                "Hồi chiêu 10s, gây ST chuẩn lên quái rừng và lính, đồng thời làm choáng 1s. Thời gian tích trữ 45s, có thể tích trữ 2 lần.",
-                "Tê Cóng:",
-                "Hồi chiêu 10s: Gây ST chuẩn lên quái rừng và lính đồng thời làm choáng 1s. Gươm hiến tế / Gươm Loki gây 300+20/Lv tướng sát thương phép lên tướng. Rìu Gnoll / Rìu Leviathan gây 185+15/Lv ST chuẩn lên tướng. Đao truy kích / Kiếm truy hồn / Cung gió lốc / Cung bão tố gây 400+30/Lv sát thương vật lý lên tướng. Cướp đoạt 30% tốc chạy của tướng địch, kéo dài 2s. Thời gian tích trữ 45s, có thể tích trữ 2 lần.",
-                "Ý tưởng thiết kế: Trước đây, mỗi khi rời đường để hỗ trợ đồng đội, trợ thủ thường phải đánh đổi bằng một lượng lớn kinh tế. Từ nay chúng tôi sẽ giảm bớt phần tổn thất này đồng thời chuyển một phần kinh tế đó sang cho vị trí trợ thủ.",
-                "Trang bị trợ thủ cấp 2 Nội tại – Hậu cần thêm hiệu ứng mới: Nếu vàng từ lính không được nhận, 50% trong số đó sẽ rơi xuống mặt đất, giới hạn vàng nhặt được là 450 đồng thời có thể hút 1 lần vàng trên toàn bản đồ, hồi chiêu: 15s.",
-                "Trang bị trợ thủ cấp 3 Nội tại – Hậu cần thêm hiệu ứng mới: Nếu vàng từ lính không được nhận, 50% trong số đó sẽ rơi xuống mặt đất, giới hạn vàng nhặt được là 600, đồng thời có thể hút 1 lần vàng trên toàn bản đồ, hồi chiêu: 10s.",
-                "Khi trang bị nhặt vàng tích lũy đủ 600, mở chiêu “Cộng hưởng”, chủ động sử dụng để cung cấp lượng lớn vàng và EXP cho bản thân cùng một tướng đồng minh phe ta. Toàn trận có thể dùng một lần.",
-                "Kích hoạt chủ động – Cộng hưởng: Chọn 1 tướng đồng minh để dùng Cộng hưởng giúp bản thân và đồng minh đó nhận tổng cộng 200 vàng và 200 kinh nghiệm."
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "CHUỖI SỰ KIỆN – SĂN THẺ ĐỔI QUÀ",
-          "is_gameplay_relevant": false,
-          "intro_lines": [],
-          "subsections": [
-            {
-              "heading": "Giới thiệu: Đấu thường 5V5, đấu hạng, đấu đỉnh cao sẽ có cơ hội nhận được “thẻ Super” và “thẻ LSR”",
-              "lines": [
-                "Cách nhận thẻ Super: Khi hạ hoặc hỗ trợ hạ tướng địch, bạn sẽ nhận được Vàng thưởng Super. Mục tiêu có cấp Truy nã càng cao, người hạ gục sẽ nhận thêm càng nhiều Vàng thưởng Super (cấp Truy nã 0~4 tương ứng nhận thêm 1~5 vàng thưởng Super).",
-                "Cấp Truy nã hiển thị công khai: Người chơi có thể tích lũy cấp Truy nã thông qua hạ tướng, phá trụ, ăn Rồng.",
-                "Truy nã cấp 1:",
-                "Truy nã cấp 4 (cao nhất)",
-                "- Người chơi đầu tiên phát hiện gói thẻ LSR trong trận sẽ nhận thêm 5 Vàng thưởng Super (Tiêu diệt quái Rừng, lính hoặc tướng đều có xác suất làm rơi gói thẻ LSR).",
-                "- Hạ gục tướng địch đang mang gói thẻ LSR sẽ nhận thêm 2 Vàng thưởng Super.",
-                "- Người chơi có gói thẻ LSR bị hạ sẽ nhận thêm 5 Vàng thưởng Super.",
-                "- Mỗi trận đấu, số Vàng thưởng Super nhận được tối đa là 30 (không bao gồm Vàng thưởng Super nhận thêm từ cơ chế kết toán).",
-                "Trong trận đấu, khi hạ bất kỳ đơn vị nào đều có xác suất rơi ra gói thẻ LSR. Mỗi trận đấu chỉ rơi tối đa 1 gói thẻ LSR.",
-                "Hạ gục tướng địch đang sở hữu gói thẻ LSR sẽ cướp được gói thẻ LSR của đối phương.",
-                "Nếu trong trận có xuất hiện gói thẻ LSR, đội chiến thắng sẽ được mở thẻ khi kết toán. Trong đó, một thành viên may mắn sẽ nhận được thẻ LSR và Vàng thưởng Super +50, các thành viên còn lại nhận Vàng thưởng Super +10.",
-                "“Vàng thưởng Super” có thể đổi lấy vô số vật phẩm giá trị. Thu thập “ thẻ LSR” còn có cơ hội nhận được trang phục hiếm, Quân huy hữu hạn và các vật phẩm khác.",
-                "Ngày phần thưởng AOV mạnh nhất (18/7–19/7, 25/7–26/7)",
-                "Cơ chế lập đội trong Ngày phần thưởng: Chỉ cần 1 thành viên bất kỳ trong đội mở ra thẻ LSR, toàn bộ thành viên trong đội đều sẽ nhận được thẻ LSR.",
-                "Phần thưởng sự kiện:",
-                "1. Hoàn thành nhiệm vụ để nhận gói thẻ bo góc. Mở gói thẻ có thể nhận ngẫu nhiên 4 Thẻ bo góc c ấp độ ngẫu nhiên và Thẻ đổi quà với số lượng khác nhau.",
-                "2. Thu thập các “Thẻ đổi quà” để nhận các phần thưởng sau:",
-                "| Tiến độ thu thập | Phần thưởng thu thập |\n| --- | --- |\n| Thu thập 10 thẻ LSR khác nhau | Danh hiệu mới R ư ơng Siêu thẻ LSR chắc chắn nhận skin SS |\n| Thu thập 5 thẻ LSR khác nhau | R ư ơng skin lên tới S+ hữu hạn |\n| Thu thập 1 thẻ LSR khác nhau | 50 Quân huy hữu hạn |\n| Thu thập 60 thẻ khác nhau | Danh hiệu mới, bộ Linh bảo mới |\n| Thu thập 50 thẻ khác nhau | Th ẻ trúng thưởng *2 |\n| Thu thập 40 thẻ khác nhau | Balo Linh bảo mới |\n| Thu thập 30 thẻ khác nhau | Th ẻ trúng th ưở ng *2 |\n| Thu thập 20 thẻ khác nhau | Th ẻ trúng th ưở ng *1 |",
-                "3. Có thể dùng Thẻ Đ ổi Quà để đổi vô số phần thưởng tại S hop đổi quà",
-                "| Thời gian mở đổi | Phần thưởng |\n| --- | --- |\n| 08.07 | Trang phục mới Slimz Chuyên Gia Đổi Thẻ và các trang phục lên tới bậc A hữu hạn |\n| 18.07 | Maloch Đ ấ u S ĩ Đ o ạ t Th ẻ và nhiều phần quà khác |\n| 25.07 | Ishar Thu ậ t S ư Săn Th ẻ và các skin lên tới S+ hữu hạn |"
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "TƯỚNG MỚI TAMYN – CHIẾN THẦN QUANG MINH",
-          "is_gameplay_relevant": true,
-          "intro_lines": [
-            "“Dù đã nhiễm Hắc ám, ta vẫn nguyện bảo vệ Quang minh.”",
-            "Thời kỳ thượng cổ, để bảo vệ Hồn trụ Quang minh, Tamyn đã tự tay hạ gục vô số Thần tộc bị Hắc ám ăn mòn. Cũng vì thế mà cơ thể hắn dần bị Hắc ám xâm thực.",
-            "Kể từ ngày ấy, hắn luôn áp chế sức mạnh Hắc ám trong cơ thể và canh giữ vùng cấm địa dưới chân Thánh Sơn Orphean, chưa từng rời xa nửa bước.",
-            "Thế nhưng khi một kẻ áo đen bí ẩn xuất hiện và mưu đồ đảo lộn trật tự do Quang minh thiết lập, Tamyn đã dứt khoát lộ diện bước ra trước ánh sáng..",
-            "Hắn sẽ quét sạch mọi chướng ngại, đưa Athanor đang chìm trong hỗn loạn trở lại với trật tự.",
-            "Tên tướng: Tamyn Vai trò: Đấu sĩ Vị trí đề cử: Đi rừng / Đường Caesar"
-          ],
-          "subsections": [
-            {
-              "heading": "Nội tại: Thánh Thương Quang Minh",
-              "lines": [
-                "Đòn đánh thường cường hóa gây thêm 200 +14/cấp tướng +0.3 công vật lý cộng thêm sát thương vật lý, đồng thời giảm 1 giây hồi chiêu của tất cả kỹ năng.",
-                "Mỗi lần nhặt hoặc thu hồi đoản thương, Tamyn hồi 100 +7/cấp tướng +2% máu cộng thêm máu. Nếu đòn đánh thường cường hóa trúng mục tiêu, lượng hồi phục này sẽ được tăng gấp đôi.",
-                "Mỗi lần tung chiêu, Tamyn nhận 2% tốc chạy trong 5 giây, tối đa cộng dồn 3 lần.",
-                "Ngoài ra, toàn bộ tốc chạy cộng thêm sẽ được chuyển hóa tương ứng thành sát thương cho các kỹ năng và đòn đánh thường cường hóa.",
-                "Sau khi tồn tại 5 giây, đoản thương sẽ tự động quay về."
-              ]
-            },
-            {
-              "heading": "Chiêu 1: Thương Phá Tầng Không",
-              "lines": [
-                "Tamyn phóng đoản thương theo hướng chỉ định, gây 350 +70/cấp chiêu +1.4 công vật lý cộng thêm sát thương vật lý. Đoản thương sẽ cắm xuống vị trí phía sau mục tiêu trong 10 giây.",
-                "Nếu hạ gục mục tiêu, đoản thương sẽ tiếp tục bay thêm một đoạn ngắn và gây thêm 50% sát thương lên các mục tiêu tiếp theo."
-              ]
-            },
-            {
-              "heading": "Chiêu 2: Thương Chiếu Hoàng Hôn",
-              "lines": [
-                "Tamyn triệu hồi một đoản thương từ trên trời ghim xuống tại vị trí chỉ định, kéo dài 10 giây, gây 300 +60/cấp chiêu +1.2 công vật lý cộng thêm sát thương vật lý lên kẻ địch trong phạm vi và làm chậm % tốc chạy của chúng trong 2 giây."
-              ]
-            },
-            {
-              "heading": "Chiêu 3: Thánh Thương Quy Tụ",
-              "lines": [
-                "Tamyn triệu hồi một đoản thương bay về phía bản thân và gây 150 +150/cấp chiêu +0.85 công vật lý cộng thêm sát thương vật lý cho kẻ địch trên đường đi.",
-                "Tăng cấp chiêu cuối có thể tăng giới hạn sử dụng, tối đa 4 lần."
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "TỐI ƯU",
-          "is_gameplay_relevant": true,
-          "intro_lines": [],
-          "subsections": [
-            {
-              "heading": "Tối ưu trải nghiệm chiến đấu",
-              "lines": [
-                "Trong lần này, chúng tôi đã tối ưu trải nghiệm cơ bản của trò chơi, chủ yếu gồm các phần sau:",
-                "- Cải thiện trải nghiệm nối tiếp tung chiêu và đánh thường. Người chơi đã bắt đầu tự động đánh thường, sau khi tung chiêu sẽ không cần nhấn đánh thường lần nữa mà vẫn có thể tự động tung đòn đánh thường. Thao tác của các tướng cần thường xuyên nối tiếp chiêu với đánh thường sẽ trở nên thân thiện hơn. Trong quá trình đánh thường liên tục, nếu tung chiêu, sau khi chiêu kết thúc sẽ tự động tiếp tục đánh thường, không cần nhấn đánh thường thêm lần nữa.",
-                "- Cải thiện trải nghiệm khóa mục tiêu khi đánh thường trong lúc di chuyển. Giảm đáng kể tình trạng người chơi tự kéo qua kéo lại khi bật tùy chọn khóa mục tiêu đánh thường trong lúc di chuyển và thực hiện thao tác này. Tối ưu này sẽ không khiến đánh thường trong lúc di chuyển vượt quá giới hạn tốc đánh. Sau khi bật tính năng Tìm mục tiêu đánh thường khi di chuyển thì khi vừa di chuyển vừa đánh thường, tướng sẽ không còn thường xuyên quay đầu một cách không cần thiết.",
-                "Lưu ý: Tần suất đánh thường khi di chuyển vẫn chịu giới hạn bởi tốc đánh, sẽ không khiến tướng đánh thường nhanh hơn. Có thể bật/tắt tính năng này tại Cài đặt → Thao tác → Tìm mục tiêu đánh thường khi di chuyển.",
-                "- Người chơi sử dụng đánh thường chính xác sẽ hiển thị đường truy kích rõ ràng. Sau khi dùng Đánh thường chính xác để khóa mục tiêu và chuẩn bị thực hiện hành vi truy kích, hệ thống sẽ hiển thị một đường chỉ dẫn truy kích rõ ràng."
-              ]
-            },
-            {
-              "heading": "Tối ưu hệ thống",
-              "lines": [
-                "- Tính năng mới hỗ trợ người chơi giao tiếp hiệu quả hơn trong game",
-                "- Chúng tôi đã bổ sung nội dung hiệu ứng vinh danh độc đáo cho người chơi bậc Cao Thủ. Sau khi đạt bậc Cao Thủ trong mùa này, cứ mỗi khi tăng thêm 10 sao sẽ mở khóa các hiệu ứng vinh danh chuyên biệt khác nhau Cao Thủ 10 sao, Cao Thủ 20 sao, Cao Thủ 30 sao, Cao Thủ 40 sao, Cao Thủ 50 sao. Đồng thời, trong mùa này, chúng tôi cũng bổ sung Dấu ấn truyền kỳ Chiến tướng và Dấu ấn truyền kỳ Chiến thần. Người chơi sẽ nhận được lần lượt khi đạt 50 sao và 100 sao trong mỗi mùa.",
-                "- Mùa giải mới, chúng tôi đã điều chỉnh cách hiển thị và xuất hiện của hệ thống Lực chiến trong luồng trải nghiệm chính của người chơi, giúp người chơi có thêm nhiều tình huống để vinh danh và thể hiện khi nhận được danh hiệu lực chiến hiếm đồng thời tăng cường hiển thị tiến độ Lực chiến của từng tướng sau trận đấu.",
-                "- Tại trang cá nhân, kênh chat, chọn tướng, phòng tổ đội và khi tổng kết trận, đã bổ sung các hiển thị liên quan đến Lực chiến tướng.",
-                "- Hiện tại, Kiện Tướng có thể hiển thị dữ liệu của tướng mình đã chọn trong giao diện chọn tướng. Điều này sẽ giúp các Kiện Tướng và đồng đội đưa ra lựa chọn chiến thuật chính xác hơn. Ngoài ra, bạn cũng có thể trực tiếp hiển thị những thành tích nổi bật từ các trận đấu trước cho đồng đội cùng xem để những chiến tích huy hoàng không còn bị lãng quên.",
-                "- Trong các trận đấu từ bậc Kim Cương trở xuống, giờ đây bạn có thể linh hoạt điều chỉnh hoặc đổi đường đã chọn, giúp giảm hiệu quả các trường hợp đội hình mất cân bằng do xung đột vị trí khi chọn tướng.",
-                "- Ở các trận đấu từ hạng Kim Cương trở lên, số lượng lượt cấm tướng sẽ được tăng từ 6 lên 10.",
-                "- Mỗi người chơi đều có quyền cấm tướng, cả 10 người sẽ thực hiện cấm cùng lúc.",
-                "- Người chơi có thể xem trực tiếp tướng mà cả hai đội đang cấm, không cấm trùng nhau",
-                "Tóm tắt: Số lượng cấm ở đấu hạng 5v5 sẽ tăng lên từ 3 lượt cấm mỗi bên lên 5 lượt cấm mỗi bên. Người chơi ở vị trí thứ nhất và thứ hai mỗi bên giờ cũng sẽ có lượt cấm",
-                "- Để giúp người chơi hiểu rõ hơn về trình độ trung bình của đội hiện tại cũng như tương quan thực lực giữa hai bên ghép trận, chúng tôi bổ sung tính năng hiển thị bậc hạng trung bình trong phòng tổ đội đồng thời hiển thị bậc hạng trung bình của hai đội Đỏ/Xanh ở giai đoạn tải trận.",
-                "- Để giúp bạn dễ dàng tìm được thiết lập đồ họa phù hợp nhất với mình, chúng tôi đã nâng cấp toàn diện phần cài đặt hình ảnh.",
-                "Bổ sung 2 mức đề xuất",
-                "Phần cài đặt hình ảnh nay cung cấp 2 mức đề xuất thông minh:",
-                "- Ưu tiên mượt mà – Độ mượt cao, tiêu hao thấp, giảm giật lag, khung hình ổn định hơn",
-                "- Ưu tiên chất lượng – Chất lượng hình ảnh cao, tiêu hao cao hơn, hình ảnh đẹp mắt hơn",
-                "Hệ thống sẽ tự động lựa chọn mức đề xuất phù hợp nhất dựa trên hiệu năng thiết bị của bạn, đồng thời hiển thị nhãn Đề xuất, giúp bạn chỉ cần một chạm là có thể tận hưởng trải nghiệm tối ưu.",
-                "Chế độ tùy chỉnh",
-                "Nếu muốn tự điều chỉnh chi tiết, bạn có thể chuyển sang chế độ Tùy chỉnh để tự do thiết lập các thông số sau:",
-                "- Chất lượng hình ảnh",
-                "- Chất lượng hiệu ứng",
-                "- Tốc độ khung hình",
-                "- Độ phân giải",
-                "Để giúp bạn quản lý tài nguyên trò chơi thuận tiện hơn, chúng tôi đã nâng cấp toàn diện tính năng tải xuống và dọn dẹp.",
-                "- Nâng cấp Trung tâm dọn dẹp",
-                "- Trung tâm dọn dẹp nay sẽ hiển thị rõ mức độ quan trọng của từng loại tài nguyên, giúp bạn nhanh chóng nhận biết và dọn dẹp các tài nguyên dư thừa theo nhu cầu.",
-                "- Tự động dọn dẹp",
-                "- Bổ sung tính năng tự động dọn dẹp. Mỗi tháng, hệ thống sẽ tự động dọn dẹp các chế độ giải trí không được sử dụng trong thời gian dài, hoặc các tài nguyên hiển thị của tướng/trang phục không nằm trong gói tải hiện tại và chưa sở hữu.",
-                "- Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào tại: Cài đặt → Gói dọn dẹp tài nguyên → Cài đặt dọn dẹp tài nguyên",
-                "- Nhắc nhở dọn dẹp",
-                "- Khi dung lượng lưu trữ trên thiết bị ở mức thấp, hệ thống sẽ tự động gửi nhắc nhở dọn dẹp để giúp bạn giải phóng không gian kịp thời.",
-                "- Nếu không muốn nhận nhắc nhở, bạn có thể tắt thủ công trong Cài đặt dọn dẹp.",
-                "- Trang chi tiết tướng nay sẽ hiển thị trực quan hơn dung lượng của từng tài nguyên mô hình tướng chưa được tải xuống.",
-                "- Bạn có thể trực tiếp tải riêng từng tài nguyên mô hình tại góc dưới bên phải của trang chi tiết, đồng thời theo dõi rõ ràng tiến độ tải xuống."
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "CÂN BẰNG TƯỚNG",
-          "is_gameplay_relevant": true,
-          "intro_lines": [],
-          "subsections": [
-            {
-              "heading": "Omega",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“Chúng tôi giảm nhẹ thời gian hồi chiêu của Omega đồng thời tăng khả năng sinh tồn. Hy vọng rằng khi kết hợp với hiệu ứng giảm hồi chiêu, cỗ máy chiến tranh này sẽ tung ra những chiêu thức ấn tượng hơn. “",
-                "Chỉnh cụ thể:",
-                "- Chiêu 1: Hồi chiêu 10s → 10s -0.4s/cấp chiêu",
-                "- Chiêu 1: Lá chắn 250 +125/cấp chiêu +10% máu tối đa → 400 +120/cấp chiêu +10% máu tối đa"
-              ]
-            },
-            {
-              "heading": "Flowborn",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“Sát thương của Pháp sư Flowborn vẫn còn cao. Chúng tôi sẽ tiếp tục giảm sát thương chiêu thức để giúp vị tướng này trở về mức hợp lý hơn.”",
-                "Chỉnh cụ thể:",
-                "- Chiêu 2 – Sát thương cơ bản: 275 +55/cấp chiêu +0.55 công phép (ST phép) → 240 +48/cấp chiêu +0.5 công phép (ST phép)",
-                "- Chiêu 3 – Sát thương cơ bản: 600 +300/cấp chiêu +1.2 công phép (ST phép) → 560 +280/cấp chiêu +1.1 công phép (ST phép)",
-                "- Chiêu 3 – Sát thương ban đầu: 280 +140/cấp chiêu +0.55 công phép (ST phép) → 230 +115/cấp chiêu +0.45 công phép (ST phép)"
-              ]
-            },
-            {
-              "heading": "Ignis",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“Sát thương chiêu cuối của Ignis khi được cường hóa và không được cường hóa chênh lệch quá nhỏ. Chúng tôi đã tăng sát thương chiêu cuối được cường hóa để khiến combo của vị thánh đồ lửa thiêng trở nên bùng nổ hơn.”",
-                "Chỉnh cụ thể:",
-                "- Chiêu 3 – Sát thương cường hóa: 800 +225/cấp chiêu +1.2 công phép (ST phép) → 800 +400/cấp chiêu +1.3 công phép (ST phép)"
-              ]
-            },
-            {
-              "heading": "Flowborn",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“Hiện tại, dạng Xạ thủ của Flowborn cũng đang hơi mạnh về mặt chỉ số. Do Chiêu 2 mang lại khả năng di chuyển linh hoạt nên chúng tôi sẽ giảm bớt sát thương để cân bằng sức mạnh của chiêu thức này. “",
-                "Chỉnh cụ thể:",
-                "- Chiêu 2 – Sát thương cơ bản: 620 +124/cấp chiêu +1.56 công vật lý cộng thêm (STVL) → 550 +110/cấp chiêu +1.35 công vật lý cộng thêm (STVL)"
-              ]
-            },
-            {
-              "heading": "Maloch",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“Sau nhiều phiên bản cập nhật, Maloch đã dần trở nên lép vế. Vì vậy, chúng tôi quyết định tăng sát thương cho vị đại tướng tiên phong của Vực Hỗn Mang để đưa hắn trở lại chiến trường. “",
-                "Chỉnh cụ thể:",
-                "- Chiêu 1 – Sát thương cơ bản: 650 +130/cấp chiêu +2.8 công vật lý cộng thêm (STVL) → 700 +140/cấp chiêu +3.0 công vật lý cộng thêm (STVL)"
-              ]
-            },
-            {
-              "heading": "Jinna",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“Sau khi cập nhật phiên bản mới, Jinna trở nên quá mạnh. Vì vậy, chúng tôi giảm một phần sát thương của vị tướng này. Tuy nhiên, do khả năng hồi phục đã được tăng đáng kể cho nên chúng tôi quyết định giảm tiếp hiệu ứng giảm sát thương Jinna phải chịu trong thời gian sử dụng chiêu cuối. “",
-                "Chỉnh cụ thể:",
-                "- Nội tại – Sát thương cơ bản: 280 +20/cấp tướng +0.7 công phép (ST phép) → 250 +18/cấp tướng +0.6 công phép (ST phép)",
-                "- Chiêu 1 – Sát thương cơ bản: 300 +60/cấp chiêu +0.5 công phép (ST phép) → 280 +56/cấp chiêu +0.45 công phép (ST phép)",
-                "- Chiêu 3 – Hiệu quả giảm sát thương cơ bản nhận vào: 25% → 15%"
-              ]
-            },
-            {
-              "heading": "Lindis",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“ Tiếp thu ý kiến từ người chơi, chúng tôi đã tăng khả năng cơ động cho Lindis để giúp cô ấy có thể linh hoạt băng qua chiến trường ngay cả ở những khu vực không có bụi cỏ. “",
-                "Chỉnh cụ thể:",
-                "- Chiêu cuối – Hồi chiêu: 12s -1s/cấp chiêu → 11s -1.5s/cấp chiêu"
-              ]
-            },
-            {
-              "heading": "Lữ Bố",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“ Dựa trên phản hồi của người chơi, chúng tôi đã tăng hiệu quả hồi máu của Lữ Bố trong thời gian sử dụng chiêu cuối. Hy vọng thay đổi này sẽ giúp chiến thần của Vương quốc Rồng thoát khỏi tình trạng lên đồ chống chịu thì thiếu sát thương còn lên đồ hồi phục thì lại không đủ sức uy hiếp. “",
-                "Chỉnh cụ thể:",
-                "- Chiêu cuối – Hồi phục: 120 +60/cấp chiêu +0.3 công vật lý (STVL) → 130 +65/cấp chiêu +0.35 công vật lý (STVL)"
-              ]
-            },
-            {
-              "heading": "TeeMee",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“ Chúng tôi đã tối ưu tổng thể Chiêu 1 của TeeMee và điều chỉnh cơ cấu tỷ lệ sát thương kèm tinh chỉnh nhẹ hệ số tụ lực để giúp vị tướng này phát huy tốt hơn trong những pha giao tranh khốc liệt. “",
-                "Chỉnh cụ thể:",
-                "- Chiêu 1 – Hồi chiêu: 6s → 5s",
-                "- Chiêu 1 – Sát thương cơ bản: 326 +100/cấp chiêu +0.84 công phép (ST phép) → 400 +80/cấp chiêu +0.9 công phép (ST phép)",
-                "- Chiêu 1 – Sát thương tối đa: 700 +200/cấp chiêu +1.8 công phép (ST phép) → 800 +160/cấp chiêu +1.8 công phép (ST phép)"
-              ]
-            },
-            {
-              "heading": "Zuka",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“ Zuka hiện hơi yếu ở giai đoạn đầu trận. Vì vậy, chúng tôi tăng sức mạnh và điều chỉnh cơ cấu để nâng cao chỉ số cơ bản nhằm giúp vị tướng này có sức uy hiếp lớn hơn trong giai đoạn đầu trận “",
-                "Chỉnh cụ thể:",
-                "- Chiêu 2 – Sát thương cơ bản: 100 +20/cấp chiêu +0.35 công vật lý (STVL) → 180 +36/cấp chiêu +0.50 công vật lý (STVL)",
-                "- Chiêu 2 – Lá chắn: 300 +60/cấp chiêu +2.0 công vật lý (STVL) → 350 +70/cấp chiêu +2.0 công vật lý (STVL)"
-              ]
-            },
-            {
-              "heading": "Valhein",
-              "lines": [
-                "Lý do chỉnh sửa:",
-                "“ Valhein đã vắng bóng một thời gian cho nên chúng tôi quyết định tăng sát thương nội tại của anh ta. Điều này sẽ giúp chiến binh Thợ săn quỷ tiếp tục phát huy trên chiến trường. “",
-                "Chỉnh cụ thể:",
-                "- Nội tại – Sát thương thêm phi tiêu đỏ: 80+16/cấp tướng +0.3 công vật lý STVL → 100+20/cấp tướng +0.37 công vật lý (STVL)",
-                "- Nội tại – Sát thương thêm phi tiêu xanh: 40+8/cấp tướng +0.15 công vật lý STVL → 50+10/cấp tướng +0.185 công vật lý (STVL)"
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "CHẾ ĐỘ GIẢI TRÍ",
-          "is_gameplay_relevant": true,
-          "intro_lines": [],
-          "subsections": [
-            {
-              "heading": "Hỗn chiến phù hiệu",
-              "lines": [
-                "Hỗn chiến phù hiệu đón nhận bản cập nhật hoàn toàn mới! Trong bản cập nhật lần này, hệ thống “Chúc Phúc ngẫu nhiên” đã được nâng cấp toàn diện, bổ sung hơn 30 Chúc Phúc hoàn toàn mới, đề xuất Chúc Phúc, liên kết lối chơi, mở khóa ngoài trận cùng nhiều cơ chế khác, giúp mỗi trận đấu đều có trải nghiệm chiến thuật hoàn toàn mới!！",
-                "Bổ sung hơn 30 Chúc Phúc hoàn toàn mới, chờ Kiện Tướng trải nghiệm!",
-                "Bản cập nhật lần này bổ sung tính năng đề xuất Chúc Phúc. Dựa trên tướng hiện tại Kiện Tướng đang sử dụng, hệ thống sẽ đánh dấu biểu tượng đề xuất trên các lựa chọn Chúc Phúc, giúp Kiện Tướng nhanh chóng tìm được Chúc Phúc thuộc lối chơi phù hợp nhất với tướng đó.",
-                "- Bổ sung cơ chế liên kết lối chơi mới — mỗi khi Kiện Tướng chọn 1 Chúc Phúc, xác suất xuất hiện các Chúc Phúc tiếp theo thuộc cùng lối chơi sẽ được tăng lên!",
-                "- Tính năng làm mới Chúc Phúc bổ sung thêm lựa chọn tiêu hao vàng và kim cương để làm mới thêm.",
-                "- Hệ thống Danh sách Chúc Phúc đón nhận nâng cấp toàn diện.",
-                "- Bổ sung hệ thống mở khóa Chúc Phúc mới — một số Chúc Phúc cần hoàn thành điều kiện chỉ định ngoài trận mới có thể mở khóa!"
-              ]
-            },
-            {
-              "heading": "Điều chỉnh cân bằng",
-              "lines": [
-                "Vũ điệu Quyết Biệt:",
-                "Khi bị hạ, cường hóa đồng đội xung quanh, tăng 100% tốc chạy, tăng 30% sát thương, kéo dài 4s → Khi bị hạ, cường hóa đồng đội xung quanh, tăng 100% tốc chạy, tăng 30% sát thương, cung cấp thêm cho đồng đội lá chắn bằng 500 + 10% máu tối đa cộng thêm, kéo dài 4s.",
-                "Vàng vung vãi:",
-                "Mỗi khi hạ đơn vị, nhận thêm 30 vàng → Khi đơn vị phe địch bị hạ, nhận thêm 30 vàng.",
-                "Kim Ngân",
-                "Nhận ngay 1000 vàng → Nhận ngay 1500 vàng, nhận thêm 1 vàng mỗi giây.",
-                "Dư âm phán quyết",
-                "Sau khi sử dụng phép bổ trợ, tung Bộc phá → Sau khi sử dụng phép bổ trợ, tung Bộc phá 2 lần. Sau khi Bộc phá hạ kẻ địch, giảm 90% thời gian hồi phép bổ trợ.",
-                "Phá thành",
-                "Sát thương gây lên công trình tăng gấp đôi → Sát thương gây lên công trình tăng gấp đôi. Khi gây sát thương lên công trình, có thể làm choáng công trình, kéo dài 3s. Mỗi công trình mất 15s hồi chiêu.",
-                "Lưỡi hái Phục hận",
-                "Khi chịu sát thương, có 20% xác suất tỷ lệ kích hoạt đao trảm tấn công kẻ địch xung quanh, gây sát thương chuẩn bằng 5% máu tối đa của bản thân → Khi chịu sát thương, có 25% xác suất tỷ lệ kích hoạt đao trảm tấn công kẻ địch xung quanh, gây sát thương chuẩn bằng 5% máu tối đa của bản thân.",
-                "Thánh thủy",
-                "Khi chịu khống chế cứng sẽ kích hoạt, tung Thanh tẩy, hồi chiêu 5s → Khi chịu khống chế cứng sẽ kích hoạt, tung Thanh tẩy và nhận lá chắn bằng 500 + 10% máu tối đa, hồi chiêu 5s.",
-                "Tái sinh pháp tắc",
-                "Giảm 70% thời gian hồi sinh → Giảm 70% thời gian hồi sinh. Sau khi hồi sinh, tăng 40% tốc chạy, giảm dần trong 5s.",
-                "Sóng Ngầm Trỗi Dậy",
-                "Khi gây sát thương sẽ tạo ra sóng ngầm, sau 1s gây hất tung phạm vi, hồi chiêu 7s → Khi gây sát thương sẽ tạo ra sóng ngầm, sau 1s gây hất tung phạm vi, hồi chiêu 6s.",
-                "Xung Năng Bảo Hộ",
-                "Khi chịu sát thương sẽ kích hoạt, tung Ngất ngư, làm chậm và làm choáng kẻ địch xung quanh, hồi chiêu 7s → Khi chịu sát thương sẽ kích hoạt, tung Ngất ngư, làm chậm và làm choáng kẻ địch xung quanh, hồi chiêu 6s.",
-                "Hư Không Hành Giả",
-                "Vĩnh viễn nhận khả năng bỏ qua địa hình, chuyển sang trạng thái bán trong suốt, tăng 20% miễn thương → Vĩnh viễn nhận khả năng bỏ qua địa hình, chuyển sang trạng thái bán trong suốt, tăng 15% miễn thương.",
-                "Cuồng huyết",
-                "Mỗi lần tham gia hạ tướng, vĩnh viễn nhận 5% tăng sát thương → Mỗi lần tham gia hạ tướng, vĩnh viễn nhận 3% tăng sát thương.",
-                "Chúc phúc Chuyển sinh",
-                "Mỗi 30s cường hóa bản thân 1 lần, tăng 10% công vật lý và công phép, tăng 10% máu tối đa, tăng 10% tốc chạy → Mỗi 30s cường hóa bản thân 1 lần, tăng 6% công vật lý và công phép, tăng 6% máu tối đa, tăng 6% tốc chạy."
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "SỬA LỖI",
-          "is_gameplay_relevant": true,
-          "intro_lines": [
-            "- Dyadia Sửa lỗi kích thước hiển thị số sát thương đánh thường bất thường.",
-            "- Azzen’Ka Sửa lỗi Chiêu 1 khiến hiệu ứng dịch chuyển từ chiêu cuối của Rouie hoạt động bất thường.",
-            "- Bonnie Sửa lỗi biểu hiện di chuyển bất thường sau khi biến về.",
-            "- Ming Sửa lỗi chiêu cuối vẫn bị cấm dùng khi đang nối với kẻ địch/đồng đội.",
-            "- Wiro Sửa lỗi dùng chiêu 2 rồi lập tức dùng chiêu cuối nhưng không thể tung chiêu cuối bình thường.",
-            "- Iggy Sửa lỗi liên tục tung chiêu 1 sẽ xuất hiện tình trạng không thể tung chiêu.",
-            "- Dolia Sửa lỗi biểu hiện động tác bất thường sau khi biến về.",
-            "- Dolia Sửa lỗi làm mới kỹ năng cho tướng sử dụng năng lượng nhưng kỹ năng được làm mới vẫn tiêu hao năng lượng.",
-            "- Max Sửa lỗi hiệu ứng khóa mục tiêu kẻ địch bằng chiêu cuối hiển thị bất thường trong thiết lập chất lượng hình ảnh thấp.",
-            "- Flowborn Sửa lỗi lời thoại thông báo hiển thị bất thường.",
-            "- Dyadia Sửa lỗi dịch chuyển về phía Aya đang nhập thân khiến độ cao hiển thị bất thường.",
-            "- Flowborn Xạ Thủ Sửa lỗi nhận nhiều tầng Năng lượng Dòng Chảy cùng lúc sau khi sử dụng kỹ năng khiến biểu tượng buff biến mất.",
-            "- Flowborn Sửa lỗi hiển thị bất thường trong chế độ Ban/Pick.",
-            "- Allain Sửa lỗi chiêu cuối khi sử dụng lên mục tiêu đang trên không khiến vị trí đáp xuống bất thường.",
-            "- 1v1 Sửa lỗi hiệu ứng hồi phục từ gói máu của phe Xanh hoạt động bất thường.",
-            "- Azzen’Ka Sửa lỗi Chiêu 1 khi đặt tại trung tâm chiêu cuối của Rouie có thể chặn hiệu ứng dịch chuyển.",
-            "- Amily Sửa lỗi hoạt ảnh bị giật khi Chiêu 2 sắp kết thúc.",
-            "- Amily Sửa lỗi sử dụng Chiêu 2 sau khi kích hoạt chiêu cuối khiến đòn đánh thường cường hóa gây gấp đôi sát thương.",
-            "- Dolia Sửa lỗi đôi khi xuất hiện hiện tượng trượt chân khi di chuyển sau khi biến về.",
-            "- Dolia Sửa lỗi biểu hiện biến về bất thường của trạng thái nhân ngư trong trang phục Nhật ký tình yêu."
-          ],
-          "subsections": []
-        }
-      ],
-      "gameplay_section_count": 7
     }
   ]
 }

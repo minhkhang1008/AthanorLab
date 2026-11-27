@@ -1,8 +1,8 @@
 # AthanorLab Data Manifest (Single Source of Truth)
 
 - **Official Source:** `https://lienquan.garena.vn/hoc-vien/` & `/cap-nhat/`
-- **Last Synced (UTC):** `2026-11-23T10:28:51.405537+00:00`
-- **Latest Balance Patch:** ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026 (`16.11.2026`)
+- **Last Synced (UTC):** `2026-11-27T11:50:36.714381+00:00`
+- **Latest Balance Patch:** ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 26.11.2026 (`25.11.2026`)
 - **Dataset Counts:** 130 heroes | 112 items (53 Tier 3) | 28 Tier-3 arcana | 9 talents | 4 enchantment factions (31 skills) | 10 balance patches
 - **Enrichment Status:** 17/130 curated hero tactical profiles | 130 in-game screenshot stat profiles
 

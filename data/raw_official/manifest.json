@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:28:51.405537+00:00",
+  "generated_at": "2026-11-27T11:50:36.714381+00:00",
   "status": "passed",
   "stats": {
     "heroes": 130,
@@ -11,8 +11,8 @@
     "enchantment_factions": 4,
     "enchantment_skills": 31,
     "patches": 10,
-    "latest_patch": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026",
-    "latest_patch_date": "16.11.2026"
+    "latest_patch": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 26.11.2026",
+    "latest_patch_date": "25.11.2026"
   },
   "checksums": {
     "heroes.json": "dbd2f6c5afb1a93aa6c5fbca07a1fec7e1bf605b4b1dad5c5a1ce9e2fc1b1703",
@@ -20,7 +20,7 @@
     "arcana.json": "00e26531158672abde4af60fe02a597f57b998f3e2360bcd12ab0afa2649ba8a",
     "talents.json": "9cc20538b5a67a02c73c28c8d345161aa9fb6cf31978af57fe6c69bed84ffefe",
     "enchantments.json": "1be27f40b3bcada366c738d792bf641e8487960d47aa67238aea9f6f48a05a1c",
-    "patches.json": "9b30ed28b169f17f6b08141e45655e34a1a3c898abcd8ed006171b05d29e6143"
+    "patches.json": "55703e7be1c76da78fe40eef606a6c979b8ef5f4238d6e83ad254c1d094dfbb8"
   },
   "error_count": 0,
   "warning_count": 3,
